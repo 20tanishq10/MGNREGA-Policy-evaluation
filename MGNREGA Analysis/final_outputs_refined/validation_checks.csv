@@ -1,0 +1,8 @@
+check,value,pass
+max_pairwise_corr,0.8316746819930866,1
+std_shock,0.07907030899004734,1
+std_distribution,0.2042012359266616,1
+std_income,0.1400412174852946,1
+std_distortion,0.10925975764381773,1
+std_structural_persistence,0.1631224725570104,1
+mean_abs_equal_weighted_gap,0.017698515546832015,1

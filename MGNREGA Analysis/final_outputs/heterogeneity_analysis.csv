@@ -1,0 +1,9 @@
+period,group,composite_equal,composite_weighted,split_type
+Post-COVID,High Rainfall,0.470380093861119,0.4652047947685846,rainfall_group
+Post-COVID,Low Rainfall,0.47873228849120625,0.47503579752431574,rainfall_group
+Pre-COVID,High Rainfall,0.476699066984597,0.4749276650532275,rainfall_group
+Pre-COVID,Low Rainfall,0.4782216451356265,0.4745491995503518,rainfall_group
+Post-COVID,High Income,0.4764365823327325,0.47204412769299364,income_group
+Post-COVID,Low Income,0.4711982004437127,0.46650103590507297,income_group
+Pre-COVID,High Income,0.47719448346210463,0.4745685140757181,income_group
+Pre-COVID,Low Income,0.47754893351691396,0.4749881189448206,income_group

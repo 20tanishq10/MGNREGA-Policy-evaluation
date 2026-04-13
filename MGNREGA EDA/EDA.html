@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MGNREGA Policy Research Report (EDA Summary)</title>
+  <style>
+    :root {
+      --paper: #ffffff;
+      --ink: #1d1d1d;
+      --muted: #5f5f5f;
+      --rule: #cfcfcf;
+      --accent: #1f3f68;
+      --table-head: #f2f4f7;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+      background: #ececec;
+      color: var(--ink);
+      font-family: "Times New Roman", Times, Georgia, serif;
+      line-height: 1.45;
+    }
+
+    .page {
+      width: min(980px, 96vw);
+      margin: 1.4rem auto;
+      background: var(--paper);
+      border: 1px solid #dadada;
+      padding: 2.1rem 2.3rem;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      margin: 0;
+      font-family: Cambria, Georgia, "Times New Roman", serif;
+      color: #111;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      text-align: center;
+      letter-spacing: 0.01em;
+    }
+
+    h2 {
+      font-size: 1.1rem;
+      margin-top: 1.1rem;
+      padding-bottom: 0.2rem;
+      border-bottom: 1px solid var(--rule);
+      color: var(--accent);
+    }
+
+    h3 {
+      font-size: 1rem;
+      margin-top: 0.65rem;
+    }
+
+    .meta {
+      margin-top: 0.5rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .authors {
+      margin-top: 0.35rem;
+      text-align: center;
+      font-size: 0.94rem;
+    }
+
+    .keywords {
+      font-size: 0.92rem;
+      margin-top: 0.65rem;
+      color: #333;
+    }
+
+    p {
+      margin: 0.5rem 0;
+      font-size: 1rem;
+      text-align: justify;
+    }
+
+    .twocol {
+      column-count: 2;
+      column-gap: 2rem;
+      margin-top: 0.5rem;
+    }
+
+    .twocol p {
+      margin-top: 0;
+    }
+
+    .summary-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 0.7rem;
+      font-size: 0.95rem;
+    }
+
+    .summary-table th,
+    .summary-table td {
+      border: 1px solid var(--rule);
+      padding: 0.45rem 0.5rem;
+      vertical-align: top;
+    }
+
+    .summary-table th {
+      background: var(--table-head);
+      text-align: left;
+    }
+
+    .notes {
+      margin-top: 0.65rem;
+      padding: 0.7rem;
+      border: 1px solid #d7d7d7;
+      background: #fafafa;
+      font-size: 0.92rem;
+    }
+
+    .notes ul {
+      margin: 0.4rem 0 0.2rem 1.1rem;
+      padding: 0;
+    }
+
+    .notes li {
+      margin: 0.22rem 0;
+    }
+
+    .figures {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      margin-top: 0.7rem;
+    }
+
+    figure {
+      margin: 0;
+      border: 1px solid #d8d8d8;
+      padding: 0.6rem;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    figure img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border: 1px solid #e3e3e3;
+      background: #f8f8f8;
+    }
+
+    figcaption {
+      margin-top: 0.45rem;
+      font-size: 0.91rem;
+      color: #333;
+    }
+
+    .section-break {
+      border-top: 1px solid var(--rule);
+      margin-top: 1rem;
+      padding-top: 0.55rem;
+    }
+
+    .footer {
+      margin-top: 1rem;
+      border-top: 1px solid var(--rule);
+      padding-top: 0.6rem;
+      font-size: 0.86rem;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    #lightbox {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.75);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 99;
+      padding: 1rem;
+    }
+
+    #lightbox.show {
+      display: flex;
+    }
+
+    #lightbox img {
+      max-width: min(1280px, 98vw);
+      max-height: 95vh;
+      border: 2px solid #f1f1f1;
+      background: #ffffff;
+    }
+
+    @media (max-width: 900px) {
+      .twocol {
+        column-count: 1;
+      }
+
+      .page {
+        padding: 1.2rem 1rem;
+      }
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      .page {
+        width: 100%;
+        margin: 0;
+        box-shadow: none;
+        border: 0;
+        padding: 0;
+      }
+
+      #lightbox {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>MGNREGA Policy Analysis: Exploratory Data Review (2014-2024)</h1>
+      <p class="authors">Prepared from district-level panel data and program indicators</p>
+      <p class="meta">Coverage: 21 States | 293 Districts | 3,223 observations | Study period: 2014-2024</p>
+      <p class="keywords"><strong>Keywords:</strong> MGNREGA, rural employment, public policy, social protection, fiscal incidence, COVID shock</p>
+    </header>
+
+    <section>
+      <h2>Abstract</h2>
+      <p>
+        This report summarizes an exploratory data analysis of MGNREGA implementation outcomes over 2014-2024.
+        The evidence indicates substantial program scale, high employment demand fulfillment, and strong SC/ST inclusion after subgroup validation.
+        During the COVID period, labor demand and expenditure increased materially, consistent with a counter-cyclical stabilization role.
+        However, household-level completion of the statutory 100-day entitlement remains low, suggesting partial rather than full employment insurance.
+      </p>
+    </section>
+
+    <section>
+      <h2>Data and Methodological Notes</h2>
+      <div class="twocol">
+        <p>
+          The source panel includes yearly district observations spanning program demand, availed employment,
+          person-days, wages, expenditure, social composition, and selected socio-economic indicators.
+          Core indicators were aggregated at annual and state levels for trend and cross-sectional comparisons.
+        </p>
+        <p>
+          Data-quality controls were embedded in preprocessing. First, SC and ST counts were capped at persons employed when subgroup totals exceeded totals.
+          Second, expenditure was converted from lakh rupees to rupees for financial comparability.
+          Third, the women employment field was retained as a proxy metric with explicit caution due to near-duplication with employment availed.
+        </p>
+      </div>
+      <div class="notes">
+        <strong>Important reliability caveats</strong>
+        <ul>
+          <li>Women employment series is a proxy in this dataset and should be triangulated with external gender-disaggregated records.</li>
+          <li>Financial interpretation must use corrected rupee conversion from the expenditure column.</li>
+          <li>SC/ST shares should rely on validated subgroup totals where inconsistencies occur.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Key Summary Findings</h2>
+      <table class="summary-table" aria-label="Key findings summary table">
+        <thead>
+          <tr>
+            <th>Dimension</th>
+            <th>Main finding</th>
+            <th>Policy implication</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Scale and reach</td>
+            <td>Large cumulative employment with broad district coverage over 11 years.</td>
+            <td>MGNREGA remains a foundational pillar of rural labor support.</td>
+          </tr>
+          <tr>
+            <td>COVID shock response</td>
+            <td>Demand and expenditure rose during 2020-2021 relative to pre-COVID years.</td>
+            <td>Program exhibits automatic stabilizer characteristics during shocks.</td>
+          </tr>
+          <tr>
+            <td>Inclusion</td>
+            <td>Validated SC/ST participation remains high after subgroup correction.</td>
+            <td>Maintain social-targeting gains with stronger quality-of-work indicators.</td>
+          </tr>
+          <tr>
+            <td>Employment security</td>
+            <td>100-day completion rates are persistently low.</td>
+            <td>Improve project continuity and seasonal work planning.</td>
+          </tr>
+          <tr>
+            <td>Fiscal interpretation</td>
+            <td>Expenditure unit correction materially changes magnitude estimates.</td>
+            <td>Institutionalize unit checks in routine monitoring pipelines.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Figures and Captions</h2>
+      <div class="figures" id="figure-gallery">
+        <figure data-src="01_Temporal_Trends.png">
+          <img src="01_Temporal_Trends.png" alt="Figure 1: Temporal trends" loading="lazy" />
+          <figcaption><strong>Figure 1.</strong> Temporal trends in employment demand, availed employment, fulfillment, women proxy series, and wages.</figcaption>
+        </figure>
+        <figure data-src="02_Geographic_Analysis.png">
+          <img src="02_Geographic_Analysis.png" alt="Figure 2: Geographic analysis" loading="lazy" />
+          <figcaption><strong>Figure 2.</strong> State-level distribution of employment provision, fulfillment, women proxy, and SC/ST inclusion.</figcaption>
+        </figure>
+        <figure data-src="03_Employment_Quality_Inclusivity.png">
+          <img src="03_Employment_Quality_Inclusivity.png" alt="Figure 3: Employment quality" loading="lazy" />
+          <figcaption><strong>Figure 3.</strong> Employment quality and inclusivity indicators, including completion rates and validated social shares.</figcaption>
+        </figure>
+        <figure data-src="04_Financial_Analysis.png">
+          <img src="04_Financial_Analysis.png" alt="Figure 4: Financial analysis" loading="lazy" />
+          <figcaption><strong>Figure 4.</strong> Expenditure trajectory, wages, and derived cost metrics with rupee-standardized values.</figcaption>
+        </figure>
+        <figure data-src="05_Social_Indicators_Impact.png">
+          <img src="05_Social_Indicators_Impact.png" alt="Figure 5: Social indicators" loading="lazy" />
+          <figcaption><strong>Figure 5.</strong> MPI transitions, income trends, agriculture linkage, and asset index movement.</figcaption>
+        </figure>
+        <figure data-src="06_Correlation_Analysis.png">
+          <img src="06_Correlation_Analysis.png" alt="Figure 6: Correlation analysis" loading="lazy" />
+          <figcaption><strong>Figure 6.</strong> Correlation structure and district-level dispersion in employment outcomes.</figcaption>
+        </figure>
+        <figure data-src="07_Comprehensive_Dashboard.png">
+          <img src="07_Comprehensive_Dashboard.png" alt="Figure 7: Comprehensive dashboard" loading="lazy" />
+          <figcaption><strong>Figure 7.</strong> Consolidated dashboard of headline indicators for policy communication.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section-break">
+      <h2>Policy-Oriented Conclusion</h2>
+      <p>
+        The analysis supports three broad policy inferences: first, MGNREGA functions as a meaningful rural shock absorber;
+        second, inclusion outcomes are substantial but must be interpreted through validated subgroup accounting;
+        third, future design should prioritize completion depth and data-governance quality to strengthen inferential reliability.
+      </p>
+      <p>
+        For academic and administrative use, this document should be read alongside the notebook outputs and data-audit notes.
+        Clicking any figure opens a full-size view for close inspection.
+      </p>
+    </section>
+
+    <p class="footer">Document generated from local notebook outputs in this project directory.</p>
+  </main>
+
+  <div id="lightbox" aria-hidden="true">
+    <img id="lightbox-img" alt="Expanded figure" />
+  </div>
+
+  <script>
+    const figures = document.querySelectorAll("#figure-gallery figure");
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImage = document.getElementById("lightbox-img");
+
+    figures.forEach((figure) => {
+      figure.addEventListener("click", () => {
+        lightboxImage.src = figure.dataset.src;
+        lightbox.classList.add("show");
+        lightbox.setAttribute("aria-hidden", "false");
+      });
+    });
+
+    lightbox.addEventListener("click", () => {
+      lightbox.classList.remove("show");
+      lightbox.setAttribute("aria-hidden", "true");
+      lightboxImage.src = "";
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && lightbox.classList.contains("show")) {
+        lightbox.classList.remove("show");
+        lightbox.setAttribute("aria-hidden", "true");
+        lightboxImage.src = "";
+      }
+    });
+  </script>
+</body>
+</html>

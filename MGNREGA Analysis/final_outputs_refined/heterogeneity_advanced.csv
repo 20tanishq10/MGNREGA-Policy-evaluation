@@ -1,0 +1,6 @@
+group,index_equal_rescaled,index_weighted_rescaled,split
+Higher Income,0.48931797909520997,0.5061068228618848,income_group
+Low Income (Bottom 30%),0.4927482146130502,0.5096455970974877,income_group
+High Shock (Top 30%),0.4920690905770445,0.5092739191715872,shock_group
+Lower Shock,0.4892378009847502,0.5058577054658836,shock_group
+mgnrega_x_low_income,-1123.582556587326,0.002963965284965861,interaction_regression
