@@ -1,0 +1,8 @@
+# Large Datasets
+Asset Ownership/Aspirational.csv
+Income/Income.csv
+
+# Standard git ignores
+*.log
+.DS_Store
+Thumbs.db

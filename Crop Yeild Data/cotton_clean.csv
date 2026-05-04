@@ -1,0 +1,2876 @@
+State,District,Year,cotton_area,cotton_production,cotton_yield
+Andhra Pradesh,Alluri sitharama raju,2022-2023,"2,682.00","7,614.00",2.84
+Andhra Pradesh,Anakapalli,2022-2023,82,230,2.8
+Andhra Pradesh,Anantapur,2013-2014,"37,661.0062","77,316.00127",4.1
+Andhra Pradesh,Anantapur,2014-2015,"73,734.00884","1,03,779.001,244.00",2.82
+Andhra Pradesh,Anantapur,2015-2016,"60,154.00633","1,00,071.001,053.00",3.32
+Andhra Pradesh,Anantapur,2016-2017,"31,691.00108","25,977.0088",1.63
+Andhra Pradesh,Anantapur,2017-2018,"45,438.00114","1,28,798.00322",5.65
+Andhra Pradesh,Anantapur,2018-2019,"47,976.00139","66,591.00192",2.77
+Andhra Pradesh,Anantapur,2019-2020,"51,850.00113","15,523.00199",2.06
+Andhra Pradesh,Anantapur,2020-2021,"40,424.00211","35,183.00183",1.74
+Andhra Pradesh,Anantapur,2021-2022,"42,806.00566","33,668.00445",1.58
+Andhra Pradesh,Anantapur,2022-2023,"77,804.001,256.00","87,643.002,298.00",2.96
+Andhra Pradesh,Annamayya,2022-2023,50124,92226,3.66
+Andhra Pradesh,Bapatla,2022-2023,"4,598.00182","9,745.00511",4.93
+Andhra Pradesh,Chittoor,2013-2014,157194,391483,4.98
+Andhra Pradesh,Chittoor,2014-2015,308545,"7231,278.00",4.69
+Andhra Pradesh,Chittoor,2015-2016,435707,"7611,239.00",3.5
+Andhra Pradesh,Chittoor,2016-2017,517259,"1,311.00395",4.07
+Andhra Pradesh,Chittoor,2017-2018,328169,877451,5.34
+Andhra Pradesh,Chittoor,2018-2019,17794,218117,2.47
+Andhra Pradesh,Chittoor,2019-2020,15779,82244,3.61
+Andhra Pradesh,Chittoor,2020-2021,2865,78179,5.54
+Andhra Pradesh,Chittoor,2021-2022,5194,89165,3.51
+Andhra Pradesh,Chittoor,2022-2023,265,4710,3.81
+Andhra Pradesh,East godavari,2013-2014,"21,781.00","24,728.00",1.14
+Andhra Pradesh,East godavari,2014-2015,"22,433.00","47,597.00",2.12
+Andhra Pradesh,East godavari,2015-2016,"20,565.00","60,153.00",2.93
+Andhra Pradesh,East godavari,2016-2017,"12,743.00","33,744.00",2.65
+Andhra Pradesh,East godavari,2017-2018,"16,364.00","35,740.00",2.18
+Andhra Pradesh,East godavari,2018-2019,"11,933.00","31,637.00",2.65
+Andhra Pradesh,East godavari,2019-2020,"12,896.00","6,617.00",0.51
+Andhra Pradesh,East godavari,2020-2021,"6,962.00","15,995.00",2.3
+Andhra Pradesh,East godavari,2021-2022,"5,023.00","18,529.00",3.69
+Andhra Pradesh,East godavari,2022-2023,198,556,2.81
+Andhra Pradesh,Eluru,2022-2023,"3,786.001","11,402.002",5.01
+Andhra Pradesh,Guntur,2013-2014,"1,93,207.00","7,52,371.00",3.89
+Andhra Pradesh,Guntur,2014-2015,"2,06,374.0022","10,75,856.00115",10.44
+Andhra Pradesh,Guntur,2015-2016,"1,98,220.0079","7,68,744.00306",7.75
+Andhra Pradesh,Guntur,2016-2017,"1,41,856.008","6,54,201.0037",9.24
+Andhra Pradesh,Guntur,2017-2018,"1,83,735.00","8,02,213.00",4.37
+Andhra Pradesh,Guntur,2018-2019,"1,76,679.0016","7,43,399.0067",8.4
+Andhra Pradesh,Guntur,2019-2020,"1,82,408.0011","1,67,541.0059",6.28
+Andhra Pradesh,Guntur,2020-2021,"1,62,789.006","4,58,324.0018",5.82
+Andhra Pradesh,Guntur,2021-2022,"1,09,585.00","3,83,294.00",3.5
+Andhra Pradesh,Guntur,2022-2023,"27,843.00","90,425.00",3.25
+Andhra Pradesh,Kadapa,2013-2014,"34,119.001,803.00","50,175.002,651.00",2.94
+Andhra Pradesh,Kadapa,2014-2015,"34,346.001,246.00","57,550.002,088.00",3.36
+Andhra Pradesh,Kadapa,2015-2016,"32,753.00756","46,665.001,078.00",2.85
+Andhra Pradesh,Kadapa,2016-2017,"18,840.00560","17,430.00517",1.85
+Andhra Pradesh,Kadapa,2017-2018,"24,449.00354","17,720.00256",1.44
+Andhra Pradesh,Kadapa,2018-2019,"10,940.00677","22,268.001,378.00",4.08
+Andhra Pradesh,Kadapa,2019-2020,"13,410.001,132.00","9,576.004,755.00",4.91
+Andhra Pradesh,Kadapa,2020-2021,"15,227.001,321.00","15,625.001,355.00",2.06
+Andhra Pradesh,Kadapa,2021-2022,"22,496.006,647.00","41,421.0012,239.00",3.68
+Andhra Pradesh,Kadapa,2022-2023,"46,263.003,461.00","34,651.006,334.00",2.58
+Andhra Pradesh,Kakinada,2022-2023,"2,064.00","7,502.00",3.63
+Andhra Pradesh,Krishna,2013-2014,"59,304.00","2,24,658.00",3.79
+Andhra Pradesh,Krishna,2014-2015,"55,571.00","2,61,650.00",4.71
+Andhra Pradesh,Krishna,2015-2016,"52,784.00","2,00,829.00",3.8
+Andhra Pradesh,Krishna,2016-2017,"37,312.00","1,59,453.00",4.27
+Andhra Pradesh,Krishna,2017-2018,"48,357.00","1,95,830.00",4.05
+Andhra Pradesh,Krishna,2018-2019,"47,109.00","1,74,431.00",3.7
+Andhra Pradesh,Krishna,2019-2020,"48,423.00","37,671.00",0.78
+Andhra Pradesh,Krishna,2020-2021,"47,851.00","1,11,337.00",2.33
+Andhra Pradesh,Krishna,2021-2022,"36,172.00","1,37,397.00",3.8
+Andhra Pradesh,Krishna,2022-2023,320,900,2.81
+Andhra Pradesh,Kurnool,2013-2014,"2,03,835.00179","6,79,850.00597",6.68
+Andhra Pradesh,Kurnool,2014-2015,"3,06,058.002","8,09,620.006",5.65
+Andhra Pradesh,Kurnool,2015-2016,"2,00,123.007","3,66,412.0012",3.54
+Andhra Pradesh,Kurnool,2016-2017,"1,76,195.00","5,31,777.00",3.02
+Andhra Pradesh,Kurnool,2017-2018,"2,59,225.00","7,33,779.00",2.83
+Andhra Pradesh,Kurnool,2018-2019,"2,59,498.00","3,04,183.00",1.17
+Andhra Pradesh,Kurnool,2019-2020,"2,74,620.00","1,53,618.00",0.56
+Andhra Pradesh,Kurnool,2020-2021,"2,75,798.003","8,62,950.0010",6.46
+Andhra Pradesh,Kurnool,2021-2022,"2,66,365.006","5,08,867.0012",3.91
+Andhra Pradesh,Kurnool,2022-2023,"2,72,560.00","6,15,123.00",2.26
+Andhra Pradesh,Nandyal,2022-2023,"33,223.0016","56,952.0029",3.52
+Andhra Pradesh,Ntr,2022-2023,"39,208.003","1,31,034.008",6.01
+Andhra Pradesh,Palnadu,2022-2023,"1,04,942.008","3,17,708.0022",5.779999999999999
+Andhra Pradesh,Parvathipuram manyam,2022-2023,"8,845.00","27,229.00",3.08
+Andhra Pradesh,Prakasam,2013-2014,"82,988.001,352.00","2,76,301.004,501.00",6.66
+Andhra Pradesh,Prakasam,2014-2015,"71,520.00651","2,52,407.002,298.00",7.06
+Andhra Pradesh,Prakasam,2015-2016,"58,025.00214","1,63,447.00602",5.63
+Andhra Pradesh,Prakasam,2016-2017,"14,105.001,671.00","43,441.005,151.00",6.16
+Andhra Pradesh,Prakasam,2017-2018,"35,076.00496","84,281.001,192.00",4.8
+Andhra Pradesh,Prakasam,2018-2019,"38,467.00255","77,234.00513",4.02
+Andhra Pradesh,Prakasam,2019-2020,"45,376.001,114.00","22,296.003,219.00",3.38
+Andhra Pradesh,Prakasam,2020-2021,"32,175.00808","44,541.001,118.00",2.76
+Andhra Pradesh,Prakasam,2021-2022,"32,341.009,008.00","62,180.0017,320.00",3.84
+Andhra Pradesh,Prakasam,2022-2023,"46,588.002,483.00","79,038.006,985.00",4.51
+Andhra Pradesh,Spsr nellore,2013-2014,"5,220.001,565.00","13,081.003,922.00",5.02
+Andhra Pradesh,Spsr nellore,2014-2015,"6,615.002,872.00","20,463.008,885.00",6.18
+Andhra Pradesh,Spsr nellore,2015-2016,"4,617.00998","10,969.002,372.00",4.76
+Andhra Pradesh,Spsr nellore,2016-2017,"2,124.005,484.00","5,169.0013,355.00",4.87
+Andhra Pradesh,Spsr nellore,2017-2018,"3,863.00964","7,591.001,895.00",3.94
+Andhra Pradesh,Spsr nellore,2018-2019,"7912,223.00","2,097.005,895.00",5.3
+Andhra Pradesh,Spsr nellore,2019-2020,"1,012.001,025.00","4352,590.00",2.96
+Andhra Pradesh,Spsr nellore,2020-2021,"2,748.00620","7,539.001,702.00",5.49
+Andhra Pradesh,Spsr nellore,2021-2022,"1,936.004,779.00","5,741.0014,172.00",5.94
+Andhra Pradesh,Spsr nellore,2022-2023,"5,207.0010,449.00","9,765.0029,396.00",4.69
+Andhra Pradesh,Sri sathya sai,2022-2023,"5,978.0076","3,397.00140",2.41
+Andhra Pradesh,Srikakulam,2013-2014,"9,846.00","28,843.00",2.93
+Andhra Pradesh,Srikakulam,2014-2015,"9,563.00","42,122.00",4.4
+Andhra Pradesh,Srikakulam,2015-2016,"8,883.00","28,105.00",3.16
+Andhra Pradesh,Srikakulam,2016-2017,"7,155.00","24,143.00",3.37
+Andhra Pradesh,Srikakulam,2017-2018,"7,478.00","27,390.00",3.66
+Andhra Pradesh,Srikakulam,2018-2019,"5,488.00","16,246.00",2.96
+Andhra Pradesh,Srikakulam,2019-2020,"5,712.00","3,016.00",0.53
+Andhra Pradesh,Srikakulam,2020-2021,"3,723.00","13,491.00",3.62
+Andhra Pradesh,Srikakulam,2021-2022,"3,457.00","9,619.00",2.78
+Andhra Pradesh,Srikakulam,2022-2023,"1,381.00","3,454.00",2.5
+Andhra Pradesh,Tirupati,2022-2023,11271,204130,3.65
+Andhra Pradesh,Visakhapatanam,2013-2014,"2,798.00","8,196.00",2.93
+Andhra Pradesh,Visakhapatanam,2014-2015,"2,840.00","12,510.00",4.4
+Andhra Pradesh,Visakhapatanam,2015-2016,"2,123.00","3,609.00",1.7
+Andhra Pradesh,Visakhapatanam,2016-2017,"1,652.00","1,950.00",1.18
+Andhra Pradesh,Visakhapatanam,2017-2018,"1,474.00","2,000.00",1.36
+Andhra Pradesh,Visakhapatanam,2018-2019,"1,092.00","1,632.00",1.49
+Andhra Pradesh,Visakhapatanam,2019-2020,976,396,0.41
+Andhra Pradesh,Visakhapatanam,2020-2021,810,660,0.81
+Andhra Pradesh,Visakhapatanam,2021-2022,274,315,1.15
+Andhra Pradesh,Vizianagaram,2013-2014,"15,303.00","26,735.00",1.75
+Andhra Pradesh,Vizianagaram,2014-2015,"15,698.00","37,286.00",2.38
+Andhra Pradesh,Vizianagaram,2015-2016,"15,597.00","33,141.00",2.12
+Andhra Pradesh,Vizianagaram,2016-2017,"14,632.002","31,148.004",4.13
+Andhra Pradesh,Vizianagaram,2017-2018,"13,630.00","33,550.00",2.46
+Andhra Pradesh,Vizianagaram,2018-2019,"11,485.00","26,016.00",2.27
+Andhra Pradesh,Vizianagaram,2019-2020,"12,257.00","5,430.00",0.44
+Andhra Pradesh,Vizianagaram,2020-2021,"10,070.00","21,451.00",2.13
+Andhra Pradesh,Vizianagaram,2021-2022,"9,228.00","19,279.00",2.09
+Andhra Pradesh,Vizianagaram,2022-2023,"2,039.00","5,892.00",2.89
+Andhra Pradesh,West godavari,2013-2014,"5,240.00","13,038.00",2.49
+Andhra Pradesh,West godavari,2014-2015,"9,795.00","13,807.00",1.41
+Andhra Pradesh,West godavari,2015-2016,"8,392.00","27,715.00",3.3
+Andhra Pradesh,West godavari,2016-2017,"4,615.00","14,782.00",3.2
+Andhra Pradesh,West godavari,2017-2018,"4,525.00","13,985.00",3.09
+Andhra Pradesh,West godavari,2018-2019,"5,235.00","16,989.00",3.25
+Andhra Pradesh,West godavari,2019-2020,"4,856.00","2,285.00",0.47
+Andhra Pradesh,West godavari,2020-2021,"4,770.00","7,792.00",1.63
+Andhra Pradesh,West godavari,2021-2022,"2,929.00","8,184.00",2.79
+Assam,Baksa,2013-2014,10,4,0.4
+Assam,Baksa,2014-2015,11,5,0.45
+Assam,Baksa,2015-2016,9,4,0.44
+Assam,Baksa,2016-2017,10,4,0.4
+Assam,Baksa,2017-2018,10,4,0.4
+Assam,Baksa,2018-2019,9,4,0.44
+Assam,Baksa,2019-2020,9,4,0.44
+Assam,Baksa,2020-2021,5,2,0.4
+Assam,Baksa,2021-2022,5,2,0.4
+Assam,Baksa,2022-2023,3,1,0.33
+Assam,Barpeta,2013-2014,8,4,0.5
+Assam,Barpeta,2014-2015,5,3,0.6
+Assam,Barpeta,2015-2016,4,2,0.5
+Assam,Barpeta,2016-2017,2,2,1.0
+Assam,Barpeta,2017-2018,2,2,1.0
+Assam,Barpeta,2018-2019,2,2,1.0
+Assam,Barpeta,2019-2020,2,2,1.0
+Assam,Barpeta,2020-2021,1,1,1.0
+Assam,Biswanath,2020-2021,2,1,0.5
+Assam,Biswanath,2021-2022,14,5,0.36
+Assam,Biswanath,2022-2023,14,4,0.29
+Assam,Bongaigaon,2013-2014,3,1,0.33
+Assam,Bongaigaon,2014-2015,2,1,0.5
+Assam,Cachar,2013-2014,94,34,0.36
+Assam,Cachar,2014-2015,96,35,0.36
+Assam,Cachar,2015-2016,96,36,0.38
+Assam,Cachar,2016-2017,88,32,0.36
+Assam,Cachar,2017-2018,80,31,0.39
+Assam,Cachar,2018-2019,73,28,0.38
+Assam,Cachar,2019-2020,70,29,0.41
+Assam,Cachar,2020-2021,72,30,0.42
+Assam,Cachar,2021-2022,73,32,0.44
+Assam,Cachar,2022-2023,72,27,0.38
+Assam,Chirang,2013-2014,27,11,0.41
+Assam,Chirang,2014-2015,24,10,0.42
+Assam,Chirang,2015-2016,29,14,0.48
+Assam,Chirang,2016-2017,16,7,0.44
+Assam,Chirang,2017-2018,10,4,0.4
+Assam,Chirang,2018-2019,9,3,0.33
+Assam,Chirang,2019-2020,5,2,0.4
+Assam,Darrang,2013-2014,2,1,0.5
+Assam,Darrang,2014-2015,2,1,0.5
+Assam,Darrang,2015-2016,2,1,0.5
+Assam,Darrang,2016-2017,2,1,0.5
+Assam,Darrang,2017-2018,2,5,2.5
+Assam,Darrang,2018-2019,2,5,2.5
+Assam,Darrang,2019-2020,1,3,3.0
+Assam,Darrang,2020-2021,1,1,1.0
+Assam,Darrang,2021-2022,1,1,1.0
+Assam,Darrang,2022-2023,1,1,1.0
+Assam,Dhemaji,2013-2014,9,4,0.44
+Assam,Dhemaji,2014-2015,11,4,0.36
+Assam,Dhemaji,2015-2016,4,2,0.5
+Assam,Dhemaji,2016-2017,4,2,0.5
+Assam,Dhemaji,2017-2018,2,1,0.5
+Assam,Dhemaji,2018-2019,4,2,0.5
+Assam,Dhemaji,2019-2020,2,1,0.5
+Assam,Dhemaji,2020-2021,2,1,0.5
+Assam,Dhemaji,2021-2022,2,1,0.5
+Assam,Dhemaji,2022-2023,7,3,0.43
+Assam,Dibrugarh,2014-2015,1,1,1.0
+Assam,Dibrugarh,2015-2016,1,1,1.0
+Assam,Dima hasao,2013-2014,11,5,0.45
+Assam,Dima hasao,2014-2015,57,27,0.47
+Assam,Dima hasao,2015-2016,63,30,0.48
+Assam,Dima hasao,2016-2017,62,31,0.5
+Assam,Dima hasao,2017-2018,61,32,0.52
+Assam,Dima hasao,2018-2019,52,28,0.54
+Assam,Dima hasao,2019-2020,37,20,0.54
+Assam,Dima hasao,2020-2021,62,33,0.53
+Assam,Dima hasao,2021-2022,53,28,0.53
+Assam,Dima hasao,2022-2023,53,28,0.53
+Assam,Goalpara,2013-2014,6,2,0.33
+Assam,Goalpara,2014-2015,9,3,0.33
+Assam,Goalpara,2015-2016,8,3,0.38
+Assam,Golaghat,2013-2014,13,5,0.38
+Assam,Golaghat,2014-2015,11,5,0.45
+Assam,Golaghat,2015-2016,13,5,0.38
+Assam,Golaghat,2016-2017,11,4,0.36
+Assam,Golaghat,2017-2018,6,2,0.33
+Assam,Golaghat,2018-2019,10,4,0.4
+Assam,Golaghat,2019-2020,9,4,0.44
+Assam,Golaghat,2020-2021,9,4,0.44
+Assam,Golaghat,2021-2022,8,4,0.5
+Assam,Golaghat,2022-2023,4,2,0.5
+Assam,Hailakandi,2013-2014,20,8,0.4
+Assam,Hailakandi,2014-2015,10,4,0.4
+Assam,Hailakandi,2015-2016,10,4,0.4
+Assam,Hailakandi,2016-2017,10,4,0.4
+Assam,Hailakandi,2017-2018,7,3,0.43
+Assam,Hailakandi,2018-2019,8,4,0.5
+Assam,Hailakandi,2019-2020,5,2,0.4
+Assam,Hailakandi,2020-2021,4,2,0.5
+Assam,Hailakandi,2021-2022,4,2,0.5
+Assam,Hailakandi,2022-2023,4,2,0.5
+Assam,Jorhat,2013-2014,8,4,0.5
+Assam,Jorhat,2014-2015,15,6,0.4
+Assam,Jorhat,2015-2016,19,8,0.42
+Assam,Jorhat,2016-2017,8,3,0.38
+Assam,Jorhat,2017-2018,8,3,0.38
+Assam,Jorhat,2018-2019,10,4,0.4
+Assam,Jorhat,2019-2020,11,5,0.45
+Assam,Jorhat,2020-2021,5,2,0.4
+Assam,Jorhat,2021-2022,6,3,0.5
+Assam,Jorhat,2022-2023,6,3,0.5
+Assam,Kamrup,2013-2014,3,1,0.33
+Assam,Kamrup,2014-2015,2,1,0.5
+Assam,Kamrup,2015-2016,2,2,1.0
+Assam,Kamrup,2016-2017,1,1,1.0
+Assam,Kamrup,2018-2019,2,1,0.5
+Assam,Kamrup,2022-2023,2,2,1.0
+Assam,Kamrup metro,2013-2014,3,1,0.33
+Assam,Kamrup metro,2014-2015,4,2,0.5
+Assam,Kamrup metro,2015-2016,5,2,0.4
+Assam,Kamrup metro,2016-2017,4,2,0.5
+Assam,Kamrup metro,2018-2019,10,4,0.4
+Assam,Karbi anglong,2013-2014,817,405,0.5
+Assam,Karbi anglong,2014-2015,567,280,0.49
+Assam,Karbi anglong,2015-2016,576,288,0.5
+Assam,Karbi anglong,2016-2017,605,307,0.51
+Assam,Karbi anglong,2017-2018,519,266,0.51
+Assam,Karbi anglong,2018-2019,593,316,0.53
+Assam,Karbi anglong,2019-2020,580,318,0.55
+Assam,Karbi anglong,2020-2021,446,236,0.53
+Assam,Karbi anglong,2021-2022,415,222,0.53
+Assam,Karbi anglong,2022-2023,304,170,0.56
+Assam,Karimganj,2013-2014,32,14,0.44
+Assam,Karimganj,2014-2015,27,12,0.44
+Assam,Karimganj,2015-2016,25,12,0.48
+Assam,Karimganj,2016-2017,25,11,0.44
+Assam,Karimganj,2017-2018,21,6,0.29
+Assam,Karimganj,2018-2019,21,7,0.33
+Assam,Karimganj,2019-2020,22,8,0.36
+Assam,Karimganj,2020-2021,20,11,0.55
+Assam,Karimganj,2021-2022,13,5,0.38
+Assam,Karimganj,2022-2023,11,4,0.36
+Assam,Kokrajhar,2013-2014,22,10,0.45
+Assam,Kokrajhar,2014-2015,17,7,0.41
+Assam,Kokrajhar,2015-2016,9,3,0.33
+Assam,Kokrajhar,2016-2017,8,4,0.5
+Assam,Kokrajhar,2017-2018,9,4,0.44
+Assam,Kokrajhar,2018-2019,5,3,0.6
+Assam,Kokrajhar,2019-2020,4,3,0.75
+Assam,Kokrajhar,2020-2021,4,3,0.75
+Assam,Kokrajhar,2021-2022,4,3,0.75
+Assam,Kokrajhar,2022-2023,3,2,0.67
+Assam,Lakhimpur,2013-2014,18,7,0.39
+Assam,Lakhimpur,2014-2015,8,3,0.38
+Assam,Lakhimpur,2015-2016,10,4,0.4
+Assam,Lakhimpur,2016-2017,6,2,0.33
+Assam,Lakhimpur,2017-2018,10,4,0.4
+Assam,Lakhimpur,2018-2019,11,5,0.45
+Assam,Lakhimpur,2019-2020,15,7,0.47
+Assam,Lakhimpur,2020-2021,11,5,0.45
+Assam,Lakhimpur,2021-2022,13,6,0.46
+Assam,Lakhimpur,2022-2023,11,4,0.36
+Assam,Majuli,2020-2021,5,2,0.4
+Assam,Majuli,2021-2022,5,2,0.4
+Assam,Majuli,2022-2023,5,2,0.4
+Assam,Marigaon,2013-2014,4,1,0.25
+Assam,Marigaon,2014-2015,4,2,0.5
+Assam,Marigaon,2015-2016,4,2,0.5
+Assam,Marigaon,2016-2017,3,1,0.33
+Assam,Marigaon,2017-2018,2,1,0.5
+Assam,Marigaon,2018-2019,3,1,0.33
+Assam,Marigaon,2019-2020,3,1,0.33
+Assam,Marigaon,2020-2021,3,2,0.67
+Assam,Marigaon,2021-2022,4,2,0.5
+Assam,Marigaon,2022-2023,2,1,0.5
+Assam,Nagaon,2013-2014,16,7,0.44
+Assam,Nagaon,2014-2015,14,7,0.5
+Assam,Nagaon,2015-2016,15,7,0.47
+Assam,Nagaon,2016-2017,3,2,0.67
+Assam,Nagaon,2017-2018,10,5,0.5
+Assam,Nagaon,2018-2019,5,3,0.6
+Assam,Nagaon,2019-2020,5,3,0.6
+Assam,Nagaon,2020-2021,6,3,0.5
+Assam,Nagaon,2021-2022,6,3,0.5
+Assam,Nagaon,2022-2023,6,3,0.5
+Assam,Nalbari,2013-2014,1,1,1.0
+Assam,Nalbari,2014-2015,1,1,1.0
+Assam,Nalbari,2015-2016,1,1,1.0
+Assam,Nalbari,2016-2017,1,1,1.0
+Assam,Nalbari,2017-2018,1,1,1.0
+Assam,Nalbari,2018-2019,1,1,1.0
+Assam,Nalbari,2019-2020,1,1,1.0
+Assam,Nalbari,2020-2021,1,1,1.0
+Assam,Nalbari,2021-2022,1,1,1.0
+Assam,Sivasagar,2013-2014,4,3,0.75
+Assam,Sivasagar,2014-2015,3,3,1.0
+Assam,Sivasagar,2015-2016,6,3,0.5
+Assam,Sivasagar,2016-2017,1,1,1.0
+Assam,Sonitpur,2013-2014,8,3,0.38
+Assam,Sonitpur,2014-2015,10,4,0.4
+Assam,Sonitpur,2015-2016,9,4,0.44
+Assam,Sonitpur,2016-2017,11,4,0.36
+Assam,Sonitpur,2017-2018,11,4,0.36
+Assam,Sonitpur,2018-2019,12,5,0.42
+Assam,Sonitpur,2019-2020,8,4,0.5
+Assam,Sonitpur,2020-2021,3,2,0.67
+Assam,Sonitpur,2021-2022,6,3,0.5
+Assam,Sonitpur,2022-2023,4,2,0.5
+Assam,Tinsukia,2013-2014,1,1,1.0
+Assam,Tinsukia,2014-2015,1,1,1.0
+Assam,Tinsukia,2015-2016,1,1,1.0
+Assam,Tinsukia,2016-2017,1,1,1.0
+Assam,Tinsukia,2018-2019,1,1,1.0
+Assam,Tinsukia,2020-2021,1,1,1.0
+Assam,Tinsukia,2021-2022,1,1,1.0
+Assam,West karbi anglong,2020-2021,96,52,0.54
+Assam,West karbi anglong,2021-2022,98,52,0.53
+Assam,West karbi anglong,2022-2023,104,55,0.53
+Chhattisgarh,Balod,2018-2019,3,,0.0
+Chhattisgarh,Balod,2019-2020,21,32,1.52
+Chhattisgarh,Balod,2020-2021,20,32,1.6
+Chhattisgarh,Balod,2021-2022,5,7,1.4
+Chhattisgarh,Balod,2022-2023,7,16,2.29
+Chhattisgarh,Baloda bazar,2016-2017,6,14,2.33
+Chhattisgarh,Baloda bazar,2019-2020,97,178,1.84
+Chhattisgarh,Baloda bazar,2020-2021,156,296,1.9
+Chhattisgarh,Baloda bazar,2021-2022,42,70,1.67
+Chhattisgarh,Baloda bazar,2022-2023,193,93,0.48
+Chhattisgarh,Balrampur,2014-2015,6,1,0.17
+Chhattisgarh,Bemetara,2013-2014,19,23,1.21
+Chhattisgarh,Bemetara,2014-2015,23,29,1.26
+Chhattisgarh,Bemetara,2015-2016,16,22,1.38
+Chhattisgarh,Bemetara,2016-2017,26,35,1.35
+Chhattisgarh,Bemetara,2017-2018,225,334,1.48
+Chhattisgarh,Bemetara,2018-2019,956,"1,304.00",1.36
+Chhattisgarh,Bemetara,2019-2020,"1,417.00","2,109.00",1.49
+Chhattisgarh,Bemetara,2020-2021,"1,894.00","3,288.00",1.74
+Chhattisgarh,Bemetara,2021-2022,"1,754.00","3,046.00",1.74
+Chhattisgarh,Bemetara,2022-2023,"3,639.00","2,257.00",0.62
+Chhattisgarh,Bijapur,2020-2021,2,2,1.0
+Chhattisgarh,Bijapur,2021-2022,2,0,0.0
+Chhattisgarh,Bilaspur,2020-2021,45,71,1.58
+Chhattisgarh,Bilaspur,2021-2022,61,96,1.57
+Chhattisgarh,Bilaspur,2022-2023,90,53,0.59
+Chhattisgarh,Durg,2013-2014,28,42,1.5
+Chhattisgarh,Durg,2014-2015,30,45,1.5
+Chhattisgarh,Durg,2015-2016,15,26,1.73
+Chhattisgarh,Durg,2016-2017,29,49,1.69
+Chhattisgarh,Durg,2017-2018,171,254,1.49
+Chhattisgarh,Durg,2018-2019,302,449,1.49
+Chhattisgarh,Durg,2019-2020,624,"1,006.00",1.61
+Chhattisgarh,Durg,2020-2021,982,"1,754.00",1.79
+Chhattisgarh,Durg,2021-2022,982,"1,461.00",1.49
+Chhattisgarh,Durg,2022-2023,"2,375.00","1,651.00",0.7
+Chhattisgarh,Gariyaband,2019-2020,1,3,3.0
+Chhattisgarh,Gariyaband,2020-2021,2,6,3.0
+Chhattisgarh,Gariyaband,2021-2022,3,1,0.33
+Chhattisgarh,Gariyaband,2022-2023,6,3,0.5
+Chhattisgarh,Kabirdham,2013-2014,2,5,2.5
+Chhattisgarh,Khairgarh chhuikhadan gandai,2022-2023,"1,330.00",481,0.36
+Chhattisgarh,Manendragarh chirimiri bharatpur,2022-2023,3,9,3.0
+Chhattisgarh,Mohla manpur ambagarh chouki,2022-2023,12,4,0.33
+Chhattisgarh,Mungeli,2020-2021,73,159,2.18
+Chhattisgarh,Mungeli,2021-2022,64,101,1.58
+Chhattisgarh,Raipur,2015-2016,7,16,2.29
+Chhattisgarh,Raipur,2016-2017,9,20,2.22
+Chhattisgarh,Raipur,2017-2018,32,64,2.0
+Chhattisgarh,Raipur,2018-2019,28,70,2.5
+Chhattisgarh,Raipur,2019-2020,137,319,2.33
+Chhattisgarh,Raipur,2020-2021,226,527,2.33
+Chhattisgarh,Raipur,2021-2022,254,635,2.5
+Chhattisgarh,Raipur,2022-2023,956,383,0.4
+Chhattisgarh,Rajnandgaon,2015-2016,11,30,2.73
+Chhattisgarh,Rajnandgaon,2016-2017,9,29,3.22
+Chhattisgarh,Rajnandgaon,2017-2018,50,150,3.0
+Chhattisgarh,Rajnandgaon,2018-2019,144,430,2.99
+Chhattisgarh,Rajnandgaon,2019-2020,395,"1,274.00",3.23
+Chhattisgarh,Rajnandgaon,2020-2021,584,"1,883.00",3.22
+Chhattisgarh,Rajnandgaon,2021-2022,627,"2,022.00",3.22
+Chhattisgarh,Rajnandgaon,2022-2023,"1,448.00",524,0.36
+Chhattisgarh,Sarangarh bilaigarh,2022-2023,2,1,0.5
+Chhattisgarh,Sukma,2020-2021,327,846,2.59
+Chhattisgarh,Sukma,2021-2022,6,12,2.0
+Chhattisgarh,Sukma,2022-2023,12,6,0.5
+Gujarat,Ahmadabad,2013-2014,"1,77,864.00","3,65,249.00",2.05
+Gujarat,Ahmadabad,2014-2015,"1,59,044.00","2,66,317.00",1.67
+Gujarat,Ahmadabad,2015-2016,"1,31,881.00","3,02,016.00",2.29
+Gujarat,Ahmadabad,2016-2017,"1,06,997.00","2,41,209.00",2.25
+Gujarat,Ahmadabad,2017-2018,"1,05,422.00","2,76,885.00",2.63
+Gujarat,Ahmadabad,2018-2019,"1,03,200.00","1,79,965.00",1.74
+Gujarat,Ahmadabad,2019-2020,"1,13,401.00","1,83,140.00",1.61
+Gujarat,Ahmadabad,2020-2021,"1,15,728.00","1,86,397.00",1.61
+Gujarat,Ahmadabad,2021-2022,"97,511.00","1,582.36",0.02
+Gujarat,Ahmadabad,2022-2023,"53,957.00","1,37,895.00",2.56
+Gujarat,Amreli,2013-2014,"3,47,234.00","19,15,027.00",5.52
+Gujarat,Amreli,2014-2015,"4,12,952.00","7,49,800.00",1.82
+Gujarat,Amreli,2015-2016,"3,78,757.00","10,60,172.00",2.8
+Gujarat,Amreli,2016-2017,"3,48,632.00","5,84,455.00",1.68
+Gujarat,Amreli,2017-2018,"3,74,746.00","8,35,007.00",2.23
+Gujarat,Amreli,2018-2019,"4,02,302.00","5,52,628.00",1.37
+Gujarat,Amreli,2019-2020,"4,02,664.00","14,66,989.00",3.64
+Gujarat,Amreli,2020-2021,"3,31,335.00","8,11,458.00",2.45
+Gujarat,Amreli,2021-2022,"3,01,849.00","9,590.47",0.03
+Gujarat,Amreli,2022-2023,"3,51,764.00","12,15,953.00",3.46
+Gujarat,Anand,2013-2014,"6,120.00","29,759.00",4.86
+Gujarat,Anand,2014-2015,"5,239.00","27,127.00",5.18
+Gujarat,Anand,2015-2016,"2,941.00","12,272.00",4.17
+Gujarat,Anand,2016-2017,"2,205.00","8,507.00",3.86
+Gujarat,Anand,2017-2018,"1,888.00","6,998.00",3.71
+Gujarat,Anand,2018-2019,"2,047.00","7,846.00",3.83
+Gujarat,Anand,2019-2020,"3,006.00","7,858.00",2.61
+Gujarat,Anand,2020-2021,"2,183.00","6,783.00",3.11
+Gujarat,Anand,2021-2022,"1,421.00",42.12,0.03
+Gujarat,Anand,2022-2023,"1,122.00","3,642.00",3.25
+Gujarat,Aravalli,2014-2015,"65,435.00","2,10,272.00",3.21
+Gujarat,Aravalli,2015-2016,"51,848.00","1,70,392.00",3.29
+Gujarat,Aravalli,2016-2017,"37,665.00","1,15,296.00",3.06
+Gujarat,Aravalli,2017-2018,"39,884.00","1,32,798.00",3.33
+Gujarat,Aravalli,2018-2019,"44,495.00","1,80,079.00",4.05
+Gujarat,Aravalli,2019-2020,"32,370.00","95,104.00",2.94
+Gujarat,Aravalli,2020-2021,"16,571.00","55,309.00",3.34
+Gujarat,Aravalli,2021-2022,"13,767.00",437.67,0.03
+Gujarat,Aravalli,2022-2023,"28,275.00","89,692.00",3.17
+Gujarat,Banas kantha,2013-2014,"45,750.00","63,061.00",1.38
+Gujarat,Banas kantha,2014-2015,"41,391.00","1,31,413.00",3.17
+Gujarat,Banas kantha,2015-2016,"34,432.00","80,868.00",2.35
+Gujarat,Banas kantha,2016-2017,"33,311.00","1,28,896.00",3.87
+Gujarat,Banas kantha,2017-2018,"18,721.00","77,618.00",4.15
+Gujarat,Banas kantha,2018-2019,"46,061.00","1,52,312.00",3.31
+Gujarat,Banas kantha,2019-2020,"43,785.00","1,27,483.00",2.91
+Gujarat,Banas kantha,2020-2021,"41,625.00","1,36,776.00",3.29
+Gujarat,Banas kantha,2021-2022,"39,910.00","1,410.04",0.04
+Gujarat,Banas kantha,2022-2023,"34,430.00","1,22,456.00",3.56
+Gujarat,Bharuch,2013-2014,"1,00,750.00","2,21,504.00",2.2
+Gujarat,Bharuch,2014-2015,"99,570.00","2,28,811.00",2.3
+Gujarat,Bharuch,2015-2016,"74,990.00","1,74,573.00",2.33
+Gujarat,Bharuch,2016-2017,"51,598.00","1,14,243.00",2.21
+Gujarat,Bharuch,2017-2018,"89,755.00","2,22,407.00",2.48
+Gujarat,Bharuch,2018-2019,"78,338.00","2,37,288.00",3.03
+Gujarat,Bharuch,2019-2020,"96,387.00","2,57,367.00",2.67
+Gujarat,Bharuch,2020-2021,"93,277.00","2,59,631.00",2.78
+Gujarat,Bharuch,2021-2022,"79,641.00","2,274.35",0.03
+Gujarat,Bharuch,2022-2023,"91,694.00","2,88,319.00",3.14
+Gujarat,Bhavnagar,2013-2014,"3,24,899.00","11,17,022.00",3.44
+Gujarat,Bhavnagar,2014-2015,"2,10,765.00","5,61,520.00",2.66
+Gujarat,Bhavnagar,2015-2016,"2,21,641.00","5,74,491.00",2.59
+Gujarat,Bhavnagar,2016-2017,"2,02,180.00","5,17,619.00",2.56
+Gujarat,Bhavnagar,2017-2018,"2,16,100.00","8,54,262.00",3.95
+Gujarat,Bhavnagar,2018-2019,"2,24,529.00","4,75,359.00",2.12
+Gujarat,Bhavnagar,2019-2020,"2,37,168.00","8,84,132.00",3.73
+Gujarat,Bhavnagar,2020-2021,"2,24,301.00","7,32,920.00",3.27
+Gujarat,Bhavnagar,2021-2022,"2,22,684.00","5,792.79",0.03
+Gujarat,Bhavnagar,2022-2023,"2,38,908.00","7,43,689.00",3.11
+Gujarat,Botad,2014-2015,"1,61,279.00","7,29,577.00",4.52
+Gujarat,Botad,2015-2016,"1,86,878.00","7,00,925.00",3.75
+Gujarat,Botad,2016-2017,"1,77,543.00","4,30,267.00",2.42
+Gujarat,Botad,2017-2018,"2,10,231.00","8,65,453.00",4.12
+Gujarat,Botad,2018-2019,"1,73,354.00","3,48,207.00",2.01
+Gujarat,Botad,2019-2020,"1,73,643.00","3,91,745.00",2.26
+Gujarat,Botad,2020-2021,"1,48,227.00","4,61,027.00",3.11
+Gujarat,Botad,2021-2022,"1,38,150.00","5,514.76",0.04
+Gujarat,Botad,2022-2023,"1,50,451.00","7,89,312.00",5.25
+Gujarat,Chhotaudepur,2014-2015,"84,520.00","4,02,043.00",4.76
+Gujarat,Chhotaudepur,2015-2016,"80,380.00","3,08,785.00",3.84
+Gujarat,Chhotaudepur,2016-2017,"73,775.00","3,32,251.00",4.5
+Gujarat,Chhotaudepur,2017-2018,"75,130.00","3,51,590.00",4.68
+Gujarat,Chhotaudepur,2018-2019,"80,265.00","4,33,262.00",5.4
+Gujarat,Chhotaudepur,2019-2020,"87,081.00","3,91,314.00",4.49
+Gujarat,Chhotaudepur,2020-2021,"90,697.00","3,54,349.00",3.91
+Gujarat,Chhotaudepur,2021-2022,"88,111.00","3,770.64",0.04
+Gujarat,Chhotaudepur,2022-2023,"1,03,793.00","3,91,288.00",3.77
+Gujarat,Devbhumi dwarka,2014-2015,"47,350.00","2,05,164.00",4.33
+Gujarat,Devbhumi dwarka,2015-2016,"44,770.00","42,834.00",0.96
+Gujarat,Devbhumi dwarka,2016-2017,"27,775.00","73,460.00",2.64
+Gujarat,Devbhumi dwarka,2017-2018,"23,147.00","1,12,103.00",4.84
+Gujarat,Devbhumi dwarka,2018-2019,"21,326.00","31,479.00",1.48
+Gujarat,Devbhumi dwarka,2019-2020,"10,707.00","44,852.00",4.19
+Gujarat,Devbhumi dwarka,2020-2021,"4,847.00","17,637.00",3.64
+Gujarat,Devbhumi dwarka,2021-2022,"4,220.00",131.4,0.03
+Gujarat,Devbhumi dwarka,2022-2023,"10,219.00","38,986.00",3.82
+Gujarat,Dohad,2013-2014,"1,812.00","4,139.00",2.28
+Gujarat,Dohad,2014-2015,"1,126.00","1,956.00",1.74
+Gujarat,Dohad,2015-2016,453,916,2.02
+Gujarat,Dohad,2016-2017,333,562,1.69
+Gujarat,Dohad,2017-2018,170,363,2.14
+Gujarat,Dohad,2018-2019,358,470,1.31
+Gujarat,Dohad,2019-2020,998,"2,371.00",2.38
+Gujarat,Dohad,2020-2021,225,806,3.58
+Gujarat,Dohad,2021-2022,323,7.4,0.02
+Gujarat,Dohad,2022-2023,349,812,2.33
+Gujarat,Gandhinagar,2013-2014,"30,358.00","1,17,113.00",3.86
+Gujarat,Gandhinagar,2014-2015,"31,139.00","1,23,851.00",3.98
+Gujarat,Gandhinagar,2015-2016,"24,994.00","1,02,422.00",4.1
+Gujarat,Gandhinagar,2016-2017,"21,314.00","91,947.00",4.31
+Gujarat,Gandhinagar,2017-2018,"23,593.00","98,567.00",4.18
+Gujarat,Gandhinagar,2018-2019,"23,984.00","99,125.00",4.13
+Gujarat,Gandhinagar,2019-2020,"23,588.00","75,734.00",3.21
+Gujarat,Gandhinagar,2020-2021,"17,552.00","68,285.00",3.89
+Gujarat,Gandhinagar,2021-2022,"20,381.00",771.79,0.04
+Gujarat,Gandhinagar,2022-2023,"20,568.00","76,156.00",3.7
+Gujarat,Gir somnath,2014-2015,"1,69,914.00","4,11,669.00",2.42
+Gujarat,Gir somnath,2015-2016,"1,65,760.00","3,72,936.00",2.25
+Gujarat,Gir somnath,2016-2017,"1,65,559.00","1,21,677.00",0.73
+Gujarat,Gir somnath,2017-2018,"1,67,128.00","7,44,316.00",4.45
+Gujarat,Gir somnath,2018-2019,"1,66,141.00","1,82,894.00",1.1
+Gujarat,Gir somnath,2019-2020,"1,63,883.00","6,06,034.00",3.7
+Gujarat,Gir somnath,2020-2021,"1,41,771.00","5,87,015.00",4.14
+Gujarat,Gir somnath,2021-2022,"11,133.00",642.42,0.06
+Gujarat,Gir somnath,2022-2023,"18,940.00","98,726.00",5.21
+Gujarat,Jamnagar,2013-2014,"1,80,527.00","11,48,002.00",6.36
+Gujarat,Jamnagar,2014-2015,"1,80,077.00","6,48,125.00",3.6
+Gujarat,Jamnagar,2015-2016,"1,93,557.00","5,18,458.00",2.68
+Gujarat,Jamnagar,2016-2017,"1,72,912.00","1,47,708.00",0.85
+Gujarat,Jamnagar,2017-2018,"1,62,381.00","9,45,941.00",5.83
+Gujarat,Jamnagar,2018-2019,"1,83,616.00","4,03,337.00",2.2
+Gujarat,Jamnagar,2019-2020,"1,66,549.00","5,69,114.00",3.42
+Gujarat,Jamnagar,2020-2021,"94,026.00","3,90,210.00",4.15
+Gujarat,Jamnagar,2021-2022,"1,29,356.00","3,944.22",0.03
+Gujarat,Jamnagar,2022-2023,"1,59,183.00","8,94,121.00",5.62
+Gujarat,Junagadh,2013-2014,"78,265.00","5,34,784.00",6.83
+Gujarat,Junagadh,2014-2015,"94,883.00","5,81,713.00",6.13
+Gujarat,Junagadh,2015-2016,"81,823.00","1,74,445.00",2.13
+Gujarat,Junagadh,2016-2017,"49,530.00","1,51,841.00",3.07
+Gujarat,Junagadh,2017-2018,"53,136.00","1,23,515.00",2.32
+Gujarat,Junagadh,2018-2019,"76,103.00","1,56,862.00",2.06
+Gujarat,Junagadh,2019-2020,"74,892.00","1,70,003.00",2.27
+Gujarat,Junagadh,2020-2021,"34,320.00","81,129.00",2.36
+Gujarat,Junagadh,2021-2022,"34,750.00",871.42,0.03
+Gujarat,Junagadh,2022-2023,"50,840.00","2,02,140.00",3.98
+Gujarat,Kachchh,2013-2014,"78,502.00","4,07,212.00",5.19
+Gujarat,Kachchh,2014-2015,"56,683.00","3,03,116.00",5.35
+Gujarat,Kachchh,2015-2016,"48,838.00","2,63,853.00",5.4
+Gujarat,Kachchh,2016-2017,"42,425.00","2,09,843.00",4.95
+Gujarat,Kachchh,2017-2018,"58,608.00","2,50,929.00",4.28
+Gujarat,Kachchh,2018-2019,"56,322.00","1,70,006.00",3.02
+Gujarat,Kachchh,2019-2020,"60,519.00","1,83,996.00",3.04
+Gujarat,Kachchh,2020-2021,"64,279.00","1,77,137.00",2.76
+Gujarat,Kachchh,2021-2022,"54,626.00","2,068.09",0.04
+Gujarat,Kachchh,2022-2023,"67,547.00","3,20,183.00",4.74
+Gujarat,Kheda,2013-2014,"27,991.00","81,023.00",2.89
+Gujarat,Kheda,2014-2015,"24,656.00","87,163.00",3.54
+Gujarat,Kheda,2015-2016,"22,305.00","79,427.00",3.56
+Gujarat,Kheda,2016-2017,"16,181.00","53,606.00",3.31
+Gujarat,Kheda,2017-2018,"17,973.00","51,847.00",2.88
+Gujarat,Kheda,2018-2019,"18,561.00","77,440.00",4.17
+Gujarat,Kheda,2019-2020,"19,173.00","60,383.00",3.15
+Gujarat,Kheda,2020-2021,"16,345.00","52,427.00",3.21
+Gujarat,Kheda,2021-2022,"13,628.00",432.52,0.03
+Gujarat,Kheda,2022-2023,"15,617.00","54,062.00",3.46
+Gujarat,Mahesana,2013-2014,"51,257.00","1,85,018.00",3.61
+Gujarat,Mahesana,2014-2015,"58,844.00","2,24,109.00",3.81
+Gujarat,Mahesana,2015-2016,"43,231.00","1,51,496.00",3.5
+Gujarat,Mahesana,2016-2017,"32,671.00","1,39,114.00",4.26
+Gujarat,Mahesana,2017-2018,"42,262.00","1,83,417.00",4.34
+Gujarat,Mahesana,2018-2019,"34,673.00","1,45,035.00",4.18
+Gujarat,Mahesana,2019-2020,"38,206.00","1,22,585.00",3.21
+Gujarat,Mahesana,2020-2021,"35,602.00","1,37,285.00",3.86
+Gujarat,Mahesana,2021-2022,"32,246.00","1,208.21",0.04
+Gujarat,Mahesana,2022-2023,"38,131.00","1,56,044.00",4.09
+Gujarat,Mahisagar,2014-2015,"11,455.00","38,011.00",3.32
+Gujarat,Mahisagar,2015-2016,"10,260.00","35,078.00",3.42
+Gujarat,Mahisagar,2016-2017,"12,214.00","32,565.00",2.67
+Gujarat,Mahisagar,2017-2018,"7,980.00","31,917.00",4.0
+Gujarat,Mahisagar,2018-2019,"7,626.00","15,945.00",2.09
+Gujarat,Mahisagar,2019-2020,"6,351.00","22,415.00",3.53
+Gujarat,Mahisagar,2020-2021,"5,190.00","17,133.00",3.3
+Gujarat,Mahisagar,2021-2022,"7,281.00",293.15,0.04
+Gujarat,Mahisagar,2022-2023,"10,105.00","39,046.00",3.86
+Gujarat,Morbi,2014-2015,"34,515.00","1,20,155.00",3.48
+Gujarat,Morbi,2015-2016,"29,232.00","1,00,425.00",3.44
+Gujarat,Morbi,2016-2017,"11,671.00","53,142.00",4.55
+Gujarat,Morbi,2017-2018,"14,377.00","64,316.00",4.47
+Gujarat,Morbi,2018-2019,"18,330.00","64,508.00",3.52
+Gujarat,Morbi,2019-2020,"17,140.00","58,479.00",3.41
+Gujarat,Morbi,2020-2021,"12,510.00","31,413.00",2.51
+Gujarat,Morbi,2021-2022,"1,72,926.00","5,220.54",0.03
+Gujarat,Morbi,2022-2023,"1,96,231.00","7,60,857.00",3.88
+Gujarat,Narmada,2013-2014,"40,867.00","1,02,096.00",2.5
+Gujarat,Narmada,2014-2015,"46,799.00","1,13,375.00",2.42
+Gujarat,Narmada,2015-2016,"48,314.00","1,29,295.00",2.68
+Gujarat,Narmada,2016-2017,"35,378.00","90,174.00",2.55
+Gujarat,Narmada,2017-2018,"52,173.00","1,45,116.00",2.78
+Gujarat,Narmada,2018-2019,"48,046.00","1,52,815.00",3.18
+Gujarat,Narmada,2019-2020,"46,884.00","1,55,781.00",3.32
+Gujarat,Narmada,2020-2021,"48,780.00","1,62,985.00",3.34
+Gujarat,Narmada,2021-2022,"53,492.00","1,815.27",0.03
+Gujarat,Narmada,2022-2023,"52,477.00","1,78,027.00",3.39
+Gujarat,Panch mahals,2013-2014,"11,554.00","50,945.00",4.41
+Gujarat,Panch mahals,2014-2015,"12,046.00","52,009.00",4.32
+Gujarat,Panch mahals,2015-2016,"12,054.00","34,694.00",2.88
+Gujarat,Panch mahals,2016-2017,"9,522.00","16,019.00",1.68
+Gujarat,Panch mahals,2017-2018,"10,758.00","38,129.00",3.54
+Gujarat,Panch mahals,2018-2019,"13,725.00","54,174.00",3.95
+Gujarat,Panch mahals,2019-2020,"11,680.00","37,899.00",3.24
+Gujarat,Panch mahals,2020-2021,"13,966.00","50,048.00",3.58
+Gujarat,Panch mahals,2021-2022,"12,640.00",506.39,0.04
+Gujarat,Panch mahals,2022-2023,"12,214.00","47,614.00",3.9
+Gujarat,Patan,2013-2014,"62,895.00","1,80,207.00",2.87
+Gujarat,Patan,2014-2015,"57,673.00","1,83,688.00",3.18
+Gujarat,Patan,2015-2016,"33,298.00","1,15,471.00",3.47
+Gujarat,Patan,2016-2017,"39,296.00","1,26,582.00",3.22
+Gujarat,Patan,2017-2018,"39,795.00","1,33,587.00",3.36
+Gujarat,Patan,2018-2019,"45,602.00","90,177.00",1.98
+Gujarat,Patan,2019-2020,"44,726.00","87,484.00",1.96
+Gujarat,Patan,2020-2021,"46,970.00","1,01,701.00",2.17
+Gujarat,Patan,2021-2022,"46,193.00","1,353.77",0.03
+Gujarat,Patan,2022-2023,"46,981.00","1,70,995.00",3.64
+Gujarat,Porbandar,2013-2014,"8,920.00","26,856.00",3.01
+Gujarat,Porbandar,2014-2015,"21,240.00","76,074.00",3.58
+Gujarat,Porbandar,2015-2016,"20,580.00","24,220.00",1.18
+Gujarat,Porbandar,2016-2017,"10,510.00","53,054.00",5.05
+Gujarat,Porbandar,2017-2018,"9,995.00","41,453.00",4.15
+Gujarat,Porbandar,2018-2019,"11,010.00","31,991.00",2.91
+Gujarat,Porbandar,2019-2020,"9,310.00","24,333.00",2.61
+Gujarat,Porbandar,2020-2021,"4,315.00","11,630.00",2.7
+Gujarat,Porbandar,2021-2022,"4,120.00",62.89,0.02
+Gujarat,Porbandar,2022-2023,"9,835.00","22,225.00",2.26
+Gujarat,Rajkot,2013-2014,"2,77,053.00","15,05,162.00",5.43
+Gujarat,Rajkot,2014-2015,"2,29,877.00","8,99,654.00",3.91
+Gujarat,Rajkot,2015-2016,"2,33,171.00","1,80,034.00",0.77
+Gujarat,Rajkot,2016-2017,"2,16,150.00","83,980.00",0.39
+Gujarat,Rajkot,2017-2018,"2,38,643.00","13,33,286.00",5.59
+Gujarat,Rajkot,2018-2019,"2,60,249.00","5,79,768.00",2.23
+Gujarat,Rajkot,2019-2020,"2,64,206.00","11,36,131.00",4.3
+Gujarat,Rajkot,2020-2021,"2,00,130.00","7,82,695.00",3.91
+Gujarat,Rajkot,2021-2022,"1,98,220.00","6,487.41",0.03
+Gujarat,Rajkot,2022-2023,"2,33,606.00","10,90,689.00",4.67
+Gujarat,Sabar kantha,2013-2014,"1,26,100.00","2,81,916.00",2.24
+Gujarat,Sabar kantha,2014-2015,"74,144.00","2,50,976.00",3.38
+Gujarat,Sabar kantha,2015-2016,"76,680.00","2,54,760.00",3.32
+Gujarat,Sabar kantha,2016-2017,"64,039.00","1,92,599.00",3.01
+Gujarat,Sabar kantha,2017-2018,"79,805.00","3,30,491.00",4.14
+Gujarat,Sabar kantha,2018-2019,"78,662.00","2,37,348.00",3.02
+Gujarat,Sabar kantha,2019-2020,"57,741.00","1,44,657.00",2.51
+Gujarat,Sabar kantha,2020-2021,"42,505.00","1,55,684.00",3.66
+Gujarat,Sabar kantha,2021-2022,"42,329.00","1,374.93",0.03
+Gujarat,Sabar kantha,2022-2023,"48,862.00","1,82,617.00",3.74
+Gujarat,Surat,2013-2014,"3,257.00","13,051.00",4.01
+Gujarat,Surat,2014-2015,"6,718.00","22,016.00",3.28
+Gujarat,Surat,2015-2016,"6,272.00","20,700.00",3.3
+Gujarat,Surat,2016-2017,"2,884.00","10,615.00",3.68
+Gujarat,Surat,2017-2018,"4,341.00","31,617.00",7.28
+Gujarat,Surat,2018-2019,"5,423.00","34,871.00",6.43
+Gujarat,Surat,2019-2020,"4,352.00","17,009.00",3.91
+Gujarat,Surat,2020-2021,"4,590.00","13,457.00",2.93
+Gujarat,Surat,2021-2022,"4,460.00",174.64,0.04
+Gujarat,Surat,2022-2023,"4,301.00","12,444.00",2.89
+Gujarat,Surendranagar,2013-2014,"4,07,118.00","13,43,765.00",3.3
+Gujarat,Surendranagar,2014-2015,"3,67,402.00","11,77,786.00",3.21
+Gujarat,Surendranagar,2015-2016,"3,71,413.00","12,84,983.00",3.46
+Gujarat,Surendranagar,2016-2017,"3,59,725.00","7,81,191.00",2.17
+Gujarat,Surendranagar,2017-2018,"3,96,061.00","13,29,601.00",3.36
+Gujarat,Surendranagar,2018-2019,"3,47,395.00","7,75,667.00",2.23
+Gujarat,Surendranagar,2019-2020,"3,55,091.00","8,94,755.00",2.52
+Gujarat,Surendranagar,2020-2021,"3,30,182.00","9,53,048.00",2.89
+Gujarat,Surendranagar,2021-2022,"3,34,675.00","11,984.99",0.04
+Gujarat,Surendranagar,2022-2023,"4,05,612.00","13,91,945.00",3.43
+Gujarat,Tapi,2013-2014,"11,497.00","36,490.00",3.17
+Gujarat,Tapi,2014-2015,"8,404.00","26,078.00",3.1
+Gujarat,Tapi,2015-2016,"5,971.00","14,552.00",2.44
+Gujarat,Tapi,2016-2017,"1,922.00","6,554.00",3.41
+Gujarat,Tapi,2017-2018,"8,208.00","33,751.00",4.11
+Gujarat,Tapi,2018-2019,"7,269.00","28,499.00",3.92
+Gujarat,Tapi,2019-2020,"9,400.00","38,843.00",4.13
+Gujarat,Tapi,2020-2021,"9,177.00","29,858.00",3.25
+Gujarat,Tapi,2021-2022,"10,855.00",438.15,0.04
+Gujarat,Tapi,2022-2023,"11,543.00","42,718.00",3.7
+Gujarat,Vadodara,2013-2014,"2,07,820.00","7,82,175.00",3.76
+Gujarat,Vadodara,2014-2015,"1,08,653.00","3,80,109.00",3.5
+Gujarat,Vadodara,2015-2016,"84,874.00","2,56,938.00",3.03
+Gujarat,Vadodara,2016-2017,"65,027.00","2,46,573.00",3.79
+Gujarat,Vadodara,2017-2018,"84,076.00","4,65,457.00",5.54
+Gujarat,Vadodara,2018-2019,"81,044.00","4,03,388.00",4.98
+Gujarat,Vadodara,2019-2020,"79,735.00","3,66,344.00",4.59
+Gujarat,Vadodara,2020-2021,"79,277.00","3,90,761.00",4.93
+Gujarat,Vadodara,2021-2022,"74,944.00","3,676.12",0.05
+Gujarat,Vadodara,2022-2023,"81,686.00","4,38,117.00",5.36
+Haryana,Bhiwani,2013-2014,"60,000.00","1,85,000.00",3.08
+Haryana,Bhiwani,2014-2015,"97,000.00","2,52,000.00",2.6
+Haryana,Bhiwani,2015-2016,"93,000.00","1,83,000.00",1.97
+Haryana,Bhiwani,2016-2017,"87,600.00","2,66,900.00",3.05
+Haryana,Bhiwani,2017-2018,"86,400.00","2,04,200.00",2.36
+Haryana,Bhiwani,2018-2019,"1,03,100.00","1,94,700.00",1.89
+Haryana,Bhiwani,2019-2020,"1,00,900.00","2,65,300.00",2.63
+Haryana,Bhiwani,2020-2021,"82,050.00",112.94,0.0
+Haryana,Bhiwani,2021-2022,"82,054.00","1,13,000.00",1.38
+Haryana,Bhiwani,2022-2023,"97,290.00","1,91,740.00",1.97
+Haryana,Charki dadri,2017-2018,"27,600.00","45,300.00",1.64
+Haryana,Charki dadri,2018-2019,"36,100.00","68,200.00",1.89
+Haryana,Charki dadri,2019-2020,"32,400.00","74,900.00",2.31
+Haryana,Charki dadri,2020-2021,"36,100.00",68.8,0.0
+Haryana,Charki dadri,2021-2022,"26,408.00","50,300.00",1.9
+Haryana,Charki dadri,2022-2023,"18,810.00","39,260.00",2.09
+Haryana,Faridabad,2016-2017,100,400,4.0
+Haryana,Faridabad,2017-2018,200,500,2.5
+Haryana,Faridabad,2018-2019,500,"1,200.00",2.4
+Haryana,Faridabad,2019-2020,700,"2,100.00",3.0
+Haryana,Faridabad,2020-2021,"66,400.00",248.41,0.0
+Haryana,Faridabad,2021-2022,780,"2,800.00",3.59
+Haryana,Faridabad,2022-2023,380,760,2.0
+Haryana,Fatehabad,2013-2014,"77,000.00","3,48,000.00",4.52
+Haryana,Fatehabad,2014-2015,"79,000.00","3,03,000.00",3.84
+Haryana,Fatehabad,2015-2016,"73,000.00","89,000.00",1.22
+Haryana,Fatehabad,2016-2017,"67,400.00","2,72,000.00",4.04
+Haryana,Fatehabad,2017-2018,"71,200.00","1,89,500.00",2.66
+Haryana,Fatehabad,2018-2019,"66,700.00","2,31,900.00",3.48
+Haryana,Fatehabad,2019-2020,"65,700.00","2,52,400.00",3.84
+Haryana,Fatehabad,2020-2021,"66,940.00",237.44,0.0
+Haryana,Fatehabad,2021-2022,"63,353.00","2,24,700.00",3.55
+Haryana,Fatehabad,2022-2023,"53,340.00","1,15,060.00",2.16
+Haryana,Gurgaon,2015-2016,"1,000.00","2,000.00",2.0
+Haryana,Gurgaon,2016-2017,700,"1,200.00",1.71
+Haryana,Gurgaon,2017-2018,"1,800.00","4,300.00",2.39
+Haryana,Gurgaon,2018-2019,"2,500.00","7,500.00",3.0
+Haryana,Gurgaon,2019-2020,"5,800.00","18,400.00",3.17
+Haryana,Gurgaon,2020-2021,"4,700.00",14.9,0.0
+Haryana,Gurgaon,2021-2022,"4,845.00","15,400.00",3.18
+Haryana,Gurgaon,2022-2023,"1,850.00","4,740.00",2.56
+Haryana,Hisar,2013-2014,"1,42,000.00","4,19,000.00",2.95
+Haryana,Hisar,2014-2015,"1,55,000.00","3,40,000.00",2.19
+Haryana,Hisar,2015-2016,"1,30,000.00","2,11,000.00",1.62
+Haryana,Hisar,2016-2017,"1,14,200.00","4,18,500.00",3.66
+Haryana,Hisar,2017-2018,"1,31,600.00","3,78,400.00",2.88
+Haryana,Hisar,2018-2019,"1,42,800.00","4,20,800.00",2.95
+Haryana,Hisar,2019-2020,"1,43,600.00","4,60,400.00",3.21
+Haryana,Hisar,2020-2021,"1,45,720.00",324.87,0.0
+Haryana,Hisar,2021-2022,"1,27,688.00","2,84,600.00",2.23
+Haryana,Hisar,2022-2023,"1,18,300.00","1,52,280.00",1.29
+Haryana,Jhajjar,2013-2014,"2,000.00","5,000.00",2.5
+Haryana,Jhajjar,2014-2015,"5,000.00","15,000.00",3.0
+Haryana,Jhajjar,2015-2016,"7,000.00","18,000.00",2.57
+Haryana,Jhajjar,2016-2017,"5,500.00","16,900.00",3.07
+Haryana,Jhajjar,2017-2018,"7,500.00","22,100.00",2.95
+Haryana,Jhajjar,2018-2019,"10,600.00","32,200.00",3.04
+Haryana,Jhajjar,2019-2020,"13,300.00","39,000.00",2.93
+Haryana,Jhajjar,2020-2021,"14,970.00",47.99,0.0
+Haryana,Jhajjar,2021-2022,"11,712.00","37,500.00",3.2
+Haryana,Jhajjar,2022-2023,"8,510.00","22,360.00",2.63
+Haryana,Jind,2013-2014,"73,000.00","2,31,000.00",3.16
+Haryana,Jind,2014-2015,"76,000.00","2,14,000.00",2.82
+Haryana,Jind,2015-2016,"72,000.00","75,000.00",1.04
+Haryana,Jind,2016-2017,"58,400.00","1,72,800.00",2.96
+Haryana,Jind,2017-2018,"62,500.00","1,72,200.00",2.76
+Haryana,Jind,2018-2019,"61,200.00","1,62,400.00",2.65
+Haryana,Jind,2019-2020,"61,600.00","2,09,400.00",3.4
+Haryana,Jind,2020-2021,70,0.23,0.0
+Haryana,Jind,2021-2022,"49,677.00","1,63,600.00",3.29
+Haryana,Jind,2022-2023,"26,230.00","38,330.00",1.46
+Haryana,Kaithal,2013-2014,"11,000.00","47,000.00",4.27
+Haryana,Kaithal,2014-2015,"10,000.00","33,000.00",3.3
+Haryana,Kaithal,2015-2016,"11,000.00","14,000.00",1.27
+Haryana,Kaithal,2016-2017,"8,000.00","18,100.00",2.26
+Haryana,Kaithal,2017-2018,"7,200.00","22,200.00",3.08
+Haryana,Kaithal,2018-2019,"6,500.00","18,500.00",2.85
+Haryana,Kaithal,2019-2020,"4,800.00","13,500.00",2.81
+Haryana,Kaithal,2020-2021,"6,100.00",20.56,0.0
+Haryana,Kaithal,2021-2022,"5,558.00","18,700.00",3.36
+Haryana,Kaithal,2022-2023,"2,600.00","6,550.00",2.52
+Haryana,Karnal,2016-2017,100,400,4.0
+Haryana,Karnal,2021-2022,28,100,3.57
+Haryana,Karnal,2022-2023,10,20,2.0
+Haryana,Mahendragarh,2013-2014,"4,000.00","12,000.00",3.0
+Haryana,Mahendragarh,2014-2015,"7,000.00","22,000.00",3.14
+Haryana,Mahendragarh,2015-2016,"17,000.00","35,000.00",2.06
+Haryana,Mahendragarh,2016-2017,"14,500.00","50,200.00",3.46
+Haryana,Mahendragarh,2017-2018,"25,900.00","78,100.00",3.02
+Haryana,Mahendragarh,2018-2019,"32,400.00","1,01,200.00",3.12
+Haryana,Mahendragarh,2019-2020,"23,400.00","74,600.00",3.19
+Haryana,Mahendragarh,2020-2021,"18,400.00",38.32,0.0
+Haryana,Mahendragarh,2021-2022,"16,884.00","35,200.00",2.08
+Haryana,Mahendragarh,2022-2023,"17,170.00","53,070.00",3.09
+Haryana,Mewat,2014-2015,"1,000.00","3,000.00",3.0
+Haryana,Mewat,2015-2016,"3,000.00","5,000.00",1.67
+Haryana,Mewat,2016-2017,"2,900.00","7,200.00",2.48
+Haryana,Mewat,2017-2018,"5,100.00","15,900.00",3.12
+Haryana,Mewat,2018-2019,"5,600.00","18,600.00",3.32
+Haryana,Mewat,2019-2020,"8,200.00","28,600.00",3.49
+Haryana,Mewat,2020-2021,"5,490.00",18.05,0.0
+Haryana,Mewat,2021-2022,"3,592.00","11,800.00",3.29
+Haryana,Mewat,2022-2023,"1,730.00","5,430.00",3.14
+Haryana,Palwal,2013-2014,"1,000.00","4,000.00",4.0
+Haryana,Palwal,2014-2015,"4,000.00","12,000.00",3.0
+Haryana,Palwal,2015-2016,"6,000.00","10,000.00",1.67
+Haryana,Palwal,2016-2017,"9,800.00","30,400.00",3.1
+Haryana,Palwal,2017-2018,"16,600.00","38,500.00",2.32
+Haryana,Palwal,2018-2019,"17,600.00","54,900.00",3.12
+Haryana,Palwal,2019-2020,"26,600.00","90,900.00",3.42
+Haryana,Palwal,2020-2021,"29,880.00",102.47,0.0
+Haryana,Palwal,2021-2022,"23,419.00","80,300.00",3.43
+Haryana,Palwal,2022-2023,"17,210.00","31,920.00",1.85
+Haryana,Panipat,2016-2017,100,400,4.0
+Haryana,Panipat,2020-2021,100,0.33,0.0
+Haryana,Panipat,2021-2022,77,300,3.9
+Haryana,Panipat,2022-2023,50,170,3.4
+Haryana,Rewari,2013-2014,"1,000.00","3,000.00",3.0
+Haryana,Rewari,2014-2015,"2,000.00","5,000.00",2.5
+Haryana,Rewari,2015-2016,"7,000.00","8,000.00",1.14
+Haryana,Rewari,2016-2017,"4,800.00","13,100.00",2.73
+Haryana,Rewari,2017-2018,"7,800.00","22,100.00",2.83
+Haryana,Rewari,2018-2019,"12,800.00","16,700.00",1.3
+Haryana,Rewari,2019-2020,"18,900.00","46,800.00",2.48
+Haryana,Rewari,2020-2021,"12,490.00",21.16,0.0
+Haryana,Rewari,2021-2022,"9,416.00","16,000.00",1.7
+Haryana,Rewari,2022-2023,"7,250.00","13,950.00",1.92
+Haryana,Rohtak,2013-2014,"14,000.00","29,000.00",2.07
+Haryana,Rohtak,2014-2015,"17,000.00","34,000.00",2.0
+Haryana,Rohtak,2015-2016,"17,000.00","32,000.00",1.88
+Haryana,Rohtak,2016-2017,"15,000.00","36,500.00",2.43
+Haryana,Rohtak,2017-2018,"14,500.00","39,300.00",2.71
+Haryana,Rohtak,2018-2019,"12,700.00","37,400.00",2.94
+Haryana,Rohtak,2019-2020,"14,500.00","40,900.00",2.82
+Haryana,Rohtak,2020-2021,"15,470.00",47.59,0.0
+Haryana,Rohtak,2021-2022,"13,411.00","41,300.00",3.08
+Haryana,Rohtak,2022-2023,"9,510.00","19,530.00",2.05
+Haryana,Sirsa,2013-2014,"1,79,000.00","7,34,000.00",4.1
+Haryana,Sirsa,2014-2015,"1,90,000.00","6,95,000.00",3.66
+Haryana,Sirsa,2015-2016,"1,74,000.00","3,03,000.00",1.74
+Haryana,Sirsa,2016-2017,"1,78,600.00","7,29,100.00",4.08
+Haryana,Sirsa,2017-2018,"1,98,800.00","3,74,700.00",1.88
+Haryana,Sirsa,2018-2019,"1,93,200.00","6,35,300.00",3.29
+Haryana,Sirsa,2019-2020,"1,98,900.00","8,35,400.00",4.2
+Haryana,Sirsa,2020-2021,"2,09,190.00",499.59,0.0
+Haryana,Sirsa,2021-2022,"1,87,543.00","4,47,800.00",2.39
+Haryana,Sirsa,2022-2023,"1,91,550.00","2,97,570.00",1.55
+Haryana,Sonipat,2013-2014,"3,000.00","10,000.00",3.33
+Haryana,Sonipat,2014-2015,"4,000.00","11,000.00",2.75
+Haryana,Sonipat,2015-2016,"4,000.00","10,000.00",2.5
+Haryana,Sonipat,2016-2017,"3,400.00","12,200.00",3.59
+Haryana,Sonipat,2017-2018,"3,800.00","15,200.00",4.0
+Haryana,Sonipat,2018-2019,"4,600.00","15,100.00",3.28
+Haryana,Sonipat,2019-2020,"3,700.00","10,400.00",2.81
+Haryana,Sonipat,2020-2021,"5,790.00",20.88,0.0
+Haryana,Sonipat,2021-2022,"5,791.00","20,900.00",3.61
+Haryana,Sonipat,2022-2023,"2,820.00","7,080.00",2.51
+Himachal Pradesh,Kangra,2013-2014,1,0.5,0.5
+Himachal Pradesh,Kangra,2014-2015,4,1.57,0.39
+Himachal Pradesh,Kangra,2016-2017,3,1,0.33
+Himachal Pradesh,Kangra,2018-2019,25,9,0.36
+Himachal Pradesh,Kangra,2019-2020,15,7,0.47
+Himachal Pradesh,Solan,2013-2014,3,1,0.33
+Himachal Pradesh,Solan,2016-2017,27,11,0.41
+Jammu and Kashmir,Samba,2015-2016,2,1,0.5
+Jammu and Kashmir,Samba,2016-2017,4,2,0.5
+Jammu and Kashmir,Samba,2017-2018,5,2.6,0.52
+Karnataka,Bagalkot,2013-2014,606354,"1,795.00653",4.8
+Karnataka,Bagalkot,2014-2015,"3,299.00210350","8,996.00334663",6.21
+Karnataka,Bagalkot,2015-2016,"1,618.002002","6,401.002394",7.16
+Karnataka,Bagalkot,2016-2017,794210,"1,664.0067",2.42
+Karnataka,Bagalkot,2017-2018,"1,389.00143","4,859.00108",4.26
+Karnataka,Bagalkot,2018-2019,"1,006.00","1,973.00",1.96
+Karnataka,Bagalkot,2019-2020,"1,052.00169","3,039.00122",3.61
+Karnataka,Bagalkot,2020-2021,"2,433.00242","6,998.00144",3.48
+Karnataka,Bagalkot,2021-2022,"1,606.00262","4,743.00209",3.75
+Karnataka,Bagalkot,2022-2023,"2,536.00209","8,280.00188",4.16
+Karnataka,Bangalore rural,2013-2014,2,6,3.0
+Karnataka,Bangalore rural,2015-2016,2,4,2.0
+Karnataka,Bangalore rural,2018-2019,3,6,2.0
+Karnataka,Bangalore rural,2019-2020,21,61,4.0
+Karnataka,Bangalore rural,2020-2021,2,6,3.0
+Karnataka,Bangalore rural,2021-2022,1,3,3.0
+Karnataka,Bangalore rural,2022-2023,2,6,3.0
+Karnataka,Belgaum,2013-2014,"29,844.001,256.00265","83,384.002,316.00955",8.23
+Karnataka,Belgaum,2014-2015,"39,811.0047029","1,08,785.0074955",6.220000000000001
+Karnataka,Belgaum,2015-2016,"39,429.0011039","58,828.0013283",4.82
+Karnataka,Belgaum,2016-2017,"54,634.0090","1,45,320.0029",2.98
+Karnataka,Belgaum,2017-2018,"30,997.00","1,01,675.00",3.28
+Karnataka,Belgaum,2018-2019,"63,580.00","1,67,339.00",2.63
+Karnataka,Belgaum,2019-2020,"42,272.001,020.00","92,597.00735",2.91
+Karnataka,Belgaum,2020-2021,"39,046.001,104.00","95,088.00656",3.03
+Karnataka,Belgaum,2021-2022,"22,435.001,463.00","54,768.001,171.00",3.24
+Karnataka,Belgaum,2022-2023,"30,394.001,933.00","69,012.001,739.00",3.17
+Karnataka,Bellary,2013-2014,"72,108.001,096.001,095.00","1,84,949.002,021.003,947.00",8.0
+Karnataka,Bellary,2014-2015,"78,646.002,687.001,010.00","2,42,150.004,369.001,913.00",6.6
+Karnataka,Bellary,2015-2016,"65,890.001,171.00989","1,42,491.002,716.002,095.00",6.6000000000000005
+Karnataka,Bellary,2016-2017,"48,032.0028","1,33,665.009",3.1
+Karnataka,Bellary,2017-2018,"58,997.00164","1,98,794.00124",4.13
+Karnataka,Bellary,2018-2019,"45,465.00155","1,19,916.0074",3.12
+Karnataka,Bellary,2019-2020,"55,927.00971","1,71,886.00700",3.79
+Karnataka,Bellary,2020-2021,"49,105.001,211.00","1,67,246.00719",4.0
+Karnataka,Bellary,2021-2022,"32,812.002,187.00","98,823.001,750.00",3.81
+Karnataka,Bellary,2022-2023,"34,739.001,238.00","1,21,791.001,114.00",4.41
+Karnataka,Bengaluru urban,2018-2019,14,27,1.93
+Karnataka,Bengaluru urban,2019-2020,3,9,3.0
+Karnataka,Bengaluru urban,2022-2023,2,6,3.0
+Karnataka,Bidar,2013-2014,319,945,2.96
+Karnataka,Bidar,2014-2015,291,794,2.73
+Karnataka,Bidar,2015-2016,283,520,1.84
+Karnataka,Bidar,2016-2017,51,107,2.1
+Karnataka,Bidar,2017-2018,490,"1,714.00",3.5
+Karnataka,Bidar,2018-2019,446,875,1.96
+Karnataka,Bidar,2019-2020,"3,087.0011","8,918.008",3.62
+Karnataka,Bidar,2020-2021,"3,396.0013","9,768.008",3.5
+Karnataka,Bidar,2021-2022,"2,560.0045","7,559.0036",3.75
+Karnataka,Bidar,2022-2023,"3,543.00","8,107.00",2.29
+Karnataka,Bijapur,2013-2014,"9,881.0044692","23,301.001,201.00332",8.66
+Karnataka,Bijapur,2014-2015,"14,303.0022437","32,450.0035770",5.75
+Karnataka,Bijapur,2015-2016,"7,578.001309","11,264.0015519",4.789999999999999
+Karnataka,Bijapur,2016-2017,"10,272.0046","27,322.0015",2.99
+Karnataka,Bijapur,2017-2018,"12,003.00117","32,262.0088",3.44
+Karnataka,Bijapur,2018-2019,"34,297.00272","59,029.00131",2.2
+Karnataka,Bijapur,2019-2020,"50,936.00570","1,04,459.00411",2.77
+Karnataka,Bijapur,2020-2021,"46,446.00775","98,356.00460",2.71
+Karnataka,Bijapur,2021-2022,"35,046.00611","99,159.00488",3.63
+Karnataka,Bijapur,2022-2023,"83,073.002,365.00","2,46,775.002,128.00",3.87
+Karnataka,Chamarajanagar,2013-2014,"10,166.00","30,108.00",2.96
+Karnataka,Chamarajanagar,2014-2015,"15,063.00","17,592.00",1.17
+Karnataka,Chamarajanagar,2015-2016,"13,584.00","14,271.00",1.05
+Karnataka,Chamarajanagar,2016-2017,"8,975.00","2,307.00",0.26
+Karnataka,Chamarajanagar,2017-2018,"10,014.00","22,215.00",2.22
+Karnataka,Chamarajanagar,2018-2019,"7,097.00","8,526.00",1.2
+Karnataka,Chamarajanagar,2019-2020,"10,031.0060","12,724.0043",1.99
+Karnataka,Chamarajanagar,2020-2021,"8,906.00278","11,997.00165",1.94
+Karnataka,Chamarajanagar,2021-2022,"7,074.00272","13,065.00218",2.6500000000000004
+Karnataka,Chamarajanagar,2022-2023,"8,593.0054","16,528.0049",2.83
+Karnataka,Chikballapur,2013-2014,160,474,2.96
+Karnataka,Chikballapur,2014-2015,67,183,2.73
+Karnataka,Chikballapur,2015-2016,107,197,1.84
+Karnataka,Chikballapur,2016-2017,109,228,2.09
+Karnataka,Chikballapur,2017-2018,40,140,3.5
+Karnataka,Chikballapur,2018-2019,118,231,1.96
+Karnataka,Chikballapur,2019-2020,18241,52630,3.62
+Karnataka,Chikballapur,2020-2021,8360,23936,3.48
+Karnataka,Chikballapur,2021-2022,11795,34476,3.74
+Karnataka,Chikballapur,2022-2023,97401,317361,4.17
+Karnataka,Chikmagalur,2013-2014,"1,299.00","1,386.00",1.07
+Karnataka,Chikmagalur,2014-2015,"1,843.00","3,018.00",1.64
+Karnataka,Chikmagalur,2015-2016,"1,364.00","1,867.00",1.37
+Karnataka,Chikmagalur,2016-2017,"1,570.00","1,009.00",0.64
+Karnataka,Chikmagalur,2017-2018,"1,883.00","3,893.00",2.07
+Karnataka,Chikmagalur,2018-2019,"1,689.00","2,775.00",1.64
+Karnataka,Chikmagalur,2019-2020,"1,063.005","2,020.004",2.7
+Karnataka,Chikmagalur,2020-2021,9933,"5,888.002",6.6
+Karnataka,Chikmagalur,2021-2022,"1,687.0061","4,464.0049",3.45
+Karnataka,Chikmagalur,2022-2023,"3,703.0043","8,845.0039",3.3000000000000003
+Karnataka,Chitradurga,2013-2014,"20,250.00716","34,287.001,320.00",3.53
+Karnataka,Chitradurga,2014-2015,"28,366.009184","48,504.00141159",5.15
+Karnataka,Chitradurga,2015-2016,"16,703.004411","22,121.005323",4.609999999999999
+Karnataka,Chitradurga,2016-2017,"8,788.00","8,004.00",0.91
+Karnataka,Chitradurga,2017-2018,"10,255.0059","19,656.0045",2.68
+Karnataka,Chitradurga,2018-2019,"9,459.0024","16,544.0012",2.25
+Karnataka,Chitradurga,2019-2020,"17,023.00878","30,440.00633",2.51
+Karnataka,Chitradurga,2020-2021,"11,119.00192","26,555.00114",2.98
+Karnataka,Chitradurga,2021-2022,"10,822.00","23,363.00",2.16
+Karnataka,Chitradurga,2022-2023,"21,067.002,765.00","33,459.002,488.00",2.49
+Karnataka,Davangere,2013-2014,"19,895.00131552","25,348.002421,990.00",6.73
+Karnataka,Davangere,2014-2015,"20,325.00259130","29,075.00412246",4.91
+Karnataka,Davangere,2015-2016,"15,483.00205","37,376.00245",3.61
+Karnataka,Davangere,2016-2017,"9,109.0048","10,638.0015",1.48
+Karnataka,Davangere,2017-2018,"4,740.0028","6,728.0021",2.17
+Karnataka,Davangere,2018-2019,"3,038.00","5,636.00",1.86
+Karnataka,Davangere,2019-2020,"2,580.00245","4,642.00177",2.52
+Karnataka,Davangere,2020-2021,"1,654.00102","3,940.0061",2.98
+Karnataka,Davangere,2021-2022,"1,026.00233","1,998.00187",2.75
+Karnataka,Davangere,2022-2023,"2,071.00152","3,204.00137",2.45
+Karnataka,Dharwad,2013-2014,"60,529.0029,968.00","79,824.0055,262.00",3.16
+Karnataka,Dharwad,2014-2015,"80,222.0016,962.00","1,67,657.0018,388.00",3.17
+Karnataka,Dharwad,2015-2016,"55,443.0011,445.00","52,669.0010,872.00",1.9
+Karnataka,Dharwad,2016-2017,"64,507.005,765.00","89,395.003,157.00",1.94
+Karnataka,Dharwad,2017-2018,"34,189.008,444.00","58,652.005,473.00",2.37
+Karnataka,Dharwad,2018-2019,"51,001.002,004.00","75,808.00784",1.88
+Karnataka,Dharwad,2019-2020,"80,677.002,118.00","1,64,550.001,491.00",2.74
+Karnataka,Dharwad,2020-2021,"84,861.004,107.00","1,57,242.002,319.00",2.41
+Karnataka,Dharwad,2021-2022,"53,479.002,419.00","1,01,609.001,309.00",2.44
+Karnataka,Dharwad,2022-2023,"46,840.002,194.00","85,139.001,807.00",2.64
+Karnataka,Gadag,2013-2014,"25,670.0032,535.00","1,00,411.0059,632.00",5.74
+Karnataka,Gadag,2014-2015,"64,795.0033,366.00","1,98,055.0065,817.00",5.03
+Karnataka,Gadag,2015-2016,"31,488.0017,358.00","62,464.0023,279.00",3.3200000000000003
+Karnataka,Gadag,2016-2017,"36,249.0016,878.00","67,857.004,244.00",2.12
+Karnataka,Gadag,2017-2018,"22,095.0013,135.00","88,773.0010,790.00",4.84
+Karnataka,Gadag,2018-2019,"24,238.001,433.00","32,235.00657",1.79
+Karnataka,Gadag,2019-2020,"30,731.004,627.00","81,398.003,387.00",3.38
+Karnataka,Gadag,2020-2021,"31,224.003,631.00","71,999.002,307.00",2.95
+Karnataka,Gadag,2021-2022,"19,395.002,176.00","50,656.002,355.00",3.69
+Karnataka,Gadag,2022-2023,"19,992.002,657.00","38,102.002,563.00",2.87
+Karnataka,Gulbarga,2013-2014,"47,273.00","2,69,445.00",5.7
+Karnataka,Gulbarga,2014-2015,"82,637.00","3,38,020.00",4.09
+Karnataka,Gulbarga,2015-2016,"49,322.00","1,03,630.00",2.1
+Karnataka,Gulbarga,2016-2017,"32,830.00","1,07,321.00",3.27
+Karnataka,Gulbarga,2017-2018,"62,289.00","3,24,402.00",5.21
+Karnataka,Gulbarga,2018-2019,"68,183.00","2,03,077.00",2.98
+Karnataka,Gulbarga,2019-2020,"1,00,845.00439","3,79,250.00316",4.48
+Karnataka,Gulbarga,2020-2021,"1,06,528.001,254.00","2,53,787.00745",2.97
+Karnataka,Gulbarga,2021-2022,"67,065.00441","2,05,930.00353",3.87
+Karnataka,Gulbarga,2022-2023,"1,32,631.001,702.00","4,33,002.001,532.00",4.16
+Karnataka,Hassan,2013-2014,281,832,2.96
+Karnataka,Hassan,2014-2015,400,"1,091.00",2.73
+Karnataka,Hassan,2015-2016,354,651,1.84
+Karnataka,Hassan,2016-2017,97,94,0.97
+Karnataka,Hassan,2017-2018,125,416,3.33
+Karnataka,Hassan,2018-2019,48,54,1.13
+Karnataka,Hassan,2019-2020,3476,"1,002.004",3.56
+Karnataka,Hassan,2020-2021,4188,"1,180.005",3.45
+Karnataka,Hassan,2021-2022,65014,"1,643.0011",3.32
+Karnataka,Hassan,2022-2023,"1,538.0022","3,790.0019",3.32
+Karnataka,Haveri,2013-2014,"96,977.00821","1,92,919.001,514.00",3.83
+Karnataka,Haveri,2014-2015,"1,05,249.00244534","2,11,727.002811,012.00",5.06
+Karnataka,Haveri,2015-2016,"84,065.0031247","1,78,977.00134100",4.69
+Karnataka,Haveri,2016-2017,"74,804.0096","95,305.0031",1.59
+Karnataka,Haveri,2017-2018,"69,947.00240","2,09,112.00181",3.74
+Karnataka,Haveri,2018-2019,"80,839.0083","1,54,491.00260",5.04
+Karnataka,Haveri,2019-2020,"54,770.00","75,596.00",1.38
+Karnataka,Haveri,2020-2021,"39,410.00","79,052.00",2.01
+Karnataka,Haveri,2021-2022,"25,572.00","60,771.00",2.38
+Karnataka,Haveri,2022-2023,"29,104.00438","22,770.00394",1.6800000000000002
+Karnataka,Kodagu,2020-2021,1,3,3.0
+Karnataka,Kolar,2019-2020,3,2,0.67
+Karnataka,Kolar,2020-2021,313,98,3.62
+Karnataka,Kolar,2021-2022,119,327,3.69
+Karnataka,Kolar,2022-2023,1121,3108,3.89
+Karnataka,Koppal,2013-2014,"4,447.007,653.00","12,077.0014,112.00",4.5600000000000005
+Karnataka,Koppal,2014-2015,"12,128.0010,772.00","36,529.0013,182.00",4.23
+Karnataka,Koppal,2015-2016,"17,294.0010,471.00","11,113.0011,702.00",1.7600000000000002
+Karnataka,Koppal,2016-2017,"1,598.001,451.00","2,411.00300",1.72
+Karnataka,Koppal,2017-2018,"3,364.003,242.00","10,301.002,446.00",3.81
+Karnataka,Koppal,2018-2019,"6,574.00536","12,453.00258",2.37
+Karnataka,Koppal,2019-2020,"8,336.00317","14,487.00229",2.46
+Karnataka,Koppal,2020-2021,"11,933.00768","26,814.00456",2.84
+Karnataka,Koppal,2021-2022,"13,081.004,185.00","28,778.003,348.00",3.0
+Karnataka,Koppal,2022-2023,"15,585.001,861.00","32,178.001,675.00",2.96
+Karnataka,Mandya,2013-2014,4,12,3.0
+Karnataka,Mandya,2014-2015,5,14,2.8
+Karnataka,Mandya,2018-2019,4,8,2.0
+Karnataka,Mandya,2019-2020,1,3,3.0
+Karnataka,Mandya,2020-2021,2,6,3.0
+Karnataka,Mandya,2021-2022,5,14,2.8
+Karnataka,Mandya,2022-2023,21,61,4.0
+Karnataka,Mysore,2013-2014,"46,165.0010","1,36,724.0036",6.5600000000000005
+Karnataka,Mysore,2014-2015,"48,174.00","85,874.00",1.78
+Karnataka,Mysore,2015-2016,"49,160.00","65,105.00",1.32
+Karnataka,Mysore,2016-2017,"39,754.00","25,991.00",0.65
+Karnataka,Mysore,2017-2018,"48,027.00","1,13,791.00",2.37
+Karnataka,Mysore,2018-2019,"43,453.00","54,633.00",1.26
+Karnataka,Mysore,2019-2020,"36,379.00","45,536.00",1.25
+Karnataka,Mysore,2020-2021,"29,774.005","50,090.003",2.28
+Karnataka,Mysore,2021-2022,"25,570.0064","33,993.0051",2.13
+Karnataka,Mysore,2022-2023,"33,357.0072","40,814.0064",2.11
+Karnataka,Raichur,2013-2014,"55,755.00","1,65,126.00",2.96
+Karnataka,Raichur,2014-2015,"1,04,970.00","3,02,671.00",2.88
+Karnataka,Raichur,2015-2016,"45,159.00250","1,24,408.00299",3.95
+Karnataka,Raichur,2016-2017,"47,054.00","1,75,117.00",3.72
+Karnataka,Raichur,2017-2018,"85,850.00","2,18,757.00",2.55
+Karnataka,Raichur,2018-2019,"1,23,580.00","2,18,909.00",1.77
+Karnataka,Raichur,2019-2020,"1,49,434.001,716.00","3,62,406.001,237.00",3.1500000000000004
+Karnataka,Raichur,2020-2021,"1,69,434.001,250.00","5,28,235.00743",3.71
+Karnataka,Raichur,2021-2022,"1,69,518.00646","4,27,785.00517",3.3200000000000003
+Karnataka,Raichur,2022-2023,"2,26,260.004,897.00","9,71,589.004,407.00",5.19
+Karnataka,Ramanagara,2014-2015,1,3,3.0
+Karnataka,Ramanagara,2015-2016,1,2,2.0
+Karnataka,Ramanagara,2016-2017,1,2,2.0
+Karnataka,Ramanagara,2018-2019,1,2,2.0
+Karnataka,Ramanagara,2019-2020,32,91,3.5
+Karnataka,Ramanagara,2020-2021,2,6,3.0
+Karnataka,Ramanagara,2021-2022,23,62,3.67
+Karnataka,Ramanagara,2022-2023,1,3,3.0
+Karnataka,Shimoga,2013-2014,7381,"1,905.004",6.58
+Karnataka,Shimoga,2014-2015,849,"2,111.00",2.49
+Karnataka,Shimoga,2015-2016,544,"2,629.00",4.83
+Karnataka,Shimoga,2016-2017,503,"1,054.00",2.1
+Karnataka,Shimoga,2017-2018,"1,253.00","4,383.00",3.5
+Karnataka,Shimoga,2018-2019,"1,494.00","2,930.00",1.96
+Karnataka,Shimoga,2019-2020,4843,"1,398.002",3.56
+Karnataka,Shimoga,2020-2021,3116,8954,3.55
+Karnataka,Shimoga,2021-2022,263,776,2.95
+Karnataka,Shimoga,2022-2023,268,873,3.26
+Karnataka,Tumkur,2013-2014,75327,"1,675.00425",7.790000000000001
+Karnataka,Tumkur,2014-2015,"1,742.0029","4,507.00317",5.98
+Karnataka,Tumkur,2015-2016,"1,526.008","2,746.0017",3.93
+Karnataka,Tumkur,2016-2017,"1,101.002","14,267.001",13.46
+Karnataka,Tumkur,2017-2018,736,391,0.53
+Karnataka,Tumkur,2018-2019,"1,512.00","1,817.00",1.2
+Karnataka,Tumkur,2019-2020,"2,151.00","4,159.00",1.93
+Karnataka,Tumkur,2020-2021,"3,065.00","6,905.00",2.25
+Karnataka,Tumkur,2021-2022,"4,430.00","6,045.00",1.36
+Karnataka,Tumkur,2022-2023,"7,332.0054","12,034.0049",2.55
+Karnataka,Uttar kannad,2013-2014,"1,351.00","2,763.00",2.05
+Karnataka,Uttar kannad,2014-2015,"1,412.00","2,612.00",1.85
+Karnataka,Uttar kannad,2015-2016,"1,268.00","2,359.00",1.86
+Karnataka,Uttar kannad,2016-2017,"1,110.00","3,387.00",3.05
+Karnataka,Uttar kannad,2017-2018,"1,210.00","4,354.00",3.6
+Karnataka,Uttar kannad,2018-2019,956,"2,388.00",2.5
+Karnataka,Uttar kannad,2019-2020,5114,"1,356.003",3.4
+Karnataka,Uttar kannad,2020-2021,395,981,2.48
+Karnataka,Uttar kannad,2021-2022,243,671,2.76
+Karnataka,Uttar kannad,2022-2023,367,681,1.86
+Karnataka,Vijayanagar,2022-2023,"4,243.002,328.00","9,036.002,096.00",3.03
+Karnataka,Yadgir,2013-2014,"80,504.00","3,81,928.00",4.74
+Karnataka,Yadgir,2014-2015,"1,03,866.00","3,62,752.00",3.49
+Karnataka,Yadgir,2015-2016,"1,01,418.00","1,97,787.00",1.95
+Karnataka,Yadgir,2016-2017,"43,011.00","1,03,589.00",2.41
+Karnataka,Yadgir,2017-2018,"61,479.00","3,99,542.00",6.5
+Karnataka,Yadgir,2018-2019,"1,45,784.00","2,56,612.00",1.76
+Karnataka,Yadgir,2019-2020,"1,54,240.001,187.00","7,56,742.00856",5.63
+Karnataka,Yadgir,2020-2021,"1,60,440.004,019.00","7,02,161.002,388.00",4.97
+Karnataka,Yadgir,2021-2022,"1,62,796.001,326.00","7,12,470.001,061.00",5.18
+Karnataka,Yadgir,2022-2023,"2,16,034.00625","8,48,887.00563",4.83
+Kerala,Palakkad,2016-2017,80,120,1.5
+Kerala,Palakkad,2017-2018,84,132,1.57
+Kerala,Palakkad,2018-2019,59.4,89.51,1.51
+Kerala,Palakkad,2019-2020,54,81.77,1.51
+Kerala,Palakkad,2020-2021,5,34,6.8
+Kerala,Palakkad,2021-2022,4,22,5.5
+Kerala,Palakkad,2022-2023,5.2,51.76,9.95
+Kerala,Thrissur,2015-2016,109,196,1.8
+Madhya Pradesh,Alirajpur,2013-2014,"7,870.00","16,717.00",2.12
+Madhya Pradesh,Alirajpur,2014-2015,"27,000.00","27,000.00",1.0
+Madhya Pradesh,Alirajpur,2015-2016,"9,000.00","11,000.00",1.22
+Madhya Pradesh,Alirajpur,2016-2017,"7,000.00","7,000.00",1.0
+Madhya Pradesh,Alirajpur,2017-2018,"9,000.00","9,250.00",1.03
+Madhya Pradesh,Alirajpur,2018-2019,"11,171.00","21,527.00",1.93
+Madhya Pradesh,Alirajpur,2019-2020,"20,379.00","25,718.00",1.26
+Madhya Pradesh,Alirajpur,2020-2021,"17,143.00","21,634.00",1.26
+Madhya Pradesh,Alirajpur,2021-2022,"18,839.00","1,41,847.05",7.53
+Madhya Pradesh,Alirajpur,2022-2023,"22,403.00","22,739.00",1.01
+Madhya Pradesh,Barwani,2013-2014,"65,882.00","1,98,850.00",3.02
+Madhya Pradesh,Barwani,2014-2015,"76,000.00","81,000.00",1.07
+Madhya Pradesh,Barwani,2015-2016,"70,000.00","80,000.00",1.14
+Madhya Pradesh,Barwani,2016-2017,"62,000.00","1,35,000.00",2.18
+Madhya Pradesh,Barwani,2017-2018,"64,000.00","1,32,160.00",2.07
+Madhya Pradesh,Barwani,2018-2019,"72,709.00","2,65,679.00",3.65
+Madhya Pradesh,Barwani,2019-2020,"81,857.00","1,33,591.00",1.63
+Madhya Pradesh,Barwani,2020-2021,"79,136.00","1,40,862.00",1.78
+Madhya Pradesh,Barwani,2021-2022,"76,869.00","8,04,864.70",10.47
+Madhya Pradesh,Barwani,2022-2023,"90,095.00","1,79,289.00",1.99
+Madhya Pradesh,Betul,2013-2014,214,221,1.03
+Madhya Pradesh,Betul,2014-2015,"5,000.00","5,000.00",1.0
+Madhya Pradesh,Betul,2017-2018,300,460,1.53
+Madhya Pradesh,Betul,2018-2019,529,295,0.56
+Madhya Pradesh,Betul,2019-2020,"1,613.00",903,0.56
+Madhya Pradesh,Betul,2020-2021,"1,280.00",960,0.75
+Madhya Pradesh,Betul,2021-2022,904,"4,547.05",5.03
+Madhya Pradesh,Betul,2022-2023,"1,575.00","1,024.00",0.65
+Madhya Pradesh,Bhind,2019-2020,2,1,0.5
+Madhya Pradesh,Burhanpur,2013-2014,"42,221.00","1,19,578.00",2.83
+Madhya Pradesh,Burhanpur,2014-2015,"61,000.00","51,000.00",0.84
+Madhya Pradesh,Burhanpur,2015-2016,"43,000.00","48,000.00",1.12
+Madhya Pradesh,Burhanpur,2016-2017,"45,000.00","98,000.00",2.18
+Madhya Pradesh,Burhanpur,2017-2018,"47,100.00","95,000.00",2.02
+Madhya Pradesh,Burhanpur,2018-2019,"13,485.00","43,678.00",3.24
+Madhya Pradesh,Burhanpur,2019-2020,"35,819.00","64,188.00",1.79
+Madhya Pradesh,Burhanpur,2020-2021,"27,800.00","50,318.00",1.81
+Madhya Pradesh,Burhanpur,2021-2022,"23,467.00","2,20,588.23",9.4
+Madhya Pradesh,Burhanpur,2022-2023,"26,342.00","51,499.00",1.96
+Madhya Pradesh,Chhatarpur,2018-2019,16,24,1.5
+Madhya Pradesh,Chhindwara,2013-2014,"34,093.00","38,227.00",1.12
+Madhya Pradesh,Chhindwara,2014-2015,"15,000.00","10,000.00",0.67
+Madhya Pradesh,Chhindwara,2015-2016,"44,000.00","51,000.00",1.16
+Madhya Pradesh,Chhindwara,2016-2017,"45,000.00","48,000.00",1.07
+Madhya Pradesh,Chhindwara,2017-2018,"47,600.00","53,360.00",1.12
+Madhya Pradesh,Chhindwara,2018-2019,"17,462.00","30,698.00",1.76
+Madhya Pradesh,Chhindwara,2019-2020,"58,194.00","1,39,840.00",2.4
+Madhya Pradesh,Chhindwara,2020-2021,"51,245.00","1,28,625.00",2.51
+Madhya Pradesh,Chhindwara,2021-2022,"50,152.00","6,34,276.40",12.65
+Madhya Pradesh,Chhindwara,2022-2023,"59,386.00","1,01,550.00",1.71
+Madhya Pradesh,Damoh,2021-2022,4,23.53,5.88
+Madhya Pradesh,Datia,2018-2019,1,2,2.0
+Madhya Pradesh,Datia,2021-2022,1,5.88,5.88
+Madhya Pradesh,Dewas,2013-2014,"6,625.00","12,930.00",1.95
+Madhya Pradesh,Dewas,2014-2015,"8,000.00","8,000.00",1.0
+Madhya Pradesh,Dewas,2015-2016,"9,000.00","11,000.00",1.22
+Madhya Pradesh,Dewas,2016-2017,"11,000.00","6,000.00",0.55
+Madhya Pradesh,Dewas,2017-2018,"6,000.00","8,700.00",1.45
+Madhya Pradesh,Dewas,2018-2019,300,433,1.44
+Madhya Pradesh,Dewas,2019-2020,"1,097.00",975,0.89
+Madhya Pradesh,Dewas,2020-2021,441,392,0.89
+Madhya Pradesh,Dewas,2021-2022,431,"3,676.47",8.53
+Madhya Pradesh,Dewas,2022-2023,561,813,1.45
+Madhya Pradesh,Dhar,2013-2014,"96,409.00","2,35,076.00",2.44
+Madhya Pradesh,Dhar,2014-2015,"1,08,000.00","80,000.00",0.74
+Madhya Pradesh,Dhar,2015-2016,"92,000.00","1,25,000.00",1.36
+Madhya Pradesh,Dhar,2016-2017,"1,01,000.00","1,11,000.00",1.1
+Madhya Pradesh,Dhar,2017-2018,"98,000.00","1,96,000.00",2.0
+Madhya Pradesh,Dhar,2018-2019,"81,273.00","1,27,842.00",1.57
+Madhya Pradesh,Dhar,2019-2020,"1,03,299.00","1,83,872.00",1.78
+Madhya Pradesh,Dhar,2020-2021,"1,00,462.00","1,78,822.00",1.78
+Madhya Pradesh,Dhar,2021-2022,"1,10,255.00","9,63,111.76",8.74
+Madhya Pradesh,Dhar,2022-2023,"1,17,816.00","1,74,957.00",1.49
+Madhya Pradesh,Dindori,2018-2019,7,10,1.43
+Madhya Pradesh,Guna,2014-2015,"5,000.00","3,000.00",0.6
+Madhya Pradesh,Guna,2018-2019,71,48,0.68
+Madhya Pradesh,Guna,2019-2020,101,78,0.77
+Madhya Pradesh,Guna,2020-2021,27,21,0.78
+Madhya Pradesh,Guna,2021-2022,44,229.41,5.21
+Madhya Pradesh,Guna,2022-2023,23,18,0.78
+Madhya Pradesh,Harda,2013-2014,100,157,1.57
+Madhya Pradesh,Harda,2014-2015,"4,000.00","3,000.00",0.75
+Madhya Pradesh,Harda,2017-2018,50,80,1.6
+Madhya Pradesh,Harda,2018-2019,13,15,1.15
+Madhya Pradesh,Harda,2019-2020,23,16,0.7
+Madhya Pradesh,Harda,2020-2021,2,1,0.5
+Madhya Pradesh,Harda,2021-2022,12,82.35,6.86
+Madhya Pradesh,Indore,2013-2014,38,35,0.92
+Madhya Pradesh,Indore,2014-2015,"5,000.00","3,000.00",0.6
+Madhya Pradesh,Indore,2017-2018,400,440,1.1
+Madhya Pradesh,Indore,2018-2019,17,19,1.12
+Madhya Pradesh,Indore,2019-2020,185,100,0.54
+Madhya Pradesh,Indore,2020-2021,97,52,0.54
+Madhya Pradesh,Indore,2021-2022,68,211.76,3.11
+Madhya Pradesh,Indore,2022-2023,67,49,0.73
+Madhya Pradesh,Jabalpur,2019-2020,1,1,1.0
+Madhya Pradesh,Jhabua,2013-2014,"20,845.00","62,410.00",2.99
+Madhya Pradesh,Jhabua,2014-2015,"21,000.00","18,000.00",0.86
+Madhya Pradesh,Jhabua,2015-2016,"26,000.00","41,000.00",1.58
+Madhya Pradesh,Jhabua,2016-2017,"26,000.00","46,000.00",1.77
+Madhya Pradesh,Jhabua,2017-2018,"25,000.00","25,100.00",1.0
+Madhya Pradesh,Jhabua,2018-2019,"5,118.00","6,551.00",1.28
+Madhya Pradesh,Jhabua,2019-2020,"35,267.00","32,058.00",0.91
+Madhya Pradesh,Jhabua,2020-2021,"28,683.00","35,280.00",1.23
+Madhya Pradesh,Jhabua,2021-2022,"22,543.00","1,15,364.70",5.12
+Madhya Pradesh,Jhabua,2022-2023,"23,997.00","28,700.00",1.2
+Madhya Pradesh,Katni,2019-2020,16,17,1.06
+Madhya Pradesh,Katni,2020-2021,10,11,1.1
+Madhya Pradesh,Katni,2021-2022,16,100,6.25
+Madhya Pradesh,Katni,2022-2023,39,41,1.05
+Madhya Pradesh,Khandwa,2013-2014,"57,663.00","1,29,552.00",2.25
+Madhya Pradesh,Khandwa,2014-2015,"72,000.00","1,06,000.00",1.47
+Madhya Pradesh,Khandwa,2015-2016,"53,000.00","66,000.00",1.25
+Madhya Pradesh,Khandwa,2016-2017,"60,000.00","85,000.00",1.42
+Madhya Pradesh,Khandwa,2017-2018,"58,000.00","74,180.00",1.28
+Madhya Pradesh,Khandwa,2018-2019,"45,941.00","47,044.00",1.02
+Madhya Pradesh,Khandwa,2019-2020,"62,918.00","48,950.00",0.78
+Madhya Pradesh,Khandwa,2020-2021,"51,092.00","63,865.00",1.25
+Madhya Pradesh,Khandwa,2021-2022,"51,068.00","3,48,464.70",6.82
+Madhya Pradesh,Khandwa,2022-2023,"45,901.00","60,498.00",1.32
+Madhya Pradesh,Khargone,2013-2014,"2,20,210.00","3,69,275.00",1.68
+Madhya Pradesh,Khargone,2014-2015,"1,97,000.00","3,13,000.00",1.59
+Madhya Pradesh,Khargone,2015-2016,"1,92,000.00","2,55,000.00",1.33
+Madhya Pradesh,Khargone,2016-2017,"2,15,000.00","3,79,000.00",1.76
+Madhya Pradesh,Khargone,2017-2018,"2,18,000.00","3,11,090.00",1.43
+Madhya Pradesh,Khargone,2018-2019,"2,03,715.00","3,31,037.00",1.63
+Madhya Pradesh,Khargone,2019-2020,"2,27,660.00","1,94,194.00",0.85
+Madhya Pradesh,Khargone,2020-2021,"2,12,333.00","2,42,060.00",1.14
+Madhya Pradesh,Khargone,2021-2022,"1,90,032.00","13,74,935.30",7.24
+Madhya Pradesh,Khargone,2022-2023,"1,91,341.00","2,52,953.00",1.32
+Madhya Pradesh,Mandla,2019-2020,1,,0.0
+Madhya Pradesh,Mandla,2020-2021,3,1,0.33
+Madhya Pradesh,Mandsaur,2013-2014,403,675,1.67
+Madhya Pradesh,Mandsaur,2014-2015,"5,000.00","4,000.00",0.8
+Madhya Pradesh,Mandsaur,2017-2018,200,250,1.25
+Madhya Pradesh,Mandsaur,2018-2019,15,15,1.0
+Madhya Pradesh,Mandsaur,2019-2020,14,10,0.71
+Madhya Pradesh,Morena,2018-2019,44,92,2.09
+Madhya Pradesh,Morena,2019-2020,25,29,1.16
+Madhya Pradesh,Morena,2020-2021,2,2,1.0
+Madhya Pradesh,Narsinghpur,2018-2019,13,20,1.54
+Madhya Pradesh,Narsinghpur,2019-2020,16,15,0.94
+Madhya Pradesh,Narsinghpur,2020-2021,11,10,0.91
+Madhya Pradesh,Narsinghpur,2022-2023,24,22,0.92
+Madhya Pradesh,Neemuch,2013-2014,64,91,1.42
+Madhya Pradesh,Neemuch,2014-2015,"5,000.00","4,000.00",0.8
+Madhya Pradesh,Neemuch,2017-2018,140,250,1.79
+Madhya Pradesh,Neemuch,2018-2019,189,188,0.99
+Madhya Pradesh,Neemuch,2019-2020,89,44,0.49
+Madhya Pradesh,Neemuch,2020-2021,70,34,0.49
+Madhya Pradesh,Neemuch,2021-2022,14,47.05,3.36
+Madhya Pradesh,Panna,2019-2020,1,,0.0
+Madhya Pradesh,Raisen,2018-2019,108,60,0.56
+Madhya Pradesh,Raisen,2019-2020,10,2,0.2
+Madhya Pradesh,Raisen,2020-2021,4,1,0.25
+Madhya Pradesh,Raisen,2021-2022,2,0,0.0
+Madhya Pradesh,Rajgarh,2018-2019,1,1,1.0
+Madhya Pradesh,Ratlam,2013-2014,"20,927.00","41,329.00",1.97
+Madhya Pradesh,Ratlam,2014-2015,"11,000.00","13,000.00",1.18
+Madhya Pradesh,Ratlam,2015-2016,"23,000.00","25,000.00",1.09
+Madhya Pradesh,Ratlam,2016-2017,"28,000.00","32,000.00",1.14
+Madhya Pradesh,Ratlam,2017-2018,"29,400.00","46,800.00",1.59
+Madhya Pradesh,Ratlam,2018-2019,"1,934.00","3,100.00",1.6
+Madhya Pradesh,Ratlam,2019-2020,"21,103.00","13,865.00",0.66
+Madhya Pradesh,Ratlam,2020-2021,"18,306.00","14,645.00",0.8
+Madhya Pradesh,Ratlam,2021-2022,"15,500.00","84,794.11",5.47
+Madhya Pradesh,Ratlam,2022-2023,"15,334.00","15,748.00",1.03
+Madhya Pradesh,Rewa,2019-2020,7,3,0.43
+Madhya Pradesh,Rewa,2021-2022,1,5.88,5.88
+Madhya Pradesh,Sagar,2019-2020,6,5,0.83
+Madhya Pradesh,Satna,2021-2022,21,76.47,3.64
+Madhya Pradesh,Sehore,2019-2020,1,,0.0
+Madhya Pradesh,Sehore,2021-2022,1,5.88,5.88
+Madhya Pradesh,Seoni,2015-2016,"1,000.00","1,000.00",1.0
+Madhya Pradesh,Seoni,2018-2019,78,105,1.35
+Madhya Pradesh,Seoni,2019-2020,86,63,0.73
+Madhya Pradesh,Seoni,2020-2021,72,52,0.72
+Madhya Pradesh,Seoni,2021-2022,58,441.17,7.61
+Madhya Pradesh,Seoni,2022-2023,112,144,1.29
+Madhya Pradesh,Shahdol,2019-2020,2,2,1.0
+Madhya Pradesh,Shahdol,2021-2022,1,5.88,5.88
+Madhya Pradesh,Shajapur,2014-2015,"7,000.00","6,000.00",0.86
+Madhya Pradesh,Sheopur,2013-2014,248,320,1.29
+Madhya Pradesh,Sheopur,2014-2015,"5,000.00","3,000.00",0.6
+Madhya Pradesh,Sheopur,2018-2019,634,704,1.11
+Madhya Pradesh,Sheopur,2019-2020,507,361,0.71
+Madhya Pradesh,Sheopur,2020-2021,71,51,0.72
+Madhya Pradesh,Sheopur,2021-2022,39,129.41,3.32
+Madhya Pradesh,Sheopur,2022-2023,18,15,0.83
+Madhya Pradesh,Shivpuri,2018-2019,14,18,1.29
+Madhya Pradesh,Sidhi,2018-2019,3,1,0.33
+Madhya Pradesh,Sidhi,2019-2020,2,2,1.0
+Madhya Pradesh,Sidhi,2020-2021,7,6,0.86
+Madhya Pradesh,Sidhi,2021-2022,1,5.88,5.88
+Madhya Pradesh,Singrauli,2019-2020,2,,0.0
+Madhya Pradesh,Singrauli,2021-2022,1,0,0.0
+Madhya Pradesh,Tikamgarh,2018-2019,3,4,1.33
+Madhya Pradesh,Ujjain,2018-2019,3,3,1.0
+Madhya Pradesh,Ujjain,2020-2021,3,1,0.33
+Madhya Pradesh,Ujjain,2021-2022,2,0,0.0
+Madhya Pradesh,Umaria,2019-2020,2,2,1.0
+Madhya Pradesh,Vidisha,2018-2019,2,2,1.0
+Maharashtra,Ahilyanagar,2013-2014,"1,04,700.00","2,22,400.00",2.12
+Maharashtra,Ahilyanagar,2014-2015,"1,02,600.00","96,700.00",0.94
+Maharashtra,Ahilyanagar,2015-2016,"73,600.00","39,000.00",0.53
+Maharashtra,Ahilyanagar,2016-2017,"1,32,400.00","1,39,400.00",1.05
+Maharashtra,Ahilyanagar,2017-2018,"1,32,800.00","2,20,600.00",1.66
+Maharashtra,Ahilyanagar,2018-2019,"1,29,932.00","48,381.00",0.37
+Maharashtra,Ahilyanagar,2019-2020,"1,59,250.00","1,46,932.00",0.92
+Maharashtra,Ahilyanagar,2020-2021,"1,72,800.00","3,99,500.00",2.31
+Maharashtra,Ahilyanagar,2021-2022,"1,62,600.00","2,77,400.00",1.71
+Maharashtra,Ahilyanagar,2022-2023,"1,31,229.17","2,55,061.86",1.94
+Maharashtra,Akola,2013-2014,"1,47,300.00","3,43,600.00",2.33
+Maharashtra,Akola,2014-2015,"1,47,000.00","1,22,600.00",0.83
+Maharashtra,Akola,2015-2016,"1,42,900.00","1,94,900.00",1.36
+Maharashtra,Akola,2016-2017,"1,55,100.00","4,42,700.00",2.85
+Maharashtra,Akola,2017-2018,"1,64,550.00","2,40,400.00",1.46
+Maharashtra,Akola,2018-2019,"1,68,836.00","4,19,575.00",2.49
+Maharashtra,Akola,2019-2020,"1,54,440.00","3,80,667.00",2.46
+Maharashtra,Akola,2020-2021,"1,59,100.00","3,35,500.00",2.11
+Maharashtra,Akola,2021-2022,"1,53,000.00","3,05,600.00",2.0
+Maharashtra,Akola,2022-2023,"1,49,868.87","3,62,488.72",2.42
+Maharashtra,Amravati,2013-2014,"1,86,700.00","6,33,200.00",3.39
+Maharashtra,Amravati,2014-2015,"1,96,500.00","1,96,200.00",1.0
+Maharashtra,Amravati,2015-2016,"2,00,000.00","4,17,000.00",2.09
+Maharashtra,Amravati,2016-2017,"2,00,300.00","8,04,000.00",4.01
+Maharashtra,Amravati,2017-2018,"2,07,457.00","3,80,300.00",1.83
+Maharashtra,Amravati,2018-2019,"2,09,583.00","6,26,027.00",2.99
+Maharashtra,Amravati,2019-2020,"2,76,078.00","4,60,287.00",1.67
+Maharashtra,Amravati,2020-2021,"2,76,100.00","7,40,400.00",2.68
+Maharashtra,Amravati,2021-2022,"2,75,800.00","6,18,900.00",2.24
+Maharashtra,Amravati,2022-2023,"2,72,890.17","3,87,477.41",1.42
+Maharashtra,Beed,2013-2014,"3,38,600.00","5,46,400.00",1.61
+Maharashtra,Beed,2014-2015,"3,73,300.00","1,67,600.00",0.45
+Maharashtra,Beed,2015-2016,"3,34,100.00","1,01,000.00",0.3
+Maharashtra,Beed,2016-2017,"3,41,400.00","4,76,940.00",1.4
+Maharashtra,Beed,2017-2018,"3,48,509.00","2,77,800.00",0.8
+Maharashtra,Beed,2018-2019,"3,77,515.00","1,35,247.00",0.36
+Maharashtra,Beed,2019-2020,"3,84,957.00","3,76,379.00",0.98
+Maharashtra,Beed,2020-2021,"3,75,800.00","8,57,000.00",2.28
+Maharashtra,Beed,2021-2022,"3,13,450.00","4,38,900.00",1.4
+Maharashtra,Beed,2022-2023,"2,73,118.00","4,75,708.51",1.74
+Maharashtra,Bhandara,2017-2018,38,100,2.63
+Maharashtra,Bhandara,2018-2019,4,10,2.5
+Maharashtra,Bhandara,2019-2020,107,287,2.68
+Maharashtra,Bhandara,2020-2021,500,"1,400.00",2.8
+Maharashtra,Bhandara,2021-2022,400,"1,200.00",3.0
+Maharashtra,Bhandara,2022-2023,439.06,"1,176.51",2.68
+Maharashtra,Buldhana,2013-2014,"2,27,900.00","6,39,600.00",2.81
+Maharashtra,Buldhana,2014-2015,"1,74,300.00","1,32,500.00",0.76
+Maharashtra,Buldhana,2015-2016,"1,70,700.00","1,65,800.00",0.97
+Maharashtra,Buldhana,2016-2017,"1,69,550.00","5,16,600.00",3.05
+Maharashtra,Buldhana,2017-2018,"1,74,539.00","1,80,900.00",1.04
+Maharashtra,Buldhana,2018-2019,"1,77,928.00","3,08,970.00",1.74
+Maharashtra,Buldhana,2019-2020,"1,96,553.00","1,57,132.00",0.8
+Maharashtra,Buldhana,2020-2021,"2,03,500.00","4,75,100.00",2.33
+Maharashtra,Buldhana,2021-2022,"2,03,800.00","5,47,300.00",2.69
+Maharashtra,Buldhana,2022-2023,"2,12,220.31","5,42,517.73",2.56
+Maharashtra,Chandrapur,2013-2014,"1,07,100.00","2,02,300.00",1.89
+Maharashtra,Chandrapur,2014-2015,"1,23,700.00","1,43,900.00",1.16
+Maharashtra,Chandrapur,2015-2016,"1,56,900.00","2,03,200.00",1.3
+Maharashtra,Chandrapur,2016-2017,"1,62,800.00","5,49,300.00",3.37
+Maharashtra,Chandrapur,2017-2018,"1,65,040.00","3,25,200.00",1.97
+Maharashtra,Chandrapur,2018-2019,"1,53,291.00","3,22,452.00",2.1
+Maharashtra,Chandrapur,2019-2020,"1,54,660.00","3,71,371.00",2.4
+Maharashtra,Chandrapur,2020-2021,"1,54,900.00","3,78,400.00",2.44
+Maharashtra,Chandrapur,2021-2022,"1,53,700.00","3,51,200.00",2.28
+Maharashtra,Chandrapur,2022-2023,"1,52,447.55","4,42,486.06",2.9
+Maharashtra,Chhatrapati Sambhajinagar,2013-2014,"4,22,600.00","10,36,100.00",2.45
+Maharashtra,Chhatrapati Sambhajinagar,2014-2015,"4,22,600.00","2,44,300.00",0.58
+Maharashtra,Chhatrapati Sambhajinagar,2015-2016,"4,58,000.00","2,71,300.00",0.59
+Maharashtra,Chhatrapati Sambhajinagar,2016-2017,"5,06,500.00","9,92,300.00",1.96
+Maharashtra,Chhatrapati Sambhajinagar,2017-2018,"5,21,353.00","4,15,200.00",0.8
+Maharashtra,Chhatrapati Sambhajinagar,2018-2019,"3,85,441.00","3,74,332.00",0.97
+Maharashtra,Chhatrapati Sambhajinagar,2019-2020,"4,34,491.00","6,11,894.00",1.41
+Maharashtra,Chhatrapati Sambhajinagar,2020-2021,"4,54,600.00","8,40,100.00",1.85
+Maharashtra,Chhatrapati Sambhajinagar,2021-2022,"4,54,600.00","4,98,700.00",1.1
+Maharashtra,Chhatrapati Sambhajinagar,2022-2023,"4,00,404.99","4,52,630.51",1.13
+Maharashtra,Dharashiv,2013-2014,"29,300.00","57,300.00",1.96
+Maharashtra,Dharashiv,2014-2015,"29,300.00","23,000.00",0.78
+Maharashtra,Dharashiv,2015-2016,"15,400.00","6,800.00",0.44
+Maharashtra,Dharashiv,2016-2017,"13,300.00","21,100.00",1.59
+Maharashtra,Dharashiv,2017-2018,"13,448.00","8,000.00",0.59
+Maharashtra,Dharashiv,2018-2019,"16,254.00","8,251.00",0.51
+Maharashtra,Dharashiv,2019-2020,"25,198.00","13,039.00",0.52
+Maharashtra,Dharashiv,2020-2021,"20,000.00","33,200.00",1.66
+Maharashtra,Dharashiv,2021-2022,"12,900.00","17,900.00",1.39
+Maharashtra,Dharashiv,2022-2023,"2,027.43","3,026.29",1.49
+Maharashtra,Dhule,2013-2014,"1,73,200.00","4,32,700.00",2.5
+Maharashtra,Dhule,2014-2015,"2,09,900.00","2,58,200.00",1.23
+Maharashtra,Dhule,2015-2016,"2,28,100.00","2,32,600.00",1.02
+Maharashtra,Dhule,2016-2017,"1,96,100.00","3,45,600.00",1.76
+Maharashtra,Dhule,2017-2018,"2,00,400.00","3,79,400.00",1.89
+Maharashtra,Dhule,2018-2019,"2,17,874.00","2,10,521.00",0.97
+Maharashtra,Dhule,2019-2020,"2,39,542.00","1,92,984.00",0.81
+Maharashtra,Dhule,2020-2021,"2,39,100.00","5,01,400.00",2.1
+Maharashtra,Dhule,2021-2022,"2,50,600.00","2,95,900.00",1.18
+Maharashtra,Dhule,2022-2023,"2,58,513.52","5,45,985.20",2.11
+Maharashtra,Gadchiroli,2013-2014,"5,300.00","8,100.00",1.53
+Maharashtra,Gadchiroli,2014-2015,"4,200.00","7,600.00",1.81
+Maharashtra,Gadchiroli,2015-2016,"4,100.00","6,900.00",1.68
+Maharashtra,Gadchiroli,2016-2017,"4,900.00","14,500.00",2.96
+Maharashtra,Gadchiroli,2017-2018,"5,654.00","22,600.00",4.0
+Maharashtra,Gadchiroli,2018-2019,"6,897.00","14,773.00",2.14
+Maharashtra,Gadchiroli,2019-2020,"6,702.00","20,194.00",3.01
+Maharashtra,Gadchiroli,2020-2021,"6,900.00","17,300.00",2.51
+Maharashtra,Gadchiroli,2021-2022,"7,200.00","17,100.00",2.38
+Maharashtra,Gadchiroli,2022-2023,"7,106.81","16,612.80",2.34
+Maharashtra,Gondia,2019-2020,2,5,2.5
+Maharashtra,Gondia,2021-2022,8,22,2.75
+Maharashtra,Hingoli,2013-2014,"96,000.00","1,92,400.00",2.0
+Maharashtra,Hingoli,2014-2015,"94,700.00","85,400.00",0.9
+Maharashtra,Hingoli,2015-2016,"84,200.00","46,500.00",0.55
+Maharashtra,Hingoli,2016-2017,"75,000.00","1,57,400.00",2.1
+Maharashtra,Hingoli,2017-2018,"86,974.00","1,34,200.00",1.54
+Maharashtra,Hingoli,2018-2019,"83,681.00","1,63,749.00",1.96
+Maharashtra,Hingoli,2019-2020,"47,011.00","1,18,022.00",2.51
+Maharashtra,Hingoli,2020-2021,"45,700.00","85,600.00",1.87
+Maharashtra,Hingoli,2021-2022,"44,900.00","78,700.00",1.75
+Maharashtra,Hingoli,2022-2023,"32,475.94","78,215.44",2.41
+Maharashtra,Jalgaon,2013-2014,"5,58,800.00","15,04,000.00",2.69
+Maharashtra,Jalgaon,2014-2015,"4,71,100.00","7,68,100.00",1.63
+Maharashtra,Jalgaon,2015-2016,"4,61,600.00","6,05,900.00",1.31
+Maharashtra,Jalgaon,2016-2017,"5,04,200.00","14,62,300.00",2.9
+Maharashtra,Jalgaon,2017-2018,"5,14,300.00","8,34,900.00",1.62
+Maharashtra,Jalgaon,2018-2019,"5,03,476.00","9,05,203.00",1.8
+Maharashtra,Jalgaon,2019-2020,"5,34,101.00","5,02,286.00",0.94
+Maharashtra,Jalgaon,2020-2021,"5,40,600.00","14,02,200.00",2.59
+Maharashtra,Jalgaon,2021-2022,"4,89,400.00","7,31,200.00",1.49
+Maharashtra,Jalgaon,2022-2023,"5,31,076.79","12,94,918.60",2.44
+Maharashtra,Jalna,2013-2014,"2,98,800.00","6,81,400.00",2.28
+Maharashtra,Jalna,2014-2015,"2,94,200.00","1,59,100.00",0.54
+Maharashtra,Jalna,2015-2016,"2,86,100.00","1,49,100.00",0.52
+Maharashtra,Jalna,2016-2017,"2,66,400.00","6,98,800.00",2.62
+Maharashtra,Jalna,2017-2018,"2,79,539.00","1,74,600.00",0.62
+Maharashtra,Jalna,2018-2019,"3,02,725.00","3,47,347.00",1.15
+Maharashtra,Jalna,2019-2020,"3,30,994.00","7,71,154.00",2.33
+Maharashtra,Jalna,2020-2021,"3,42,500.00","7,85,900.00",2.29
+Maharashtra,Jalna,2021-2022,"3,33,880.00","6,10,800.00",1.83
+Maharashtra,Jalna,2022-2023,"3,03,128.95","6,87,786.40",2.27
+Maharashtra,Kolhapur,2017-2018,13,12,0.92
+Maharashtra,Latur,2013-2014,"4,400.00","14,200.00",3.23
+Maharashtra,Latur,2014-2015,"3,800.00","2,700.00",0.71
+Maharashtra,Latur,2015-2016,"3,300.00","1,600.00",0.48
+Maharashtra,Latur,2016-2017,"2,700.00","11,800.00",4.37
+Maharashtra,Latur,2017-2018,"3,111.00","11,700.00",3.76
+Maharashtra,Latur,2018-2019,"5,861.00","4,963.00",0.85
+Maharashtra,Latur,2019-2020,"6,269.00","9,557.00",1.52
+Maharashtra,Latur,2020-2021,"7,900.00","19,800.00",2.51
+Maharashtra,Latur,2021-2022,"7,900.00","12,600.00",1.59
+Maharashtra,Latur,2022-2023,"7,283.88","27,221.14",3.74
+Maharashtra,Nagpur,2013-2014,"92,400.00","1,50,400.00",1.63
+Maharashtra,Nagpur,2014-2015,"1,11,300.00","1,50,200.00",1.35
+Maharashtra,Nagpur,2015-2016,"1,26,400.00","1,61,400.00",1.28
+Maharashtra,Nagpur,2016-2017,"1,36,500.00","5,50,200.00",4.03
+Maharashtra,Nagpur,2017-2018,"1,45,168.00","3,47,600.00",2.39
+Maharashtra,Nagpur,2018-2019,"1,42,626.00","3,24,685.00",2.28
+Maharashtra,Nagpur,2019-2020,"1,53,345.00","4,09,516.00",2.67
+Maharashtra,Nagpur,2020-2021,"1,58,900.00","5,08,200.00",3.2
+Maharashtra,Nagpur,2021-2022,"1,58,900.00","4,51,800.00",2.84
+Maharashtra,Nagpur,2022-2023,"2,14,085.24","5,86,809.06",2.74
+Maharashtra,Nanded,2013-2014,"3,21,100.00","3,60,900.00",1.12
+Maharashtra,Nanded,2014-2015,"3,42,300.00","1,76,800.00",0.52
+Maharashtra,Nanded,2015-2016,"3,52,700.00","2,40,600.00",0.68
+Maharashtra,Nanded,2016-2017,"3,64,300.00","6,35,400.00",1.74
+Maharashtra,Nanded,2017-2018,"2,99,543.00","3,11,700.00",1.04
+Maharashtra,Nanded,2018-2019,"2,40,876.00","3,64,857.00",1.51
+Maharashtra,Nanded,2019-2020,"2,44,704.00","2,58,461.00",1.06
+Maharashtra,Nanded,2020-2021,"2,44,700.00","4,12,100.00",1.68
+Maharashtra,Nanded,2021-2022,"2,34,600.00","3,07,300.00",1.31
+Maharashtra,Nanded,2022-2023,"1,97,291.42","3,33,033.72",1.69
+Maharashtra,Nandurbar,2013-2014,"1,02,200.00","1,49,800.00",1.47
+Maharashtra,Nandurbar,2014-2015,"1,18,600.00","1,01,200.00",0.85
+Maharashtra,Nandurbar,2015-2016,"1,16,600.00","1,10,600.00",0.95
+Maharashtra,Nandurbar,2016-2017,"85,500.00","1,52,100.00",1.78
+Maharashtra,Nandurbar,2017-2018,"96,600.00","1,92,200.00",1.99
+Maharashtra,Nandurbar,2018-2019,"1,11,064.00","1,20,233.00",1.08
+Maharashtra,Nandurbar,2019-2020,"1,18,092.00","1,86,752.00",1.58
+Maharashtra,Nandurbar,2020-2021,"1,21,300.00","3,07,700.00",2.54
+Maharashtra,Nandurbar,2021-2022,"1,25,900.00","1,72,600.00",1.37
+Maharashtra,Nandurbar,2022-2023,"1,29,061.00","2,12,362.09",1.65
+Maharashtra,Nashik,2013-2014,"46,000.00","1,00,800.00",2.19
+Maharashtra,Nashik,2014-2015,"46,000.00","44,700.00",0.97
+Maharashtra,Nashik,2015-2016,"43,300.00","26,900.00",0.62
+Maharashtra,Nashik,2016-2017,"46,700.00","1,58,500.00",3.39
+Maharashtra,Nashik,2017-2018,"65,400.00","1,44,100.00",2.2
+Maharashtra,Nashik,2018-2019,"62,430.00","30,849.00",0.49
+Maharashtra,Nashik,2019-2020,"64,192.00","75,784.00",1.18
+Maharashtra,Nashik,2020-2021,"66,300.00","1,79,100.00",2.7
+Maharashtra,Nashik,2021-2022,"62,200.00","1,25,300.00",2.01
+Maharashtra,Nashik,2022-2023,"40,082.15","1,12,437.26",2.81
+Maharashtra,Parbhani,2013-2014,"2,65,900.00","5,59,000.00",2.1
+Maharashtra,Parbhani,2014-2015,"2,73,500.00","2,04,800.00",0.75
+Maharashtra,Parbhani,2015-2016,"2,72,200.00","1,07,700.00",0.4
+Maharashtra,Parbhani,2016-2017,"1,67,630.00","7,68,376.00",4.58
+Maharashtra,Parbhani,2017-2018,"1,85,129.00","3,67,600.00",1.99
+Maharashtra,Parbhani,2018-2019,"1,99,869.00","3,27,347.00",1.64
+Maharashtra,Parbhani,2019-2020,"2,14,404.00","2,97,153.00",1.39
+Maharashtra,Parbhani,2020-2021,"2,14,400.00","3,90,700.00",1.82
+Maharashtra,Parbhani,2021-2022,"2,19,000.00","3,96,400.00",1.81
+Maharashtra,Parbhani,2022-2023,"1,82,292.98","5,33,158.21",2.92
+Maharashtra,Pune,2019-2020,14,478,34.14
+Maharashtra,Pune,2020-2021,41,97,2.37
+Maharashtra,Pune,2021-2022,30,149,4.97
+Maharashtra,Pune,2022-2023,423.1,"1,017.00",2.4
+Maharashtra,Sangli,2013-2014,"2,800.00","6,200.00",2.21
+Maharashtra,Sangli,2014-2015,"1,400.00","1,400.00",1.0
+Maharashtra,Sangli,2015-2016,"1,000.00",500,0.5
+Maharashtra,Sangli,2016-2017,600,"1,800.00",3.0
+Maharashtra,Sangli,2017-2018,254,200,0.79
+Maharashtra,Sangli,2018-2019,178,251,1.41
+Maharashtra,Sangli,2019-2020,95,179,1.88
+Maharashtra,Sangli,2020-2021,160,80,0.5
+Maharashtra,Sangli,2022-2023,125,278.79,2.23
+Maharashtra,Satara,2013-2014,200,500,2.5
+Maharashtra,Satara,2014-2015,100,100,1.0
+Maharashtra,Satara,2015-2016,100,30,0.3
+Maharashtra,Satara,2016-2017,100,200,2.0
+Maharashtra,Satara,2017-2018,85,100,1.18
+Maharashtra,Satara,2018-2019,21,37,1.76
+Maharashtra,Satara,2019-2020,14,26,1.86
+Maharashtra,Satara,2020-2021,9,5,0.56
+Maharashtra,Satara,2021-2022,162,243,1.5
+Maharashtra,Satara,2022-2023,503.36,"1,088.81",2.16
+Maharashtra,Solapur,2013-2014,500,700,1.4
+Maharashtra,Solapur,2014-2015,600,"1,200.00",2.0
+Maharashtra,Solapur,2015-2016,900,700,0.78
+Maharashtra,Solapur,2016-2017,900,"1,370.00",1.52
+Maharashtra,Solapur,2017-2018,300,400,1.33
+Maharashtra,Solapur,2018-2019,163,88,0.54
+Maharashtra,Solapur,2019-2020,521,240,0.46
+Maharashtra,Solapur,2020-2021,400,900,2.25
+Maharashtra,Solapur,2021-2022,300,400,1.33
+Maharashtra,Solapur,2022-2023,413.96,667.8,1.61
+Maharashtra,Wardha,2013-2014,"1,76,900.00","2,54,500.00",1.44
+Maharashtra,Wardha,2014-2015,"2,07,700.00","1,84,600.00",0.89
+Maharashtra,Wardha,2015-2016,"2,23,400.00","3,20,900.00",1.44
+Maharashtra,Wardha,2016-2017,"2,40,500.00","7,18,900.00",2.99
+Maharashtra,Wardha,2017-2018,"2,51,062.00","6,28,500.00",2.5
+Maharashtra,Wardha,2018-2019,"2,43,002.00","6,55,247.00",2.7
+Maharashtra,Wardha,2019-2020,"2,50,759.00","6,89,607.00",2.75
+Maharashtra,Wardha,2020-2021,"2,43,500.00","5,94,900.00",2.44
+Maharashtra,Wardha,2021-2022,"2,53,100.00","7,52,100.00",2.97
+Maharashtra,Wardha,2022-2023,"2,54,370.99","6,25,617.97",2.46
+Maharashtra,Washim,2013-2014,"34,500.00","37,300.00",1.08
+Maharashtra,Washim,2014-2015,"20,200.00","16,800.00",0.83
+Maharashtra,Washim,2015-2016,"18,700.00","19,600.00",1.05
+Maharashtra,Washim,2016-2017,"18,400.00","37,500.00",2.04
+Maharashtra,Washim,2017-2018,"19,252.00","17,700.00",0.92
+Maharashtra,Washim,2018-2019,"19,679.00","35,638.00",1.81
+Maharashtra,Washim,2019-2020,"21,440.00","36,081.00",1.68
+Maharashtra,Washim,2020-2021,"21,800.00","81,800.00",3.75
+Maharashtra,Washim,2021-2022,"18,200.00","60,400.00",3.32
+Maharashtra,Washim,2022-2023,"19,518.47","41,327.47",2.12
+Maharashtra,Yavatmal,2013-2014,"4,16,300.00","7,00,400.00",1.68
+Maharashtra,Yavatmal,2014-2015,"4,21,000.00","2,87,400.00",0.68
+Maharashtra,Yavatmal,2015-2016,"4,32,900.00","4,83,400.00",1.12
+Maharashtra,Yavatmal,2016-2017,"4,20,700.00","10,97,900.00",2.61
+Maharashtra,Yavatmal,2017-2018,"4,70,300.00","4,77,500.00",1.02
+Maharashtra,Yavatmal,2018-2019,"4,59,532.00","8,44,084.00",1.84
+Maharashtra,Yavatmal,2019-2020,"4,73,396.00","5,52,718.00",1.17
+Maharashtra,Yavatmal,2020-2021,"4,73,400.00","7,62,000.00",1.61
+Maharashtra,Yavatmal,2021-2022,"4,73,400.00","7,20,800.00",1.52
+Maharashtra,Yavatmal,2022-2023,"4,67,608.19","5,69,835.59",1.22
+Meghalaya,East garo hills,2013-2014,"1,801.00","1,653.00",0.92
+Meghalaya,East garo hills,2014-2015,"1,809.00","1,741.00",0.96
+Meghalaya,East garo hills,2015-2016,"1,805.00","1,726.00",0.96
+Meghalaya,East garo hills,2016-2017,"1,795.00","1,689.00",0.94
+Meghalaya,East garo hills,2017-2018,"1,795.00","1,711.00",0.95
+Meghalaya,East garo hills,2018-2019,"1,796.00","1,722.00",0.96
+Meghalaya,East garo hills,2019-2020,"1,793.00","1,688.00",0.94
+Meghalaya,East garo hills,2020-2021,"1,792.00","1,680.00",0.94
+Meghalaya,East garo hills,2021-2022,"1,791.00","1,672.00",0.93
+Meghalaya,East garo hills,2022-2023,753,704,0.93
+Meghalaya,North garo hills,2013-2014,863,743,0.86
+Meghalaya,North garo hills,2014-2015,866,773,0.89
+Meghalaya,North garo hills,2015-2016,864,758,0.88
+Meghalaya,North garo hills,2016-2017,860,769,0.89
+Meghalaya,North garo hills,2017-2018,860,779,0.91
+Meghalaya,North garo hills,2018-2019,861,785,0.91
+Meghalaya,North garo hills,2019-2020,858,762,0.89
+Meghalaya,North garo hills,2020-2021,857,758,0.88
+Meghalaya,North garo hills,2021-2022,856,754,0.88
+Meghalaya,North garo hills,2022-2023,539,301,0.56
+Meghalaya,South garo hills,2013-2014,202,245,1.21
+Meghalaya,South garo hills,2014-2015,203,258,1.27
+Meghalaya,South garo hills,2015-2016,203,256,1.26
+Meghalaya,South garo hills,2016-2017,196,242,1.23
+Meghalaya,South garo hills,2017-2018,196,244,1.24
+Meghalaya,South garo hills,2018-2019,197,247,1.25
+Meghalaya,South garo hills,2019-2020,194,242,1.25
+Meghalaya,South garo hills,2020-2021,193,240,1.24
+Meghalaya,South garo hills,2021-2022,192,238,1.24
+Meghalaya,South garo hills,2022-2023,15,10,0.67
+Meghalaya,South west garo hills,2013-2014,441,565,1.28
+Meghalaya,South west garo hills,2014-2015,448,625,1.4
+Meghalaya,South west garo hills,2015-2016,447,619,1.38
+Meghalaya,South west garo hills,2016-2017,438,595,1.36
+Meghalaya,South west garo hills,2017-2018,438,598,1.37
+Meghalaya,South west garo hills,2018-2019,439,602,1.37
+Meghalaya,South west garo hills,2019-2020,436,585,1.34
+Meghalaya,South west garo hills,2020-2021,435,581,1.34
+Meghalaya,South west garo hills,2021-2022,434,577,1.33
+Meghalaya,South west garo hills,2022-2023,142,108,0.76
+Meghalaya,West garo hills,2013-2014,"3,968.00","5,396.00",1.36
+Meghalaya,West garo hills,2014-2015,"3,979.00","5,627.00",1.41
+Meghalaya,West garo hills,2015-2016,"3,976.00","5,569.00",1.4
+Meghalaya,West garo hills,2016-2017,"3,966.00","5,412.00",1.36
+Meghalaya,West garo hills,2017-2018,"3,966.00","5,459.00",1.38
+Meghalaya,West garo hills,2018-2019,"3,967.00","5,484.00",1.38
+Meghalaya,West garo hills,2019-2020,"3,964.00","5,420.00",1.37
+Meghalaya,West garo hills,2020-2021,"3,963.00","5,395.00",1.36
+Meghalaya,West garo hills,2021-2022,"3,962.00","5,370.00",1.36
+Meghalaya,West garo hills,2022-2023,693,689,0.99
+Mizoram,Aizawl,2015-2016,17,7,0.41
+Mizoram,Champhai,2013-2014,45,44,0.98
+Mizoram,Champhai,2014-2015,18,16,0.89
+Mizoram,Champhai,2015-2016,108,39,0.36
+Mizoram,Champhai,2016-2017,30,1,0.03
+Mizoram,Champhai,2017-2018,41,12,0.29
+Mizoram,Hnahthial,2020-2021,9,3,0.33
+Mizoram,Hnahthial,2022-2023,9,3,0.33
+Mizoram,Kolasib,2013-2014,16,14,0.88
+Mizoram,Kolasib,2014-2015,18,15,0.83
+Mizoram,Kolasib,2015-2016,19,17,0.89
+Mizoram,Kolasib,2016-2017,15,13,0.87
+Mizoram,Kolasib,2017-2018,12,10,0.83
+Mizoram,Kolasib,2018-2019,12,10,0.83
+Mizoram,Lawngtlai,2013-2014,25,12,0.48
+Mizoram,Lawngtlai,2014-2015,26,12,0.46
+Mizoram,Lawngtlai,2015-2016,30,12,0.4
+Mizoram,Lawngtlai,2016-2017,26,10,0.38
+Mizoram,Lawngtlai,2017-2018,27.5,10.8,0.39
+Mizoram,Lawngtlai,2018-2019,22,10,0.45
+Mizoram,Lawngtlai,2019-2020,15,8,0.53
+Mizoram,Lawngtlai,2020-2021,15,8,0.53
+Mizoram,Lunglei,2013-2014,21,10.5,0.5
+Mizoram,Lunglei,2014-2015,16,8,0.5
+Mizoram,Lunglei,2015-2016,2,2,1.0
+Mizoram,Lunglei,2017-2018,11.8,1,0.08
+Mizoram,Lunglei,2018-2019,9,4,0.44
+Mizoram,Lunglei,2019-2020,8,5,0.63
+Mizoram,Mamit,2014-2015,13,7,0.54
+Nagaland,Dimapur,2013-2014,70,40,0.57
+Nagaland,Dimapur,2014-2015,70,40,0.57
+Nagaland,Dimapur,2015-2016,80,50,0.63
+Nagaland,Dimapur,2016-2017,80,50,0.63
+Nagaland,Dimapur,2017-2018,80,50,0.63
+Nagaland,Dimapur,2018-2019,80,50,0.63
+Nagaland,Dimapur,2019-2020,3.2,2,0.63
+Nagaland,Dimapur,2020-2021,3,2,0.67
+Nagaland,Dimapur,2021-2022,2,1,0.5
+Nagaland,Kohima,2022-2023,2,1,0.5
+Nagaland,Peren,2021-2022,1,1,1.0
+Nagaland,Phek,2013-2014,50,30,0.6
+Nagaland,Phek,2014-2015,50,30,0.6
+Nagaland,Phek,2015-2016,50,30,0.6
+Nagaland,Phek,2016-2017,50,30,0.6
+Nagaland,Phek,2017-2018,50,30,0.6
+Nagaland,Phek,2018-2019,50,30,0.6
+Nagaland,Phek,2019-2020,2.5,1.5,0.6
+Nagaland,Phek,2020-2021,2,1,0.5
+Nagaland,Phek,2021-2022,2,1,0.5
+Nagaland,Phek,2022-2023,2,1,0.5
+Nagaland,Tseminyu,2022-2023,1,1,1.0
+Odisha,Anugul,2019-2020,60,160,2.67
+Odisha,Balangir,2019-2020,"50,800.00","1,13,250.00",2.23
+Odisha,Bargarh,2019-2020,"2,650.00","7,280.00",2.75
+Odisha,Boudh,2019-2020,"1,110.00","3,020.00",2.72
+Odisha,Gajapati,2019-2020,"1,650.00","7,820.00",4.74
+Odisha,Ganjam,2019-2020,860,"2,320.00",2.7
+Odisha,Kalahandi,2019-2020,"59,800.00","2,27,240.00",3.8
+Odisha,Kandhamal,2019-2020,830,"2,420.00",2.92
+Odisha,Koraput,2019-2020,"1,000.00","5,090.00",5.09
+Odisha,Nuapada,2019-2020,"10,340.00","32,110.00",3.11
+Odisha,Rayagada,2019-2020,"36,110.00","1,62,280.00",4.49
+Odisha,Sonepur,2019-2020,"4,350.00","15,510.00",3.57
+Puducherry,Karaikal,2013-2014,66,49,0.74
+Puducherry,Karaikal,2014-2015,64,144,2.25
+Puducherry,Karaikal,2015-2016,107,258,2.41
+Puducherry,Karaikal,2016-2017,292,532,1.82
+Puducherry,Karaikal,2017-2018,149,155,1.04
+Puducherry,Karaikal,2018-2019,280,288,1.03
+Puducherry,Karaikal,2019-2020,494,"1,230.00",2.49
+Puducherry,Karaikal,2020-2021,325,711,2.19
+Puducherry,Karaikal,2021-2022,460,"1,126.00",2.45
+Puducherry,Karaikal,2022-2023,394,"1,048.00",2.66
+Puducherry,Pondicherry,2013-2014,1,1,1.0
+Puducherry,Pondicherry,2014-2015,30,36,1.2
+Puducherry,Pondicherry,2015-2016,11,13,1.18
+Puducherry,Pondicherry,2016-2017,4,7,1.75
+Puducherry,Pondicherry,2017-2018,5,9,1.8
+Puducherry,Pondicherry,2018-2019,3,6,2.0
+Puducherry,Pondicherry,2019-2020,6,18,3.0
+Puducherry,Pondicherry,2020-2021,8,20,2.5
+Puducherry,Pondicherry,2021-2022,5,13,2.6
+Puducherry,Pondicherry,2022-2023,4,10,2.5
+Punjab,Barnala,2013-2014,"9,000.00","37,000.00",4.11
+Punjab,Barnala,2014-2015,"8,000.00","31,000.00",3.88
+Punjab,Barnala,2015-2016,"5,000.00","5,000.00",1.0
+Punjab,Barnala,2016-2017,"3,000.00","14,000.00",4.67
+Punjab,Barnala,2017-2018,"3,000.00","12,000.00",4.0
+Punjab,Barnala,2018-2019,"2,600.00","9,900.00",3.81
+Punjab,Barnala,2019-2020,"1,600.00","7,600.00",4.75
+Punjab,Barnala,2020-2021,"1,500.00","7,000.00",4.67
+Punjab,Barnala,2021-2022,"1,400.00","3,800.00",2.71
+Punjab,Barnala,2022-2023,"1,700.00","4,700.00",2.76
+Punjab,Bathinda,2013-2014,"1,42,000.00","5,05,000.00",3.56
+Punjab,Bathinda,2014-2015,"1,39,000.00","4,98,000.00",3.58
+Punjab,Bathinda,2015-2016,"1,12,000.00","1,18,000.00",1.05
+Punjab,Bathinda,2016-2017,"97,000.00","4,78,000.00",4.93
+Punjab,Bathinda,2017-2018,"99,000.00","4,91,000.00",4.96
+Punjab,Bathinda,2018-2019,"91,100.00","4,62,600.00",5.08
+Punjab,Bathinda,2019-2020,"78,000.00","4,09,500.00",5.25
+Punjab,Bathinda,2020-2021,"80,900.00","3,88,000.00",4.8
+Punjab,Bathinda,2021-2022,"77,100.00","88,900.00",1.15
+Punjab,Bathinda,2022-2023,"70,500.00","1,27,800.00",1.81
+Punjab,Faridkot,2013-2014,"12,000.00","37,000.00",3.08
+Punjab,Faridkot,2014-2015,"10,000.00","37,000.00",3.7
+Punjab,Faridkot,2015-2016,"6,000.00","10,000.00",1.67
+Punjab,Faridkot,2016-2017,"2,000.00","7,000.00",3.5
+Punjab,Faridkot,2017-2018,"2,000.00","8,000.00",4.0
+Punjab,Faridkot,2018-2019,"1,600.00","6,100.00",3.81
+Punjab,Faridkot,2019-2020,"1,700.00","7,100.00",4.18
+Punjab,Faridkot,2020-2021,"1,300.00","5,000.00",3.85
+Punjab,Faridkot,2021-2022,"2,100.00","8,000.00",3.81
+Punjab,Faridkot,2022-2023,"2,600.00","3,100.00",1.19
+Punjab,Fazilka,2013-2014,"98,000.00","3,10,000.00",3.16
+Punjab,Fazilka,2014-2015,"98,000.00","2,51,000.00",2.56
+Punjab,Fazilka,2015-2016,"86,000.00","1,33,000.00",1.55
+Punjab,Fazilka,2016-2017,"80,000.00","3,37,000.00",4.21
+Punjab,Fazilka,2017-2018,"84,000.00","3,53,000.00",4.2
+Punjab,Fazilka,2018-2019,"81,900.00","3,56,700.00",4.36
+Punjab,Fazilka,2019-2020,"83,500.00","3,81,200.00",4.57
+Punjab,Fazilka,2020-2021,"86,100.00","2,70,000.00",3.14
+Punjab,Fazilka,2021-2022,"83,900.00","3,51,900.00",4.19
+Punjab,Fazilka,2022-2023,"91,500.00","1,54,000.00",1.68
+Punjab,Firozepur,2013-2014,"1,000.00","3,000.00",3.0
+Punjab,Firozepur,2014-2015,"1,000.00","3,000.00",3.0
+Punjab,Jalandhar,2020-2021,100,300,3.0
+Punjab,Ludhiana,2013-2014,"1,000.00","3,000.00",3.0
+Punjab,Ludhiana,2020-2021,100,400,4.0
+Punjab,Malerkotla,2022-2023,100,200,2.0
+Punjab,Mansa,2013-2014,"86,000.00","2,75,000.00",3.2
+Punjab,Mansa,2014-2015,"84,000.00","2,51,000.00",2.99
+Punjab,Mansa,2015-2016,"72,000.00","77,000.00",1.07
+Punjab,Mansa,2016-2017,"63,000.00","2,62,000.00",4.16
+Punjab,Mansa,2017-2018,"60,000.00","2,27,000.00",3.78
+Punjab,Mansa,2018-2019,"54,600.00","2,30,900.00",4.23
+Punjab,Mansa,2019-2020,"53,700.00","2,62,200.00",4.88
+Punjab,Mansa,2020-2021,"50,600.00","2,28,000.00",4.51
+Punjab,Mansa,2021-2022,"51,700.00","65,400.00",1.26
+Punjab,Mansa,2022-2023,"47,100.00","79,000.00",1.68
+Punjab,Moga,2013-2014,"2,000.00","8,000.00",4.0
+Punjab,Moga,2014-2015,"1,000.00","3,000.00",3.0
+Punjab,Moga,2015-2016,"1,000.00","2,000.00",2.0
+Punjab,Moga,2018-2019,200,900,4.5
+Punjab,Moga,2019-2020,100,500,5.0
+Punjab,Moga,2020-2021,100,400,4.0
+Punjab,Moga,2021-2022,100,500,5.0
+Punjab,Moga,2022-2023,100,200,2.0
+Punjab,Muktsar,2013-2014,"82,000.00","2,64,000.00",3.22
+Punjab,Muktsar,2014-2015,"66,000.00","2,17,000.00",3.29
+Punjab,Muktsar,2015-2016,"46,000.00","34,000.00",0.74
+Punjab,Muktsar,2016-2017,"32,000.00","1,36,000.00",4.25
+Punjab,Muktsar,2017-2018,"36,000.00","1,64,000.00",4.56
+Punjab,Muktsar,2018-2019,"31,400.00","1,37,800.00",4.39
+Punjab,Muktsar,2019-2020,"26,000.00","1,22,900.00",4.73
+Punjab,Muktsar,2020-2021,"28,700.00","1,14,000.00",3.97
+Punjab,Muktsar,2021-2022,"32,200.00","1,24,300.00",3.86
+Punjab,Muktsar,2022-2023,"33,500.00","67,200.00",2.01
+Punjab,Patiala,2015-2016,"1,000.00","1,000.00",1.0
+Punjab,Patiala,2016-2017,"1,000.00","4,000.00",4.0
+Punjab,Patiala,2017-2018,"1,000.00","4,000.00",4.0
+Punjab,Patiala,2018-2019,300,"1,300.00",4.33
+Punjab,Patiala,2019-2020,100,500,5.0
+Punjab,Sangrur,2013-2014,"12,000.00","50,000.00",4.17
+Punjab,Sangrur,2014-2015,"13,000.00","51,000.00",3.92
+Punjab,Sangrur,2015-2016,"10,000.00","13,000.00",1.3
+Punjab,Sangrur,2016-2017,"7,000.00","29,000.00",4.14
+Punjab,Sangrur,2017-2018,"6,000.00","24,000.00",4.0
+Punjab,Sangrur,2018-2019,"4,200.00","16,600.00",3.95
+Punjab,Sangrur,2019-2020,"3,300.00","14,900.00",4.52
+Punjab,Sangrur,2020-2021,"2,300.00","10,000.00",4.35
+Punjab,Sangrur,2021-2022,"1,700.00","2,300.00",1.35
+Punjab,Sangrur,2022-2023,"1,800.00","7,600.00",4.22
+Punjab,Tarn taran,2013-2014,"1,000.00","3,000.00",3.0
+Punjab,Tarn taran,2021-2022,100,300,3.0
+Rajasthan,Ajmer,2013-2014,"15,278.00","47,204.64",3.09
+Rajasthan,Ajmer,2014-2015,"17,286.00","61,734.12",3.57
+Rajasthan,Ajmer,2015-2016,"14,403.00","37,826.04",2.63
+Rajasthan,Ajmer,2016-2017,"9,852.00","30,638.00",3.11
+Rajasthan,Ajmer,2017-2018,"12,057.00","54,805.00",4.55
+Rajasthan,Ajmer,2018-2019,"10,771.00","47,235.00",4.39
+Rajasthan,Ajmer,2019-2020,"10,063.00","39,441.00",3.92
+Rajasthan,Ajmer,2020-2021,"16,838.00","80,035.00",4.75
+Rajasthan,Ajmer,2021-2022,"12,682.00","43,382.35",3.42
+Rajasthan,Ajmer,2022-2023,"8,329.00","29,870.59",3.59
+Rajasthan,Alwar,2013-2014,"12,711.00","25,830.84",2.03
+Rajasthan,Alwar,2014-2015,"20,543.00","59,552.64",2.9
+Rajasthan,Alwar,2015-2016,"28,688.00","76,104.84",2.65
+Rajasthan,Alwar,2016-2017,"35,461.00","1,19,791.00",3.38
+Rajasthan,Alwar,2017-2018,"46,162.00","1,30,241.00",2.82
+Rajasthan,Alwar,2018-2019,"63,293.00","1,36,964.00",2.16
+Rajasthan,Alwar,2019-2020,"72,404.00","1,99,282.00",2.75
+Rajasthan,Alwar,2020-2021,"63,197.00","1,93,029.00",3.05
+Rajasthan,Alwar,2021-2022,"55,619.00","1,53,258.80",2.76
+Rajasthan,Alwar,2022-2023,"45,271.00","1,12,635.29",2.49
+Rajasthan,Banswara,2013-2014,"11,683.00","29,329.44",2.51
+Rajasthan,Banswara,2014-2015,"11,408.00","7,467.60",0.65
+Rajasthan,Banswara,2015-2016,"10,985.00","23,602.32",2.15
+Rajasthan,Banswara,2016-2017,"10,790.00","20,545.00",1.9
+Rajasthan,Banswara,2017-2018,"10,576.00","34,823.00",3.29
+Rajasthan,Banswara,2018-2019,"10,709.00","23,976.00",2.24
+Rajasthan,Banswara,2019-2020,"10,385.00","39,511.00",3.8
+Rajasthan,Banswara,2020-2021,"10,546.00","56,053.00",5.32
+Rajasthan,Banswara,2021-2022,"11,331.00","44,476.47",3.93
+Rajasthan,Banswara,2022-2023,"13,497.00","62,441.18",4.63
+Rajasthan,Baran,2013-2014,1,5.88,5.88
+Rajasthan,Baran,2015-2016,2,5.88,2.94
+Rajasthan,Baran,2018-2019,9,29.41,3.27
+Rajasthan,Barmer,2013-2014,3,11.76,3.92
+Rajasthan,Barmer,2014-2015,3,11.76,3.92
+Rajasthan,Barmer,2015-2016,2,5.88,2.94
+Rajasthan,Barmer,2016-2017,1,3,3.0
+Rajasthan,Barmer,2020-2021,5,18,3.6
+Rajasthan,Barmer,2022-2023,20,70.59,3.53
+Rajasthan,Bharatpur,2013-2014,"1,403.00","4,592.28",3.27
+Rajasthan,Bharatpur,2014-2015,"2,934.00","9,208.08",3.14
+Rajasthan,Bharatpur,2015-2016,"6,159.00","16,699.20",2.71
+Rajasthan,Bharatpur,2016-2017,"7,002.00","10,720.00",1.53
+Rajasthan,Bharatpur,2017-2018,"6,997.00","20,852.00",2.98
+Rajasthan,Bharatpur,2018-2019,"7,563.00","14,370.00",1.9
+Rajasthan,Bharatpur,2019-2020,"7,557.00","22,852.00",3.02
+Rajasthan,Bharatpur,2020-2021,"6,833.00","22,153.00",3.24
+Rajasthan,Bharatpur,2021-2022,"6,144.00","15,011.76",2.44
+Rajasthan,Bharatpur,2022-2023,"5,348.00","13,294.12",2.49
+Rajasthan,Bhilwara,2013-2014,"39,479.00","1,22,380.44",3.1
+Rajasthan,Bhilwara,2014-2015,"45,361.00","1,41,349.32",3.12
+Rajasthan,Bhilwara,2015-2016,"44,385.00","1,16,706.24",2.63
+Rajasthan,Bhilwara,2016-2017,"31,423.00","1,00,806.00",3.21
+Rajasthan,Bhilwara,2017-2018,"41,467.00","1,59,294.00",3.84
+Rajasthan,Bhilwara,2018-2019,"42,344.00","1,46,217.00",3.45
+Rajasthan,Bhilwara,2019-2020,"44,448.00","1,22,311.00",2.75
+Rajasthan,Bhilwara,2020-2021,"44,759.00","1,62,935.00",3.64
+Rajasthan,Bhilwara,2021-2022,"39,365.00","1,26,005.90",3.2
+Rajasthan,Bhilwara,2022-2023,"29,073.00","98,829.41",3.4
+Rajasthan,Bikaner,2013-2014,746,"2,263.80",3.03
+Rajasthan,Bikaner,2014-2015,747,"1,176.00",1.57
+Rajasthan,Bikaner,2015-2016,631,735,1.16
+Rajasthan,Bikaner,2016-2017,662,"2,192.00",3.31
+Rajasthan,Bikaner,2017-2018,"2,401.00","7,776.00",3.24
+Rajasthan,Bikaner,2018-2019,"5,434.00","17,641.00",3.25
+Rajasthan,Bikaner,2019-2020,"18,190.00","39,535.00",2.17
+Rajasthan,Bikaner,2020-2021,"31,019.00","95,294.00",3.07
+Rajasthan,Bikaner,2021-2022,"39,700.00","83,347.06",2.1
+Rajasthan,Bikaner,2022-2023,"40,088.00","1,33,594.12",3.33
+Rajasthan,Bundi,2013-2014,58,188.16,3.24
+Rajasthan,Bundi,2014-2015,86,270.48,3.15
+Rajasthan,Bundi,2015-2016,75,205.8,2.74
+Rajasthan,Bundi,2016-2017,178,589,3.31
+Rajasthan,Bundi,2017-2018,269,870,3.23
+Rajasthan,Bundi,2018-2019,295,958,3.25
+Rajasthan,Bundi,2019-2020,59,217,3.68
+Rajasthan,Bundi,2020-2021,15,59,3.93
+Rajasthan,Bundi,2021-2022,13,41.18,3.17
+Rajasthan,Bundi,2022-2023,23,76.47,3.32
+Rajasthan,Chittorgarh,2013-2014,"13,076.00","53,214.00",4.07
+Rajasthan,Chittorgarh,2014-2015,"13,045.00","56,730.24",4.35
+Rajasthan,Chittorgarh,2015-2016,"11,291.00","36,497.16",3.23
+Rajasthan,Chittorgarh,2016-2017,"10,290.00","41,631.00",4.05
+Rajasthan,Chittorgarh,2017-2018,"11,994.00","46,252.00",3.86
+Rajasthan,Chittorgarh,2018-2019,"15,153.00","50,852.00",3.36
+Rajasthan,Chittorgarh,2019-2020,"12,117.00","25,688.00",2.12
+Rajasthan,Chittorgarh,2020-2021,"6,069.00","24,012.00",3.96
+Rajasthan,Chittorgarh,2021-2022,"6,538.00","15,111.76",2.31
+Rajasthan,Chittorgarh,2022-2023,"5,675.00","20,417.65",3.6
+Rajasthan,Churu,2013-2014,302,987.84,3.27
+Rajasthan,Churu,2014-2015,614,"1,928.64",3.14
+Rajasthan,Churu,2015-2016,606,"1,640.52",2.71
+Rajasthan,Churu,2016-2017,856,"2,835.00",3.31
+Rajasthan,Churu,2017-2018,"1,187.00","2,347.00",1.98
+Rajasthan,Churu,2018-2019,"3,128.00","6,211.00",1.99
+Rajasthan,Churu,2019-2020,"5,549.00","17,664.00",3.18
+Rajasthan,Churu,2020-2021,"9,218.00","14,700.00",1.59
+Rajasthan,Churu,2021-2022,"13,757.00","21,064.71",1.53
+Rajasthan,Churu,2022-2023,"15,661.00","40,223.53",2.57
+Rajasthan,Dausa,2013-2014,1,5.88,5.88
+Rajasthan,Dausa,2014-2015,5,17.64,3.53
+Rajasthan,Dausa,2015-2016,8,23.52,2.94
+Rajasthan,Dausa,2016-2017,7,23,3.29
+Rajasthan,Dausa,2017-2018,6,17.64,2.94
+Rajasthan,Dausa,2018-2019,4,11,2.75
+Rajasthan,Dausa,2019-2020,2,5,2.5
+Rajasthan,Dausa,2020-2021,3,12,4.0
+Rajasthan,Dausa,2021-2022,5,17.65,3.53
+Rajasthan,Dausa,2022-2023,3,11.76,3.92
+Rajasthan,Dholpur,2013-2014,60,194.04,3.23
+Rajasthan,Dholpur,2014-2015,84,264.6,3.15
+Rajasthan,Dholpur,2015-2016,100,270.48,2.7
+Rajasthan,Dholpur,2016-2017,87,288,3.31
+Rajasthan,Dholpur,2017-2018,77,247,3.21
+Rajasthan,Dholpur,2018-2019,38,123,3.24
+Rajasthan,Dholpur,2019-2020,34,123,3.62
+Rajasthan,Dholpur,2020-2021,27,106,3.93
+Rajasthan,Dholpur,2022-2023,13,41.18,3.17
+Rajasthan,Dungarpur,2013-2014,"1,174.00","3,839.64",3.27
+Rajasthan,Dungarpur,2014-2015,899,"2,822.40",3.14
+Rajasthan,Dungarpur,2015-2016,680,"1,846.32",2.72
+Rajasthan,Dungarpur,2016-2017,617,790,1.28
+Rajasthan,Dungarpur,2017-2018,587,"1,900.00",3.24
+Rajasthan,Dungarpur,2018-2019,588,"1,911.00",3.25
+Rajasthan,Dungarpur,2019-2020,485,"1,776.00",3.66
+Rajasthan,Dungarpur,2020-2021,402,"1,594.00",3.97
+Rajasthan,Dungarpur,2021-2022,315,"1,035.29",3.29
+Rajasthan,Dungarpur,2022-2023,194,658.82,3.4
+Rajasthan,Ganganagar,2013-2014,"68,398.00","2,19,376.92",3.21
+Rajasthan,Ganganagar,2014-2015,"76,800.00","1,79,534.04",2.34
+Rajasthan,Ganganagar,2015-2016,"56,003.00","1,64,340.12",2.93
+Rajasthan,Ganganagar,2016-2017,"89,095.00","2,83,416.00",3.18
+Rajasthan,Ganganagar,2017-2018,"1,28,316.00","4,81,317.00",3.75
+Rajasthan,Ganganagar,2018-2019,"1,38,409.00","4,97,464.00",3.59
+Rajasthan,Ganganagar,2019-2020,"2,00,058.00","9,05,782.00",4.53
+Rajasthan,Ganganagar,2020-2021,"2,18,605.00","11,38,194.00",5.21
+Rajasthan,Ganganagar,2021-2022,"1,87,082.00","6,95,088.20",3.72
+Rajasthan,Ganganagar,2022-2023,"2,28,882.00","9,05,435.29",3.96
+Rajasthan,Hanumangarh,2013-2014,"1,25,530.00","3,91,255.20",3.12
+Rajasthan,Hanumangarh,2014-2015,"1,63,754.00","6,06,463.20",3.7
+Rajasthan,Hanumangarh,2015-2016,"1,48,813.00","4,03,544.40",2.71
+Rajasthan,Hanumangarh,2016-2017,"1,60,918.00","5,44,465.00",3.38
+Rajasthan,Hanumangarh,2017-2018,"1,87,330.00","5,84,264.00",3.12
+Rajasthan,Hanumangarh,2018-2019,"1,80,806.00","6,55,676.00",3.63
+Rajasthan,Hanumangarh,2019-2020,"2,15,171.00","8,90,605.00",4.14
+Rajasthan,Hanumangarh,2020-2021,"2,30,948.00","8,89,765.00",3.85
+Rajasthan,Hanumangarh,2021-2022,"2,06,139.00","7,52,600.00",3.65
+Rajasthan,Hanumangarh,2022-2023,"2,20,840.00","7,11,547.06",3.22
+Rajasthan,Jaipur,2013-2014,72,235.2,3.27
+Rajasthan,Jaipur,2014-2015,203,635.04,3.13
+Rajasthan,Jaipur,2015-2016,138,376.32,2.73
+Rajasthan,Jaipur,2016-2017,90,298,3.31
+Rajasthan,Jaipur,2017-2018,191,617,3.23
+Rajasthan,Jaipur,2018-2019,502,"1,629.00",3.25
+Rajasthan,Jaipur,2019-2020,648,"2,376.00",3.67
+Rajasthan,Jaipur,2020-2021,615,"2,441.00",3.97
+Rajasthan,Jaipur,2021-2022,589,"1,935.29",3.29
+Rajasthan,Jaipur,2022-2023,81,276.47,3.41
+Rajasthan,Jaisalmer,2013-2014,172,564.48,3.28
+Rajasthan,Jaisalmer,2014-2015,278,870.24,3.13
+Rajasthan,Jaisalmer,2015-2016,188,511.56,2.72
+Rajasthan,Jaisalmer,2016-2017,42,139,3.31
+Rajasthan,Jaisalmer,2017-2018,175,564,3.22
+Rajasthan,Jaisalmer,2018-2019,199,647,3.25
+Rajasthan,Jaisalmer,2019-2020,416,"1,523.00",3.66
+Rajasthan,Jaisalmer,2020-2021,209,829,3.97
+Rajasthan,Jaisalmer,2021-2022,287,941.18,3.28
+Rajasthan,Jaisalmer,2022-2023,436,"1,488.24",3.41
+Rajasthan,Jalore,2013-2014,475,"1,552.32",3.27
+Rajasthan,Jalore,2014-2015,651,"2,040.36",3.13
+Rajasthan,Jalore,2015-2016,350,946.68,2.7
+Rajasthan,Jalore,2016-2017,263,871,3.31
+Rajasthan,Jalore,2017-2018,556,"1,800.00",3.24
+Rajasthan,Jalore,2018-2019,"1,008.00","3,270.00",3.24
+Rajasthan,Jalore,2019-2020,"1,256.00","4,605.00",3.67
+Rajasthan,Jalore,2020-2021,"1,366.00","4,759.00",3.48
+Rajasthan,Jalore,2021-2022,884,"3,952.94",4.47
+Rajasthan,Jalore,2022-2023,990,"4,717.65",4.77
+Rajasthan,Jhalawar,2014-2015,1,5.88,5.88
+Rajasthan,Jhalawar,2016-2017,2,7,3.5
+Rajasthan,Jhalawar,2017-2018,4,11.76,2.94
+Rajasthan,Jhalawar,2018-2019,1,5.8,5.8
+Rajasthan,Jhunjhunu,2013-2014,255,834.96,3.27
+Rajasthan,Jhunjhunu,2014-2015,921,"2,887.08",3.13
+Rajasthan,Jhunjhunu,2015-2016,"1,784.00","4,839.24",2.71
+Rajasthan,Jhunjhunu,2016-2017,"3,811.00","12,895.00",3.38
+Rajasthan,Jhunjhunu,2017-2018,"8,690.00","20,970.00",2.41
+Rajasthan,Jhunjhunu,2018-2019,"14,063.00","45,511.00",3.24
+Rajasthan,Jhunjhunu,2019-2020,"16,667.00","48,664.00",2.92
+Rajasthan,Jhunjhunu,2020-2021,"17,321.00","31,759.00",1.83
+Rajasthan,Jhunjhunu,2021-2022,"17,956.00","46,600.00",2.6
+Rajasthan,Jhunjhunu,2022-2023,"18,333.00","38,741.18",2.11
+Rajasthan,Jodhpur,2013-2014,"30,318.00","1,36,468.92",4.5
+Rajasthan,Jodhpur,2014-2015,"42,386.00","1,08,333.12",2.56
+Rajasthan,Jodhpur,2015-2016,"43,159.00","1,12,637.28",2.61
+Rajasthan,Jodhpur,2016-2017,"40,546.00","1,99,720.00",4.93
+Rajasthan,Jodhpur,2017-2018,"46,708.00","1,25,988.00",2.7
+Rajasthan,Jodhpur,2018-2019,"52,102.00","1,49,247.00",2.86
+Rajasthan,Jodhpur,2019-2020,"61,574.00","1,90,888.00",3.1
+Rajasthan,Jodhpur,2020-2021,"63,124.00","2,38,859.00",3.78
+Rajasthan,Jodhpur,2021-2022,"74,529.00","2,35,641.20",3.16
+Rajasthan,Jodhpur,2022-2023,"83,821.00","2,84,623.53",3.4
+Rajasthan,Karauli,2013-2014,3,11.76,3.92
+Rajasthan,Karauli,2014-2015,9,29.4,3.27
+Rajasthan,Karauli,2017-2018,5,17,3.4
+Rajasthan,Karauli,2020-2021,5,18,3.6
+Rajasthan,Karauli,2021-2022,5,17.65,3.53
+Rajasthan,Kota,2013-2014,19,64.68,3.4
+Rajasthan,Kota,2014-2015,1,5.88,5.88
+Rajasthan,Kota,2015-2016,4,11.76,2.94
+Rajasthan,Kota,2016-2017,3,10,3.33
+Rajasthan,Kota,2017-2018,4,11,2.75
+Rajasthan,Kota,2018-2019,9,29,3.22
+Rajasthan,Kota,2021-2022,2,5.88,2.94
+Rajasthan,Nagaur,2013-2014,"49,971.00","1,72,407.48",3.45
+Rajasthan,Nagaur,2014-2015,"62,187.00","2,06,329.20",3.32
+Rajasthan,Nagaur,2015-2016,"58,441.00","1,56,513.84",2.68
+Rajasthan,Nagaur,2016-2017,"51,386.00","1,31,638.00",2.56
+Rajasthan,Nagaur,2017-2018,"53,727.00","1,36,264.00",2.54
+Rajasthan,Nagaur,2018-2019,"54,079.00","1,38,358.00",2.56
+Rajasthan,Nagaur,2019-2020,"55,801.00","1,56,141.00",2.8
+Rajasthan,Nagaur,2020-2021,"57,519.00","1,36,529.00",2.37
+Rajasthan,Nagaur,2021-2022,"60,419.00","1,69,364.70",2.8
+Rajasthan,Nagaur,2022-2023,"77,503.00","2,47,264.71",3.19
+Rajasthan,Pali,2013-2014,"8,965.00","36,185.52",4.04
+Rajasthan,Pali,2014-2015,"13,587.00","37,132.20",2.73
+Rajasthan,Pali,2015-2016,"12,022.00","34,827.24",2.9
+Rajasthan,Pali,2016-2017,"10,106.00","33,371.00",3.3
+Rajasthan,Pali,2017-2018,"14,384.00","47,047.00",3.27
+Rajasthan,Pali,2018-2019,"17,471.00","68,894.00",3.94
+Rajasthan,Pali,2019-2020,"16,545.00","53,164.00",3.21
+Rajasthan,Pali,2020-2021,"18,782.00","79,712.00",4.24
+Rajasthan,Pali,2021-2022,"13,390.00","45,423.53",3.39
+Rajasthan,Pali,2022-2023,"12,196.00","45,247.06",3.71
+Rajasthan,Pratapgarh,2013-2014,818,"2,034.48",2.49
+Rajasthan,Pratapgarh,2014-2015,783,"2,457.84",3.14
+Rajasthan,Pratapgarh,2015-2016,660,"1,787.52",2.71
+Rajasthan,Pratapgarh,2016-2017,811,"2,686.00",3.31
+Rajasthan,Pratapgarh,2017-2018,964,"3,123.00",3.24
+Rajasthan,Pratapgarh,2018-2019,815,"2,647.00",3.25
+Rajasthan,Pratapgarh,2019-2020,915,935,1.02
+Rajasthan,Pratapgarh,2020-2021,768,"1,541.00",2.01
+Rajasthan,Pratapgarh,2021-2022,960,"1,935.29",2.02
+Rajasthan,Pratapgarh,2022-2023,"1,155.00","1,005.88",0.87
+Rajasthan,Rajsamand,2013-2014,"6,552.00","21,438.48",3.27
+Rajasthan,Rajsamand,2014-2015,"5,864.00","18,275.04",3.12
+Rajasthan,Rajsamand,2015-2016,"4,128.00","10,707.48",2.59
+Rajasthan,Rajsamand,2016-2017,"3,484.00","9,143.00",2.62
+Rajasthan,Rajsamand,2017-2018,"4,274.00","15,229.00",3.56
+Rajasthan,Rajsamand,2018-2019,"4,531.00","18,647.00",4.12
+Rajasthan,Rajsamand,2019-2020,"4,643.00","6,788.00",1.46
+Rajasthan,Rajsamand,2020-2021,"4,306.00","14,588.00",3.39
+Rajasthan,Rajsamand,2021-2022,"3,779.00","13,041.18",3.45
+Rajasthan,Rajsamand,2022-2023,"3,086.00","10,182.35",3.3
+Rajasthan,Sawai madhopur,2013-2014,3,11.76,3.92
+Rajasthan,Sawai madhopur,2014-2015,2,5.88,2.94
+Rajasthan,Sawai madhopur,2015-2016,1,5.88,5.88
+Rajasthan,Sawai madhopur,2017-2018,3,11,3.67
+Rajasthan,Sikar,2013-2014,238,776.16,3.26
+Rajasthan,Sikar,2014-2015,204,640.92,3.14
+Rajasthan,Sikar,2015-2016,124,335.16,2.7
+Rajasthan,Sikar,2016-2017,34,113,3.32
+Rajasthan,Sikar,2017-2018,19,64,3.37
+Rajasthan,Sikar,2018-2019,34,111,3.26
+Rajasthan,Sikar,2019-2020,77,282,3.66
+Rajasthan,Sikar,2020-2021,63,253,4.02
+Rajasthan,Sikar,2021-2022,134,441.18,3.29
+Rajasthan,Sikar,2022-2023,66,223.53,3.39
+Rajasthan,Sirohi,2013-2014,"1,693.00","2,563.68",1.51
+Rajasthan,Sirohi,2014-2015,"1,874.00","5,880.00",3.14
+Rajasthan,Sirohi,2015-2016,"1,175.00","3,186.96",2.71
+Rajasthan,Sirohi,2016-2017,"1,387.00","5,144.00",3.71
+Rajasthan,Sirohi,2017-2018,"2,905.00","9,411.00",3.24
+Rajasthan,Sirohi,2018-2019,"3,673.00","7,170.00",1.95
+Rajasthan,Sirohi,2019-2020,"3,309.00","9,688.00",2.93
+Rajasthan,Sirohi,2020-2021,"2,632.00","7,159.00",2.72
+Rajasthan,Sirohi,2021-2022,"1,819.00","4,276.47",2.35
+Rajasthan,Sirohi,2022-2023,"1,618.00","5,152.94",3.18
+Rajasthan,Tonk,2013-2014,995,"3,257.52",3.27
+Rajasthan,Tonk,2014-2015,"1,494.00","4,686.36",3.14
+Rajasthan,Tonk,2015-2016,"1,168.00","3,169.32",2.71
+Rajasthan,Tonk,2016-2017,779,"3,085.00",3.96
+Rajasthan,Tonk,2017-2018,966,"4,329.00",4.48
+Rajasthan,Tonk,2018-2019,782,"2,541.00",3.25
+Rajasthan,Tonk,2019-2020,500,"1,835.00",3.67
+Rajasthan,Tonk,2020-2021,488,"1,935.00",3.97
+Rajasthan,Tonk,2021-2022,362,"1,188.24",3.28
+Rajasthan,Tonk,2022-2023,364,"1,241.18",3.41
+Rajasthan,Udaipur,2013-2014,"2,636.00","7,085.40",2.69
+Rajasthan,Udaipur,2014-2015,"2,539.00","7,967.40",3.14
+Rajasthan,Udaipur,2015-2016,"1,476.00","4,004.28",2.71
+Rajasthan,Udaipur,2016-2017,"1,184.00","2,415.00",2.04
+Rajasthan,Udaipur,2017-2018,"1,229.00","2,464.00",2.0
+Rajasthan,Udaipur,2018-2019,"1,431.00","4,647.00",3.25
+Rajasthan,Udaipur,2019-2020,"1,627.00","5,964.00",3.67
+Rajasthan,Udaipur,2020-2021,"2,157.00","8,565.00",3.97
+Rajasthan,Udaipur,2021-2022,"2,053.00","6,741.18",3.28
+Rajasthan,Udaipur,2022-2023,"2,048.00","6,982.35",3.41
+Tamil Nadu,Ariyalur,2013-2014,"8,815.00303","29,867.00727",5.79
+Tamil Nadu,Ariyalur,2014-2015,"12,841.00536","42,839.001,829.00",6.75
+Tamil Nadu,Ariyalur,2015-2016,"8,907.00282","12,732.00836",4.39
+Tamil Nadu,Ariyalur,2016-2017,"9,774.006","13,686.0010",3.07
+Tamil Nadu,Ariyalur,2017-2018,"10,092.00800",292,0.0
+Tamil Nadu,Ariyalur,2018-2019,"5,500.003,834.00","11,848.009,955.00",4.75
+Tamil Nadu,Ariyalur,2019-2020,"9,164.00249","17,349.00625",4.4
+Tamil Nadu,Ariyalur,2020-2021,"5,552.001,145.00","8,666.002,768.00",3.98
+Tamil Nadu,Ariyalur,2021-2022,"6,961.00455","10,219.001,085.00",3.85
+Tamil Nadu,Ariyalur,2022-2023,"7,747.00694","13,272.001,243.00",3.5
+Tamil Nadu,Chengalpattu,2021-2022,21,51,2.43
+Tamil Nadu,Chengalpattu,2022-2023,23,45,1.96
+Tamil Nadu,Coimbatore,2013-2014,33612,76829,4.71
+Tamil Nadu,Coimbatore,2014-2015,40138,"1,240.00130",6.51
+Tamil Nadu,Coimbatore,2015-2016,40763,833187,5.02
+Tamil Nadu,Coimbatore,2016-2017,37987,490129,2.77
+Tamil Nadu,Coimbatore,2017-2018,37880,1,0.0
+Tamil Nadu,Coimbatore,2018-2019,541171,"1,174.00445",4.77
+Tamil Nadu,Coimbatore,2019-2020,37685,916212,4.93
+Tamil Nadu,Coimbatore,2020-2021,31947,621114,4.38
+Tamil Nadu,Coimbatore,2021-2022,29749,480118,4.03
+Tamil Nadu,Coimbatore,2022-2023,47786,912153,3.69
+Tamil Nadu,Cuddalore,2013-2014,"8,243.00371","29,081.00891",5.93
+Tamil Nadu,Cuddalore,2014-2015,"6,298.00680","24,725.002,320.00",7.34
+Tamil Nadu,Cuddalore,2015-2016,"6,890.00320","8,146.00949",4.15
+Tamil Nadu,Cuddalore,2016-2017,"4,876.00711","3,011.001,046.00",2.09
+Tamil Nadu,Cuddalore,2017-2018,"10,877.0094",17,0.0
+Tamil Nadu,Cuddalore,2018-2019,"5,809.0099","10,207.00257",4.36
+Tamil Nadu,Cuddalore,2019-2020,"5,131.00654","13,129.001,645.00",5.08
+Tamil Nadu,Cuddalore,2020-2021,"3,405.00795","3,473.001,921.00",3.44
+Tamil Nadu,Cuddalore,2021-2022,"3,853.00982","4,789.002,350.00",3.63
+Tamil Nadu,Cuddalore,2022-2023,"5,056.001,066.00","6,848.001,907.00",3.14
+Tamil Nadu,Dharmapuri,2013-2014,"11,462.001,024.00","33,815.002,641.00",5.53
+Tamil Nadu,Dharmapuri,2014-2015,"10,987.00694","37,096.002,648.00",7.199999999999999
+Tamil Nadu,Dharmapuri,2015-2016,"10,528.00338","23,224.001,002.00",5.17
+Tamil Nadu,Dharmapuri,2016-2017,"11,418.00406","15,153.00597",2.8
+Tamil Nadu,Dharmapuri,2017-2018,"13,734.00731",382,0.0
+Tamil Nadu,Dharmapuri,2018-2019,"9,136.0093","22,710.00241",5.08
+Tamil Nadu,Dharmapuri,2019-2020,"8,002.0025","24,803.0063",5.62
+Tamil Nadu,Dharmapuri,2020-2021,"3,927.0030","9,288.0073",4.800000000000001
+Tamil Nadu,Dharmapuri,2021-2022,"4,926.00378","11,105.00902",4.640000000000001
+Tamil Nadu,Dharmapuri,2022-2023,"5,763.00222","13,741.00397",4.17
+Tamil Nadu,Dindigul,2013-2014,"6391,457.00","1,990.002,755.00",5.0
+Tamil Nadu,Dindigul,2014-2015,"3284,686.00","2,000.0024,260.00",11.28
+Tamil Nadu,Dindigul,2015-2016,"1514,684.00","70115,375.00",7.92
+Tamil Nadu,Dindigul,2016-2017,"2074,857.00","2695,014.00",2.33
+Tamil Nadu,Dindigul,2017-2018,"1,633.003,502.00",413,0.0
+Tamil Nadu,Dindigul,2018-2019,"8704,405.00","1,885.0014,224.00",5.4
+Tamil Nadu,Dindigul,2019-2020,"9097,160.00","2,209.0024,727.00",5.880000000000001
+Tamil Nadu,Dindigul,2020-2021,"1,187.002,757.00","2,312.009,785.00",5.5
+Tamil Nadu,Dindigul,2021-2022,"4133,896.00","66714,928.00",5.45
+Tamil Nadu,Dindigul,2022-2023,"1,092.004,317.00","2,081.0016,008.00",5.62
+Tamil Nadu,Erode,2013-2014,448120,"1,284.00241",4.88
+Tamil Nadu,Erode,2014-2015,610485,"1,914.001,841.00",6.94
+Tamil Nadu,Erode,2015-2016,361435,"6731,290.00",4.83
+Tamil Nadu,Erode,2016-2017,213475,277699,2.77
+Tamil Nadu,Erode,2017-2018,184571,1,0.0
+Tamil Nadu,Erode,2018-2019,189799,"4092,076.00",4.76
+Tamil Nadu,Erode,2019-2020,353809,"8602,031.00",4.949999999999999
+Tamil Nadu,Erode,2020-2021,197520,"3841,255.00",4.36
+Tamil Nadu,Erode,2021-2022,227917,"3662,188.00",4.0
+Tamil Nadu,Erode,2022-2023,"3231,258.00","6142,252.00",3.69
+Tamil Nadu,Kallakurichi,2020-2021,"4,937.0084","8,051.00203",4.05
+Tamil Nadu,Kallakurichi,2021-2022,"5,181.00139","3,498.00330",3.0500000000000003
+Tamil Nadu,Kallakurichi,2022-2023,"4,976.00227","7,019.00406",3.2
+Tamil Nadu,Kanchipuram,2013-2014,1,3,3.0
+Tamil Nadu,Kanchipuram,2014-2015,7,22,3.14
+Tamil Nadu,Kanchipuram,2015-2016,21,43,5.0
+Tamil Nadu,Kanchipuram,2016-2017,2,2,1.0
+Tamil Nadu,Karur,2013-2014,921,2642,4.87
+Tamil Nadu,Karur,2014-2015,1461,4583,6.140000000000001
+Tamil Nadu,Karur,2015-2016,1232,2296,4.86
+Tamil Nadu,Karur,2016-2017,11221,14531,2.77
+Tamil Nadu,Karur,2017-2018,98188,,0.0
+Tamil Nadu,Karur,2018-2019,36210,78545,4.77
+Tamil Nadu,Karur,2019-2020,114237,276595,4.93
+Tamil Nadu,Karur,2020-2021,115156,225375,4.359999999999999
+Tamil Nadu,Karur,2021-2022,168225,271535,3.99
+Tamil Nadu,Karur,2022-2023,311485,589867,3.68
+Tamil Nadu,Krishnagiri,2013-2014,"1,912.00170","5,802.00408",5.43
+Tamil Nadu,Krishnagiri,2014-2015,"4,422.00211","12,961.00720",6.34
+Tamil Nadu,Krishnagiri,2015-2016,"2,286.00128","5,903.00379",5.54
+Tamil Nadu,Krishnagiri,2016-2017,"2,871.00107","4,364.00158",3.0
+Tamil Nadu,Krishnagiri,2017-2018,"2,925.00348",81,0.0
+Tamil Nadu,Krishnagiri,2018-2019,"1,595.0086","3,910.00224",5.050000000000001
+Tamil Nadu,Krishnagiri,2019-2020,"1,452.0075","4,564.00186",5.62
+Tamil Nadu,Krishnagiri,2020-2021,"1,247.00125","4,153.00303",5.75
+Tamil Nadu,Krishnagiri,2021-2022,"1,384.0040",95195,3.07
+Tamil Nadu,Krishnagiri,2022-2023,"1,648.0060","2,252.00107",3.1500000000000004
+Tamil Nadu,Madurai,2013-2014,"3,492.002,403.00","6,008.003,853.00",3.3200000000000003
+Tamil Nadu,Madurai,2014-2015,"3,979.002,389.00","5,316.004,509.00",3.23
+Tamil Nadu,Madurai,2015-2016,"4,820.003,161.00","9,782.005,783.00",3.86
+Tamil Nadu,Madurai,2016-2017,"4,063.004,899.00","5,172.005,590.00",2.41
+Tamil Nadu,Madurai,2017-2018,"9,372.002,759.00",214,0.0
+Tamil Nadu,Madurai,2018-2019,"5,903.003,370.00","9,639.007,491.00",3.85
+Tamil Nadu,Madurai,2019-2020,"6,076.004,829.00","14,577.009,557.00",4.38
+Tamil Nadu,Madurai,2020-2021,"4,173.002,323.00","8,788.005,315.00",4.4
+Tamil Nadu,Madurai,2021-2022,"3,447.005,290.00","3,514.009,486.00",2.81
+Tamil Nadu,Madurai,2022-2023,"5,464.003,868.00","10,861.009,473.00",4.44
+Tamil Nadu,Mayiladuthurai,2020-2021,"763,379.00","14811,177.00",5.26
+Tamil Nadu,Mayiladuthurai,2021-2022,"305,026.00","4917,318.00",5.08
+Tamil Nadu,Mayiladuthurai,2022-2023,"6,871.00","16,843.00",2.45
+Tamil Nadu,Nagapattinam,2013-2014,"2,496.00","9,850.00",3.95
+Tamil Nadu,Nagapattinam,2014-2015,"2,350.00","7,130.00",3.03
+Tamil Nadu,Nagapattinam,2015-2016,"2,438.00","4,690.00",1.92
+Tamil Nadu,Nagapattinam,2016-2017,"43,055.00","59,878.00",4.48
+Tamil Nadu,Nagapattinam,2017-2018,"122,245.00",10,0.0
+Tamil Nadu,Nagapattinam,2018-2019,"153,105.00","3112,345.00",6.05
+Tamil Nadu,Nagapattinam,2019-2020,"185,318.00","4422,980.00",6.76
+Tamil Nadu,Nagapattinam,2020-2021,"21,128.00","54,698.00",6.66
+Tamil Nadu,Nagapattinam,2021-2022,"1191,440.00","1932,171.00",3.13
+Tamil Nadu,Nagapattinam,2022-2023,"12,027.00","22,304.00",3.14
+Tamil Nadu,Namakkal,2013-2014,"1,306.00602","5,637.001,808.00",7.32
+Tamil Nadu,Namakkal,2014-2015,"1,471.00894","2,639.002,959.00",5.1
+Tamil Nadu,Namakkal,2015-2016,"1,365.00797","2,907.001,458.00",3.96
+Tamil Nadu,Namakkal,2016-2017,"1,853.00642","2,395.00949",2.77
+Tamil Nadu,Namakkal,2017-2018,"1,745.00481",51,0.0
+Tamil Nadu,Namakkal,2018-2019,"2,107.00322","4,807.00836",4.88
+Tamil Nadu,Namakkal,2019-2020,"2,144.00989","3,230.002,484.00",4.02
+Tamil Nadu,Namakkal,2020-2021,"1,463.00389","3,159.00939",4.57
+Tamil Nadu,Namakkal,2021-2022,"1,969.00703","3,758.001,670.00",4.29
+Tamil Nadu,Namakkal,2022-2023,"2,999.001,404.00","4,532.002,512.00",3.3
+Tamil Nadu,Perambalur,2013-2014,"30,052.001,035.00","88,685.002,485.00",5.35
+Tamil Nadu,Perambalur,2014-2015,"39,615.00433","1,51,882.001,477.00",7.24
+Tamil Nadu,Perambalur,2015-2016,"20,324.0047","36,822.00139",4.77
+Tamil Nadu,Perambalur,2016-2017,"20,965.00200","18,791.00295",2.38
+Tamil Nadu,Perambalur,2017-2018,"32,908.0086",87,0.0
+Tamil Nadu,Perambalur,2018-2019,"13,663.00208","29,655.00539",4.76
+Tamil Nadu,Perambalur,2019-2020,"20,565.001","48,701.003",5.37
+Tamil Nadu,Perambalur,2020-2021,"8,973.0041","16,072.00100",4.23
+Tamil Nadu,Perambalur,2021-2022,"10,118.00209","14,983.00499",3.87
+Tamil Nadu,Perambalur,2022-2023,"12,990.00299","27,973.00536",3.94
+Tamil Nadu,Pudukkottai,2013-2014,101,292,4.9
+Tamil Nadu,Pudukkottai,2014-2015,50,157,3.14
+Tamil Nadu,Pudukkottai,2015-2016,28,52,1.86
+Tamil Nadu,Pudukkottai,2016-2017,3312,4216,2.6
+Tamil Nadu,Pudukkottai,2017-2018,1010,,0.0
+Tamil Nadu,Pudukkottai,2018-2019,917,2046,4.93
+Tamil Nadu,Pudukkottai,2019-2020,1443,36109,5.1
+Tamil Nadu,Pudukkottai,2020-2021,2424,4759,4.42
+Tamil Nadu,Pudukkottai,2021-2022,18176,30420,4.0600000000000005
+Tamil Nadu,Pudukkottai,2022-2023,41401,78722,3.7
+Tamil Nadu,Ramanathapuram,2013-2014,"552,735.00","1588,634.00",6.03
+Tamil Nadu,Ramanathapuram,2014-2015,"171,982.00","533,002.00",4.63
+Tamil Nadu,Ramanathapuram,2015-2016,"121,965.00","222,404.00",3.05
+Tamil Nadu,Ramanathapuram,2016-2017,"1,916.00",620,0.32
+Tamil Nadu,Ramanathapuram,2017-2018,"2,152.00",1,0.0
+Tamil Nadu,Ramanathapuram,2018-2019,"2,671.00",803,0.3
+Tamil Nadu,Ramanathapuram,2019-2020,"14,333.00","34,244.00",3.98
+Tamil Nadu,Ramanathapuram,2020-2021,"95,721.00","188,000.00",3.4
+Tamil Nadu,Ramanathapuram,2021-2022,"9,242.00","10,114.00",1.09
+Tamil Nadu,Ramanathapuram,2022-2023,"1629,929.00","3098,160.00",2.73
+Tamil Nadu,Ranipet,2020-2021,14,27,1.93
+Tamil Nadu,Ranipet,2021-2022,13,21,1.62
+Tamil Nadu,Ranipet,2022-2023,331,621,2.88
+Tamil Nadu,Salem,2013-2014,"11,737.001,266.00","42,720.003,257.00",6.21
+Tamil Nadu,Salem,2014-2015,"14,103.001,649.00","52,074.006,405.00",7.57
+Tamil Nadu,Salem,2015-2016,"11,338.001,129.00","34,614.003,739.00",6.359999999999999
+Tamil Nadu,Salem,2016-2017,"11,533.001,168.00","20,470.002,993.00",4.33
+Tamil Nadu,Salem,2017-2018,"15,885.001,214.00",434,0.0
+Tamil Nadu,Salem,2018-2019,"7,001.002,416.00","20,172.0011,605.00",7.68
+Tamil Nadu,Salem,2019-2020,"11,811.002,203.00","31,246.008,783.00",6.640000000000001
+Tamil Nadu,Salem,2020-2021,"7,321.001,574.00","19,268.005,876.00",6.359999999999999
+Tamil Nadu,Salem,2021-2022,"7,952.002,510.00","19,086.008,449.00",5.77
+Tamil Nadu,Salem,2022-2023,"7,933.002,150.00","14,040.006,601.00",4.84
+Tamil Nadu,Sivaganga,2013-2014,116559,"3321,342.00",5.26
+Tamil Nadu,Sivaganga,2014-2015,51823,"1,625.0078",6.53
+Tamil Nadu,Sivaganga,2015-2016,21885,407252,4.83
+Tamil Nadu,Sivaganga,2016-2017,399471,515694,2.76
+Tamil Nadu,Sivaganga,2017-2018,256434,11,0.0
+Tamil Nadu,Sivaganga,2018-2019,269259,582672,4.75
+Tamil Nadu,Sivaganga,2019-2020,94877,"2322,201.00",4.98
+Tamil Nadu,Sivaganga,2020-2021,98469,"1901,135.00",4.359999999999999
+Tamil Nadu,Sivaganga,2021-2022,46611,"751,456.00",4.01
+Tamil Nadu,Sivaganga,2022-2023,91746,"1731,334.00",3.69
+Tamil Nadu,Thanjavur,2013-2014,"1,788.00","5,912.00",3.31
+Tamil Nadu,Thanjavur,2014-2015,"6811,411.00","2,136.004,813.00",6.550000000000001
+Tamil Nadu,Thanjavur,2015-2016,"2261,463.00","4213,761.00",4.43
+Tamil Nadu,Thanjavur,2016-2017,"811,659.00","1057,609.00",5.89
+Tamil Nadu,Thanjavur,2017-2018,122693,3,0.0
+Tamil Nadu,Thanjavur,2018-2019,"881,520.00","1907,980.00",7.41
+Tamil Nadu,Thanjavur,2019-2020,"542,068.00","1305,191.00",4.92
+Tamil Nadu,Thanjavur,2020-2021,"2141,647.00","4163,981.00",4.359999999999999
+Tamil Nadu,Thanjavur,2021-2022,"2332,868.00","3766,846.00",4.0
+Tamil Nadu,Thanjavur,2022-2023,"3983,546.00","7606,344.00",3.7
+Tamil Nadu,The nilgiris,2013-2014,6,17,2.83
+Tamil Nadu,The nilgiris,2014-2015,5,17,3.4
+Tamil Nadu,Theni,2013-2014,834509,"2,455.002,329.00",7.52
+Tamil Nadu,Theni,2014-2015,"1,009.001,848.00","3,882.008,312.00",8.35
+Tamil Nadu,Theni,2015-2016,913877,"4,318.003,916.00",9.2
+Tamil Nadu,Theni,2016-2017,"3181,424.00",410347,1.53
+Tamil Nadu,Theni,2017-2018,"1,246.001,162.00",33,0.0
+Tamil Nadu,Theni,2018-2019,"9812,474.00","2,125.006,426.00",4.77
+Tamil Nadu,Theni,2019-2020,"7131,830.00","3,238.0010,402.00",10.22
+Tamil Nadu,Theni,2020-2021,"6001,249.00","2,559.002,648.00",6.39
+Tamil Nadu,Theni,2021-2022,"1,052.001,794.00","6,367.007,839.00",10.42
+Tamil Nadu,Theni,2022-2023,"1,649.002,652.00","9,188.0010,733.00",9.62
+Tamil Nadu,Thenkasi,2020-2021,"8091,853.00","1,574.005,712.00",5.03
+Tamil Nadu,Thenkasi,2021-2022,"6572,198.00","1,060.006,068.00",4.37
+Tamil Nadu,Thenkasi,2022-2023,"1,246.003,283.00","2,372.006,310.00",3.82
+Tamil Nadu,Thiruvallur,2014-2015,2,7,3.5
+Tamil Nadu,Thiruvallur,2015-2016,1,3,3.0
+Tamil Nadu,Thiruvarur,2013-2014,"3,676.00","9,189.00",2.5
+Tamil Nadu,Thiruvarur,2014-2015,"805,077.00","25110,624.00",5.23
+Tamil Nadu,Thiruvarur,2015-2016,"14,798.00","218,035.00",5.76
+Tamil Nadu,Thiruvarur,2016-2017,"6,998.00","20,804.00",2.97
+Tamil Nadu,Thiruvarur,2017-2018,"4,200.00",12,0.0
+Tamil Nadu,Thiruvarur,2018-2019,"6,689.00","30,586.00",4.57
+Tamil Nadu,Thiruvarur,2019-2020,"8,049.00","27,003.00",3.35
+Tamil Nadu,Thiruvarur,2020-2021,"606,623.00","11717,212.00",4.55
+Tamil Nadu,Thiruvarur,2021-2022,"16,427.00","54,758.00",3.33
+Tamil Nadu,Thiruvarur,2022-2023,"1716,384.00","3231,411.00",3.8
+Tamil Nadu,Thoothukudi,2013-2014,"224,504.00","637,701.00",4.57
+Tamil Nadu,Thoothukudi,2014-2015,"487,313.00","15135,299.00",7.98
+Tamil Nadu,Thoothukudi,2015-2016,"785,069.00","14517,742.00",5.36
+Tamil Nadu,Thoothukudi,2016-2017,"916,139.00","1171,242.00",1.49
+Tamil Nadu,Thoothukudi,2017-2018,"436,497.00",14,0.0
+Tamil Nadu,Thoothukudi,2018-2019,"26,149.00","411,452.00",3.86
+Tamil Nadu,Thoothukudi,2019-2020,"537,707.00","13014,922.00",4.390000000000001
+Tamil Nadu,Thoothukudi,2020-2021,"1474,975.00","2854,136.00",2.77
+Tamil Nadu,Thoothukudi,2021-2022,"6914,814.00","1,117.007,137.00",3.1
+Tamil Nadu,Thoothukudi,2022-2023,"2508,312.00","4755,474.00",2.56
+Tamil Nadu,Tiruchirappalli,2013-2014,"16,272.00190","35,173.00594",5.29
+Tamil Nadu,Tiruchirappalli,2014-2015,"16,895.00389","28,140.001,327.00",5.08
+Tamil Nadu,Tiruchirappalli,2015-2016,"14,518.00459","17,592.001,361.00",4.18
+Tamil Nadu,Tiruchirappalli,2016-2017,"10,655.00980","13,194.001,445.00",2.71
+Tamil Nadu,Tiruchirappalli,2017-2018,"14,197.00690",292,0.0
+Tamil Nadu,Tiruchirappalli,2018-2019,"5,361.003,502.00","12,017.009,095.00",4.84
+Tamil Nadu,Tiruchirappalli,2019-2020,"11,428.002,046.00","24,692.005,137.00",4.67
+Tamil Nadu,Tiruchirappalli,2020-2021,"8,051.00625","13,992.001,509.00",4.15
+Tamil Nadu,Tiruchirappalli,2021-2022,"9,138.002,282.00","13,030.005,443.00",3.82
+Tamil Nadu,Tiruchirappalli,2022-2023,"10,339.002,563.00","17,906.004,587.00",3.52
+Tamil Nadu,Tirunelveli,2013-2014,"1,105.002,379.00","2,187.001,617.00",2.66
+Tamil Nadu,Tirunelveli,2014-2015,"3,247.002,809.00","10,642.0013,382.00",8.04
+Tamil Nadu,Tirunelveli,2015-2016,"1,220.002,922.00","4,744.0011,911.00",7.970000000000001
+Tamil Nadu,Tirunelveli,2016-2017,"1,055.002,607.00","3,248.002,182.00",3.92
+Tamil Nadu,Tirunelveli,2017-2018,"1,220.002,333.00",44,0.0
+Tamil Nadu,Tirunelveli,2018-2019,"8213,139.00","1,955.004,896.00",3.94
+Tamil Nadu,Tirunelveli,2019-2020,"9853,452.00","2,398.004,805.00",3.82
+Tamil Nadu,Tirunelveli,2020-2021,630226,"1,228.00546",4.37
+Tamil Nadu,Tirunelveli,2021-2022,561185,909441,4.0
+Tamil Nadu,Tirunelveli,2022-2023,845298,"1,610.00533",3.7
+Tamil Nadu,Tirupathur,2020-2021,"2,200.00","4,627.00",2.1
+Tamil Nadu,Tirupathur,2021-2022,"3,101.005","4,183.0012",3.75
+Tamil Nadu,Tirupathur,2022-2023,"3,305.00136","8,106.00243",4.24
+Tamil Nadu,Tiruppur,2013-2014,137194,393466,5.27
+Tamil Nadu,Tiruppur,2014-2015,381479,"1,195.001,634.00",6.550000000000001
+Tamil Nadu,Tiruppur,2015-2016,277692,"5172,052.00",4.84
+Tamil Nadu,Tiruppur,2016-2017,272621,352914,2.76
+Tamil Nadu,Tiruppur,2017-2018,191717,2,0.0
+Tamil Nadu,Tiruppur,2018-2019,"1131,039.00","2442,696.00",4.75
+Tamil Nadu,Tiruppur,2019-2020,222984,"5413,769.00",6.27
+Tamil Nadu,Tiruppur,2020-2021,163768,"3183,011.00",5.87
+Tamil Nadu,Tiruppur,2021-2022,156928,"2543,914.00",5.85
+Tamil Nadu,Tiruppur,2022-2023,433840,"8242,697.00",5.109999999999999
+Tamil Nadu,Tiruvannamalai,2013-2014,138157,260357,4.15
+Tamil Nadu,Tiruvannamalai,2014-2015,148242,464623,5.71
+Tamil Nadu,Tiruvannamalai,2015-2016,24783,461246,4.83
+Tamil Nadu,Tiruvannamalai,2016-2017,16390,211132,2.76
+Tamil Nadu,Tiruvannamalai,2017-2018,226361,11,0.0
+Tamil Nadu,Tiruvannamalai,2018-2019,239346,518898,4.77
+Tamil Nadu,Tiruvannamalai,2019-2020,396487,"9651,219.00",4.94
+Tamil Nadu,Tiruvannamalai,2020-2021,282353,549854,4.37
+Tamil Nadu,Tiruvannamalai,2021-2022,"2921,058.00","4722,525.00",4.01
+Tamil Nadu,Tiruvannamalai,2022-2023,"2381,946.00","4633,479.00",3.74
+Tamil Nadu,Vellore,2013-2014,"6,125.00345","16,476.00828",5.09
+Tamil Nadu,Vellore,2014-2015,"8,503.00140","23,200.00478",6.140000000000001
+Tamil Nadu,Vellore,2015-2016,"8,016.0095","13,769.00282",4.69
+Tamil Nadu,Vellore,2016-2017,"6,021.0089","10,374.00131",3.19
+Tamil Nadu,Vellore,2017-2018,"6,206.00135",18,0.0
+Tamil Nadu,Vellore,2018-2019,"3,205.00","6,307.00",1.97
+Tamil Nadu,Vellore,2019-2020,"5,062.00","14,293.00",2.82
+Tamil Nadu,Vellore,2020-2021,19,59,3.11
+Tamil Nadu,Vellore,2021-2022,1610,5124,5.59
+Tamil Nadu,Vellore,2022-2023,464,1467,4.92
+Tamil Nadu,Villupuram,2013-2014,"9,322.00267","21,093.00631",4.619999999999999
+Tamil Nadu,Villupuram,2014-2015,"9,024.00861","22,702.002,938.00",5.93
+Tamil Nadu,Villupuram,2015-2016,"7,459.001,540.00","9,433.004,566.00",4.22
+Tamil Nadu,Villupuram,2016-2017,"4,884.00876","7,557.001,290.00",3.02
+Tamil Nadu,Villupuram,2017-2018,"7,920.00483",191,0.0
+Tamil Nadu,Villupuram,2018-2019,"4,503.00601","9,104.001,559.00",4.609999999999999
+Tamil Nadu,Villupuram,2019-2020,"7,902.00264","20,187.00662",5.06
+Tamil Nadu,Villupuram,2020-2021,11728,22867,4.34
+Tamil Nadu,Villupuram,2021-2022,6389,102211,3.99
+Tamil Nadu,Villupuram,2022-2023,10488,198158,3.7
+Tamil Nadu,Virudhunagar,2013-2014,"3,818.005,904.00","9,248.0014,203.00",4.83
+Tamil Nadu,Virudhunagar,2014-2015,"2,577.0010,680.00","4,344.0026,066.00",4.13
+Tamil Nadu,Virudhunagar,2015-2016,"1,536.0011,962.00","2,205.0033,634.00",4.25
+Tamil Nadu,Virudhunagar,2016-2017,"1,437.0014,016.00","82215,524.00",1.6800000000000002
+Tamil Nadu,Virudhunagar,2017-2018,"6,810.0010,375.00",919,0.0
+Tamil Nadu,Virudhunagar,2018-2019,"2,067.0017,375.00","2,167.0030,649.00",2.81
+Tamil Nadu,Virudhunagar,2019-2020,"3,642.0018,043.00","6,556.0029,221.00",3.42
+Tamil Nadu,Virudhunagar,2020-2021,"3,283.0013,384.00","5,286.0033,030.00",4.08
+Tamil Nadu,Virudhunagar,2021-2022,"2,758.0017,100.00","4,495.0026,469.00",3.18
+Tamil Nadu,Virudhunagar,2022-2023,"3,706.0017,401.00","4,338.0023,625.00",2.53
+Telangana,Adilabad,2013-2014,"3,02,845.00","6,57,994.00",2.17
+Telangana,Adilabad,2014-2015,"3,04,424.00","5,73,033.00",1.88
+Telangana,Adilabad,2015-2016,"3,36,448.00","8,38,679.00",2.49
+Telangana,Adilabad,2016-2017,"1,05,746.00","2,88,002.00",2.72
+Telangana,Adilabad,2017-2018,"1,42,058.00","4,47,065.00",3.15
+Telangana,Adilabad,2018-2019,"1,42,447.00","3,62,821.00",2.55
+Telangana,Adilabad,2019-2020,"1,40,332.00","6,64,975.00",4.74
+Telangana,Adilabad,2020-2021,"1,71,507.00","4,58,698.00",2.67
+Telangana,Adilabad,2021-2022,"1,56,685.00","4,01,848.00",2.56
+Telangana,Adilabad,2022-2023,"1,50,384.009","4,76,806.0029",6.390000000000001
+Telangana,Bhadradri,2016-2017,"37,975.00","1,28,445.00",3.38
+Telangana,Bhadradri,2017-2018,"46,097.00","1,79,236.00",3.89
+Telangana,Bhadradri,2018-2019,"48,246.00","1,17,209.00",2.43
+Telangana,Bhadradri,2019-2020,"48,548.00","1,65,831.00",3.42
+Telangana,Bhadradri,2020-2021,"52,424.00","1,60,794.00",3.07
+Telangana,Bhadradri,2021-2022,"64,971.00","2,48,048.00",3.82
+Telangana,Bhadradri,2022-2023,"68,275.0059","2,36,954.00205",6.94
+Telangana,Jagitial,2016-2017,"13,052.00","41,766.00",3.2
+Telangana,Jagitial,2017-2018,"10,809.00","20,982.00",1.94
+Telangana,Jagitial,2018-2019,"8,291.00","23,215.00",2.8
+Telangana,Jagitial,2019-2020,"11,291.00","38,405.00",3.4
+Telangana,Jagitial,2020-2021,"11,946.00","39,593.00",3.31
+Telangana,Jagitial,2021-2022,"8,598.00","25,238.00",2.94
+Telangana,Jagitial,2022-2023,"8,645.002","25,376.006",5.94
+Telangana,Jangoan,2016-2017,"56,065.00","1,69,844.00",3.03
+Telangana,Jangoan,2017-2018,"78,259.00","2,47,206.00",3.16
+Telangana,Jangoan,2018-2019,"64,566.00","1,41,286.00",2.19
+Telangana,Jangoan,2019-2020,"68,824.00","1,98,078.00",2.88
+Telangana,Jangoan,2020-2021,"74,215.00","1,86,625.00",2.51
+Telangana,Jangoan,2021-2022,"59,252.00","1,37,325.00",2.32
+Telangana,Jangoan,2022-2023,"60,282.0086","1,87,229.00267",6.21
+Telangana,Jayashankar,2016-2017,"60,981.00","1,84,737.00",3.03
+Telangana,Jayashankar,2017-2018,"65,999.00","1,66,550.00",2.52
+Telangana,Jayashankar,2018-2019,"52,864.00","1,54,549.00",2.92
+Telangana,Jayashankar,2019-2020,"52,386.00","1,85,795.00",3.55
+Telangana,Jayashankar,2020-2021,"50,028.00","1,37,441.00",2.75
+Telangana,Jayashankar,2021-2022,"36,304.00","1,08,698.00",2.99
+Telangana,Jayashankar,2022-2023,"40,889.0013","1,64,037.0052",8.01
+Telangana,Jogulamba,2016-2017,"38,428.00","67,362.00",1.75
+Telangana,Jogulamba,2017-2018,"59,363.00","1,30,249.00",2.19
+Telangana,Jogulamba,2018-2019,"59,265.00","1,16,787.00",1.97
+Telangana,Jogulamba,2019-2020,"76,386.00","2,34,280.00",3.07
+Telangana,Jogulamba,2020-2021,"89,474.00","2,27,603.00",2.54
+Telangana,Jogulamba,2021-2022,"77,408.00","2,02,622.00",2.62
+Telangana,Jogulamba,2022-2023,"95,408.0028","2,01,479.0059",4.22
+Telangana,Kamareddy,2016-2017,"7,864.00","18,133.00",2.31
+Telangana,Kamareddy,2017-2018,"17,808.00","45,044.00",2.53
+Telangana,Kamareddy,2018-2019,"18,253.00","66,355.00",3.64
+Telangana,Kamareddy,2019-2020,"19,206.00","61,975.00",3.23
+Telangana,Kamareddy,2020-2021,"23,672.00","45,420.00",1.92
+Telangana,Kamareddy,2021-2022,"11,168.00","31,927.00",2.86
+Telangana,Kamareddy,2022-2023,"11,974.0015","40,219.0050",6.69
+Telangana,Karimnagar,2013-2014,"2,31,378.00","6,69,212.00",2.89
+Telangana,Karimnagar,2014-2015,"2,14,586.00","5,85,694.00",2.73
+Telangana,Karimnagar,2015-2016,"2,01,244.00","5,48,269.00",2.72
+Telangana,Karimnagar,2016-2017,"47,541.00","1,52,131.00",3.2
+Telangana,Karimnagar,2017-2018,"53,366.00","1,85,839.00",3.48
+Telangana,Karimnagar,2018-2019,"42,918.00","93,915.00",2.19
+Telangana,Karimnagar,2019-2020,"36,762.00","1,11,148.00",3.02
+Telangana,Karimnagar,2020-2021,"30,345.00","93,077.00",3.07
+Telangana,Karimnagar,2021-2022,"19,168.00","60,658.00",3.16
+Telangana,Karimnagar,2022-2023,"20,928.0048","75,341.00173",7.2
+Telangana,Khammam,2013-2014,"1,75,049.00","5,48,747.00",3.13
+Telangana,Khammam,2014-2015,"1,57,416.00","4,84,286.00",3.08
+Telangana,Khammam,2015-2016,"1,54,994.00","4,64,001.00",2.99
+Telangana,Khammam,2016-2017,"83,018.00","2,80,796.00",3.38
+Telangana,Khammam,2017-2018,"97,801.00","3,89,478.00",3.98
+Telangana,Khammam,2018-2019,"97,134.00","2,17,694.00",2.24
+Telangana,Khammam,2019-2020,"1,00,370.00","3,51,605.00",3.5
+Telangana,Khammam,2020-2021,"1,02,772.00","2,24,077.00",2.18
+Telangana,Khammam,2021-2022,"78,817.00","2,22,545.00",2.82
+Telangana,Khammam,2022-2023,"94,628.0059","2,81,101.00175",5.94
+Telangana,Komaram bheem asifabad,2016-2017,"71,072.00","1,93,567.00",2.72
+Telangana,Komaram bheem asifabad,2017-2018,"83,197.00","1,76,182.00",2.12
+Telangana,Komaram bheem asifabad,2018-2019,"91,992.00","2,16,452.00",2.35
+Telangana,Komaram bheem asifabad,2019-2020,"1,24,884.00","4,08,435.00",3.27
+Telangana,Komaram bheem asifabad,2020-2021,"1,24,040.00","3,66,010.00",2.95
+Telangana,Komaram bheem asifabad,2021-2022,"1,26,410.00","3,42,794.00",2.71
+Telangana,Komaram bheem asifabad,2022-2023,"1,29,158.0015","4,09,507.0048",6.37
+Telangana,Mahabubabad,2016-2017,"30,249.00","91,637.00",3.03
+Telangana,Mahabubabad,2017-2018,"42,476.00","1,05,690.00",2.49
+Telangana,Mahabubabad,2018-2019,"36,495.00","91,882.00",2.52
+Telangana,Mahabubabad,2019-2020,"40,779.00","90,689.00",2.22
+Telangana,Mahabubabad,2020-2021,"44,774.00","1,01,528.00",2.27
+Telangana,Mahabubabad,2021-2022,"29,491.00","80,490.00",2.73
+Telangana,Mahabubabad,2022-2023,"39,058.0023","1,18,093.0070",6.0600000000000005
+Telangana,Mahbubnagar,2013-2014,"2,30,606.00","4,77,929.00",2.07
+Telangana,Mahbubnagar,2014-2015,"2,37,683.00","4,64,509.00",1.95
+Telangana,Mahbubnagar,2015-2016,"2,73,989.00","2,62,561.00",0.96
+Telangana,Mahbubnagar,2016-2017,"34,499.00","60,475.00",1.75
+Telangana,Mahbubnagar,2017-2018,"73,982.00","1,21,418.00",1.64
+Telangana,Mahbubnagar,2018-2019,"35,870.00","46,209.00",1.29
+Telangana,Mahbubnagar,2019-2020,"39,210.00","1,24,818.00",3.18
+Telangana,Mahbubnagar,2020-2021,"52,415.00","1,04,378.00",1.99
+Telangana,Mahbubnagar,2021-2022,"32,557.00","86,372.00",2.65
+Telangana,Mahbubnagar,2022-2023,"42,574.003","1,10,192.008",5.26
+Telangana,Mancherial,2016-2017,"48,282.00","1,31,497.00",2.72
+Telangana,Mancherial,2017-2018,"56,470.00","1,93,991.00",3.44
+Telangana,Mancherial,2018-2019,"60,229.00","1,96,630.00",3.26
+Telangana,Mancherial,2019-2020,"73,114.00","2,10,425.00",2.88
+Telangana,Mancherial,2020-2021,"76,116.00","1,82,557.00",2.4
+Telangana,Mancherial,2021-2022,"64,935.00","1,59,659.00",2.46
+Telangana,Mancherial,2022-2023,"67,599.0067","1,79,734.00178",5.32
+Telangana,Medak,2013-2014,"1,22,299.00","2,99,547.00",2.45
+Telangana,Medak,2014-2015,"1,33,703.00","2,33,587.00",1.75
+Telangana,Medak,2015-2016,"1,34,239.00","2,26,183.00",1.68
+Telangana,Medak,2016-2017,"7,605.00","16,284.00",2.14
+Telangana,Medak,2017-2018,"12,347.00","60,282.00",4.88
+Telangana,Medak,2018-2019,"13,991.00","34,566.00",2.47
+Telangana,Medak,2019-2020,"29,698.00","89,789.00",3.02
+Telangana,Medak,2020-2021,"34,628.00","89,099.00",2.57
+Telangana,Medak,2021-2022,"21,548.00","53,743.00",2.49
+Telangana,Medak,2022-2023,"17,917.0016","48,060.0043",5.37
+Telangana,Medchal,2016-2017,79,126,1.59
+Telangana,Medchal,2017-2018,150,411,2.74
+Telangana,Medchal,2018-2019,110,235,2.14
+Telangana,Medchal,2019-2020,174,559,3.21
+Telangana,Medchal,2020-2021,401,985,2.46
+Telangana,Medchal,2021-2022,108,274,2.54
+Telangana,Medchal,2022-2023,826,23917,5.74
+Telangana,Mulugu,2018-2019,"12,068.00","5,998.00",0.5
+Telangana,Mulugu,2019-2020,"11,604.00","42,844.00",3.69
+Telangana,Mulugu,2020-2021,"10,684.00","20,035.00",1.88
+Telangana,Mulugu,2021-2022,"9,415.00","31,180.00",3.31
+Telangana,Mulugu,2022-2023,"11,162.0020","32,370.0058",5.8
+Telangana,Nagarkurnool,2016-2017,"67,350.00","1,18,061.00",1.75
+Telangana,Nagarkurnool,2017-2018,"1,27,009.00","1,94,249.00",1.53
+Telangana,Nagarkurnool,2018-2019,"1,19,059.00","1,05,752.00",0.89
+Telangana,Nagarkurnool,2019-2020,"1,42,192.00","4,77,438.00",3.36
+Telangana,Nagarkurnool,2020-2021,"1,84,648.00","4,37,486.00",2.37
+Telangana,Nagarkurnool,2021-2022,"1,42,692.00","2,94,615.00",2.06
+Telangana,Nagarkurnool,2022-2023,"1,41,458.0091","3,27,850.00211",4.64
+Telangana,Nalgonda,2013-2014,"3,35,976.00","7,76,447.00",2.31
+Telangana,Nalgonda,2014-2015,"3,07,792.00","5,05,141.00",1.64
+Telangana,Nalgonda,2015-2016,"3,41,655.00","6,41,281.00",1.88
+Telangana,Nalgonda,2016-2017,"2,03,081.00","3,34,486.00",1.65
+Telangana,Nalgonda,2017-2018,"2,33,520.00","4,97,260.00",2.13
+Telangana,Nalgonda,2018-2019,"2,28,833.00","3,97,093.00",1.74
+Telangana,Nalgonda,2019-2020,"2,73,699.00","7,16,107.00",2.62
+Telangana,Nalgonda,2020-2021,"2,84,524.00","6,24,494.00",2.19
+Telangana,Nalgonda,2021-2022,"2,64,573.00","6,03,849.00",2.28
+Telangana,Nalgonda,2022-2023,"2,76,238.0045","5,89,849.0096",4.27
+Telangana,Narayanapet,2018-2019,"41,972.00","9,192.00",0.22
+Telangana,Narayanapet,2019-2020,"63,734.00","2,06,590.00",3.24
+Telangana,Narayanapet,2020-2021,"73,177.00","1,44,659.00",1.98
+Telangana,Narayanapet,2021-2022,"67,073.00","1,88,593.00",2.81
+Telangana,Narayanapet,2022-2023,"87,985.0082","2,00,813.00187",4.56
+Telangana,Nirmal,2016-2017,"50,504.00","1,37,549.00",2.72
+Telangana,Nirmal,2017-2018,"59,258.00","1,97,991.00",3.34
+Telangana,Nirmal,2018-2019,"57,216.00","1,50,781.00",2.64
+Telangana,Nirmal,2019-2020,"55,585.00","1,64,016.00",2.95
+Telangana,Nirmal,2020-2021,"62,799.00","1,86,220.00",2.97
+Telangana,Nirmal,2021-2022,"65,559.00","1,31,502.00",2.01
+Telangana,Nirmal,2022-2023,"57,672.001","1,99,817.003",6.46
+Telangana,Nizamabad,2013-2014,"15,398.00","30,618.00",1.99
+Telangana,Nizamabad,2014-2015,"15,795.00","18,861.00",1.19
+Telangana,Nizamabad,2015-2016,"16,658.00","16,524.00",0.99
+Telangana,Nizamabad,2016-2017,994,"2,292.00",2.31
+Telangana,Nizamabad,2017-2018,"1,404.00","4,782.00",3.41
+Telangana,Nizamabad,2018-2019,"1,295.00","3,725.00",2.88
+Telangana,Nizamabad,2019-2020,"1,487.00","6,116.00",4.11
+Telangana,Nizamabad,2020-2021,"1,409.00","2,948.00",2.09
+Telangana,Nizamabad,2021-2022,853,"2,293.00",2.69
+Telangana,Nizamabad,2022-2023,8292,"2,277.005",5.25
+Telangana,Peddapalli,2016-2017,"30,656.00","98,099.00",3.2
+Telangana,Peddapalli,2017-2018,"39,307.00","1,26,476.00",3.22
+Telangana,Peddapalli,2018-2019,"35,027.00","1,10,850.00",3.16
+Telangana,Peddapalli,2019-2020,"31,142.00","93,704.00",3.01
+Telangana,Peddapalli,2020-2021,"30,854.00","90,147.00",2.92
+Telangana,Peddapalli,2021-2022,"25,610.00","80,737.00",3.15
+Telangana,Peddapalli,2022-2023,"27,134.003","1,04,386.0012",7.85
+Telangana,Rajanna,2016-2017,"42,806.00","1,36,979.00",3.2
+Telangana,Rajanna,2017-2018,"50,586.00","1,69,909.00",3.36
+Telangana,Rajanna,2018-2019,"51,270.00","1,38,127.00",2.69
+Telangana,Rajanna,2019-2020,"50,178.00","2,45,796.00",4.9
+Telangana,Rajanna,2020-2021,"39,943.00","1,50,956.00",3.78
+Telangana,Rajanna,2021-2022,"25,557.00","79,675.00",3.12
+Telangana,Rajanna,2022-2023,"23,297.008","90,447.0031",7.76
+Telangana,Rangareddi,2013-2014,"59,490.00","1,39,629.00",2.35
+Telangana,Rangareddi,2014-2015,"63,469.00","1,10,511.00",1.74
+Telangana,Rangareddi,2015-2016,"63,008.00","93,938.00",1.49
+Telangana,Rangareddi,2016-2017,"46,101.00","73,762.00",1.6
+Telangana,Rangareddi,2017-2018,"80,375.00","1,77,771.00",2.21
+Telangana,Rangareddi,2018-2019,"71,395.00","88,194.00",1.24
+Telangana,Rangareddi,2019-2020,"86,994.00","2,36,465.00",2.72
+Telangana,Rangareddi,2020-2021,"1,09,313.00","2,19,271.00",2.01
+Telangana,Rangareddi,2021-2022,"53,256.00","1,21,236.00",2.28
+Telangana,Rangareddi,2022-2023,"57,827.0017","1,28,580.0038",4.460000000000001
+Telangana,Sangareddy,2016-2017,"69,740.00","1,49,326.00",2.14
+Telangana,Sangareddy,2017-2018,"1,06,002.00","4,15,902.00",3.92
+Telangana,Sangareddy,2018-2019,"99,543.00","1,89,132.00",1.9
+Telangana,Sangareddy,2019-2020,"1,40,009.00","4,49,762.00",3.21
+Telangana,Sangareddy,2020-2021,"1,61,667.00","4,53,540.00",2.81
+Telangana,Sangareddy,2021-2022,"1,46,158.00","3,33,584.00",2.28
+Telangana,Sangareddy,2022-2023,"1,48,432.0043","5,56,183.00161",7.49
+Telangana,Siddipet,2016-2017,"51,581.00","1,10,444.00",2.14
+Telangana,Siddipet,2017-2018,"77,061.00","2,61,554.00",3.39
+Telangana,Siddipet,2018-2019,"74,505.00","1,27,535.00",1.71
+Telangana,Siddipet,2019-2020,"91,914.00","3,13,964.00",3.42
+Telangana,Siddipet,2020-2021,"96,431.00","3,04,164.00",3.15
+Telangana,Siddipet,2021-2022,"51,483.00","1,42,638.00",2.77
+Telangana,Siddipet,2022-2023,"49,959.0013","1,69,861.0044",6.779999999999999
+Telangana,Suryapet,2016-2017,"33,598.00","55,338.00",1.65
+Telangana,Suryapet,2017-2018,"49,916.00","1,64,723.00",3.3
+Telangana,Suryapet,2018-2019,"47,530.00","1,56,290.00",3.29
+Telangana,Suryapet,2019-2020,"65,642.00","2,15,637.00",3.29
+Telangana,Suryapet,2020-2021,"61,181.00","1,44,067.00",2.35
+Telangana,Suryapet,2021-2022,"39,715.00","1,12,370.00",2.83
+Telangana,Suryapet,2022-2023,"46,816.009","1,59,174.0031",6.84
+Telangana,Vikarabad,2016-2017,"30,790.00","49,264.00",1.6
+Telangana,Vikarabad,2017-2018,"51,597.00","1,32,028.00",2.56
+Telangana,Vikarabad,2018-2019,"55,174.00","1,15,865.00",2.1
+Telangana,Vikarabad,2019-2020,"77,484.00","2,24,129.00",2.89
+Telangana,Vikarabad,2020-2021,"1,07,728.00","1,72,250.00",1.6
+Telangana,Vikarabad,2021-2022,"77,456.00","1,74,048.00",2.25
+Telangana,Vikarabad,2022-2023,"98,513.0021","2,43,965.0052",4.96
+Telangana,Wanaparthy,2016-2017,"1,675.00","2,936.00",1.75
+Telangana,Wanaparthy,2017-2018,"4,380.00","12,058.00",2.75
+Telangana,Wanaparthy,2018-2019,"2,736.00","4,056.00",1.48
+Telangana,Wanaparthy,2019-2020,"2,988.00","10,119.00",3.39
+Telangana,Wanaparthy,2020-2021,"7,048.00","10,652.00",1.51
+Telangana,Wanaparthy,2021-2022,"5,261.00","9,903.00",1.88
+Telangana,Wanaparthy,2022-2023,"8,966.002","18,723.004",4.09
+Telangana,Warangal,2013-2014,"2,39,789.00","6,65,182.00",2.77
+Telangana,Warangal,2014-2015,"2,28,057.00","6,07,705.00",2.66
+Telangana,Warangal,2015-2016,"2,51,021.00","6,41,636.00",2.56
+Telangana,Warangal,2016-2017,"60,180.00","1,82,310.00",3.03
+Telangana,Warangal,2017-2018,"73,140.00","1,24,338.00",1.7
+Telangana,Warangal,2018-2019,"69,337.00","1,83,131.00",2.64
+Telangana,Warangal,2019-2020,"69,508.00","1,96,005.00",2.82
+Telangana,Warangal,2020-2021,"80,825.00","1,82,104.00",2.25
+Telangana,Warangal,2021-2022,"44,353.00","1,38,277.00",3.12
+Telangana,Warangal,2022-2023,"54,785.00117","2,21,718.00474",8.1
+Telangana,Warangal urban,2016-2017,"30,041.00","91,007.00",3.03
+Telangana,Warangal urban,2017-2018,"35,408.00","79,980.00",2.26
+Telangana,Warangal urban,2018-2019,"32,838.00","73,789.00",2.25
+Telangana,Warangal urban,2019-2020,"30,888.00","82,161.00",2.66
+Telangana,Warangal urban,2020-2021,"33,567.00","50,256.00",1.5
+Telangana,Warangal urban,2021-2022,"31,957.00","81,958.00",2.56
+Telangana,Warangal urban,2022-2023,"37,266.0060","1,39,638.00225",7.5
+Telangana,Yadadri,2016-2017,"47,207.00","77,753.00",1.65
+Telangana,Yadadri,2017-2018,"67,848.00","1,66,826.00",2.46
+Telangana,Yadadri,2018-2019,"67,266.00","1,08,021.00",1.61
+Telangana,Yadadri,2019-2020,"69,609.00","2,15,515.00",3.1
+Telangana,Yadadri,2020-2021,"73,877.00","1,87,918.00",2.54
+Telangana,Yadadri,2021-2022,"50,714.00","1,19,029.00",2.35
+Telangana,Yadadri,2022-2023,"47,575.0013","1,51,121.0041",6.33
+Tripura,Dhalai,2013-2014,351,587,1.67
+Tripura,Dhalai,2014-2015,340,561,1.65
+Tripura,Dhalai,2015-2016,340,548,1.61
+Tripura,Dhalai,2016-2017,331,555,1.68
+Tripura,Dhalai,2017-2018,347,520,1.5
+Tripura,Dhalai,2018-2019,346,590.76,1.71
+Tripura,Dhalai,2019-2020,292,512.24,1.75
+Tripura,Dhalai,2020-2021,260,431,1.66
+Tripura,Dhalai,2021-2022,233,403,1.73
+Tripura,Dhalai,2022-2023,160,274,1.71
+Tripura,Gomati,2013-2014,121,165,1.36
+Tripura,Gomati,2014-2015,103,154,1.5
+Tripura,Gomati,2015-2016,97,141,1.45
+Tripura,Gomati,2016-2017,92,141,1.53
+Tripura,Gomati,2017-2018,55,61,1.11
+Tripura,Gomati,2018-2019,59,63.85,1.08
+Tripura,Gomati,2019-2020,64,70.27,1.1
+Tripura,Gomati,2020-2021,41,66,1.61
+Tripura,Gomati,2021-2022,30,39,1.3
+Tripura,Gomati,2022-2023,10,14,1.4
+Tripura,Khowai,2013-2014,69,103,1.49
+Tripura,Khowai,2014-2015,49,73,1.49
+Tripura,Khowai,2015-2016,49,75,1.53
+Tripura,Khowai,2016-2017,47,75,1.6
+Tripura,Khowai,2017-2018,39,53,1.36
+Tripura,Khowai,2018-2019,51,71.45,1.4
+Tripura,Khowai,2019-2020,47,66.1,1.41
+Tripura,Khowai,2020-2021,52,79,1.52
+Tripura,Khowai,2021-2022,41,60,1.46
+Tripura,Khowai,2022-2023,44,65,1.48
+Tripura,North tripura,2013-2014,277,353,1.27
+Tripura,North tripura,2014-2015,286,373,1.3
+Tripura,North tripura,2015-2016,290,415,1.43
+Tripura,North tripura,2016-2017,238,340,1.43
+Tripura,North tripura,2017-2018,223,327,1.47
+Tripura,North tripura,2018-2019,220,298.85,1.36
+Tripura,North tripura,2019-2020,244,323.9,1.33
+Tripura,North tripura,2020-2021,162,226,1.4
+Tripura,North tripura,2021-2022,135,183,1.36
+Tripura,North tripura,2022-2023,100,138,1.38
+Tripura,Sepahijala,2013-2014,13,20,1.54
+Tripura,Sepahijala,2014-2015,10,15,1.5
+Tripura,Sepahijala,2015-2016,13,20,1.54
+Tripura,Sepahijala,2016-2017,14,23,1.64
+Tripura,Sepahijala,2017-2018,12,18,1.5
+Tripura,Sepahijala,2018-2019,7,10.53,1.5
+Tripura,Sepahijala,2019-2020,10,10.7,1.07
+Tripura,Sepahijala,2020-2021,20,31,1.55
+Tripura,Sepahijala,2021-2022,5,5.8,1.16
+Tripura,Sepahijala,2022-2023,3,4,1.33
+Tripura,South tripura,2013-2014,63,86,1.37
+Tripura,South tripura,2014-2015,39,56,1.44
+Tripura,South tripura,2015-2016,67,93,1.39
+Tripura,South tripura,2016-2017,64,96,1.5
+Tripura,South tripura,2017-2018,86,117,1.36
+Tripura,South tripura,2018-2019,77,102.7,1.33
+Tripura,South tripura,2019-2020,47,71.12,1.51
+Tripura,South tripura,2020-2021,40,63,1.58
+Tripura,South tripura,2021-2022,58,82,1.41
+Tripura,South tripura,2022-2023,46,65,1.41
+Tripura,Unakoti,2013-2014,44,65,1.48
+Tripura,Unakoti,2014-2015,64,97,1.52
+Tripura,Unakoti,2015-2016,36,56,1.56
+Tripura,Unakoti,2016-2017,62,95,1.53
+Tripura,Unakoti,2017-2018,28,43,1.54
+Tripura,Unakoti,2018-2019,28,41.68,1.49
+Tripura,Unakoti,2019-2020,28,41.2,1.47
+Tripura,Unakoti,2020-2021,20,32,1.6
+Tripura,Unakoti,2021-2022,5,8,1.6
+Tripura,Unakoti,2022-2023,27,44,1.63
+Tripura,West tripura,2013-2014,11,16,1.45
+Tripura,West tripura,2014-2015,13,18,1.38
+Tripura,West tripura,2015-2016,12,17,1.42
+Tripura,West tripura,2016-2017,22,33,1.5
+Tripura,West tripura,2017-2018,15,21,1.4
+Tripura,West tripura,2018-2019,24,35.2,1.47
+Tripura,West tripura,2019-2020,28,42.98,1.54
+Tripura,West tripura,2020-2021,10,14,1.4
+Tripura,West tripura,2021-2022,19,28,1.47
+Uttar Pradesh,Agra,2013-2014,717,194,0.27
+Uttar Pradesh,Agra,2014-2015,"1,571.00",462,0.29
+Uttar Pradesh,Agra,2015-2016,"2,871.00","1,036.00",0.36
+Uttar Pradesh,Agra,2016-2017,338,118,0.35
+Uttar Pradesh,Agra,2017-2018,329,82,0.25
+Uttar Pradesh,Agra,2018-2019,293,115,0.39
+Uttar Pradesh,Agra,2019-2020,326,794.1,2.44
+Uttar Pradesh,Agra,2020-2021,309,658.82,2.13
+Uttar Pradesh,Agra,2021-2022,385,148,0.38
+Uttar Pradesh,Agra,2022-2023,390,149,0.38
+Uttar Pradesh,Aligarh,2013-2014,640,124,0.19
+Uttar Pradesh,Aligarh,2014-2015,"1,721.00",544,0.32
+Uttar Pradesh,Aligarh,2015-2016,"1,749.00",514,0.29
+Uttar Pradesh,Aligarh,2016-2017,"1,135.00",461,0.41
+Uttar Pradesh,Aligarh,2017-2018,641,190,0.3
+Uttar Pradesh,Aligarh,2018-2019,"2,045.00",658,0.32
+Uttar Pradesh,Aligarh,2019-2020,490,705.88,1.44
+Uttar Pradesh,Aligarh,2020-2021,612,"1,058.82",1.73
+Uttar Pradesh,Aligarh,2021-2022,873,336,0.38
+Uttar Pradesh,Aligarh,2022-2023,482,184,0.38
+Uttar Pradesh,Baghpat,2013-2014,38,9,0.24
+Uttar Pradesh,Baghpat,2014-2015,4,1,0.25
+Uttar Pradesh,Baghpat,2015-2016,6,2,0.33
+Uttar Pradesh,Baghpat,2016-2017,29,10,0.34
+Uttar Pradesh,Baghpat,2017-2018,24,9,0.38
+Uttar Pradesh,Baghpat,2018-2019,24,8,0.33
+Uttar Pradesh,Baghpat,2019-2020,22,52.9,2.4
+Uttar Pradesh,Baghpat,2020-2021,12,23.53,1.96
+Uttar Pradesh,Baghpat,2021-2022,35,13,0.37
+Uttar Pradesh,Baghpat,2022-2023,30,11,0.37
+Uttar Pradesh,Budaun,2013-2014,2,1,0.5
+Uttar Pradesh,Budaun,2015-2016,1,,0.0
+Uttar Pradesh,Budaun,2021-2022,2,1,0.5
+Uttar Pradesh,Bulandshahr,2013-2014,244,55,0.23
+Uttar Pradesh,Bulandshahr,2014-2015,224,67,0.3
+Uttar Pradesh,Bulandshahr,2015-2016,433,150,0.35
+Uttar Pradesh,Bulandshahr,2016-2017,202,72,0.36
+Uttar Pradesh,Bulandshahr,2017-2018,127,47,0.37
+Uttar Pradesh,Bulandshahr,2018-2019,178,61,0.34
+Uttar Pradesh,Bulandshahr,2019-2020,165,382.3,2.32
+Uttar Pradesh,Bulandshahr,2020-2021,154,329.41,2.14
+Uttar Pradesh,Bulandshahr,2021-2022,184,71,0.39
+Uttar Pradesh,Bulandshahr,2022-2023,160,61,0.38
+Uttar Pradesh,Etah,2013-2014,13,2,0.15
+Uttar Pradesh,Etah,2015-2016,27,9,0.33
+Uttar Pradesh,Etah,2016-2017,10,4,0.4
+Uttar Pradesh,Etah,2017-2018,2,1,0.5
+Uttar Pradesh,Etah,2018-2019,10,4,0.4
+Uttar Pradesh,Etah,2019-2020,7,17.6,2.51
+Uttar Pradesh,Etah,2021-2022,12,5,0.42
+Uttar Pradesh,Etah,2022-2023,4,2,0.5
+Uttar Pradesh,Firozabad,2013-2014,7,2,0.29
+Uttar Pradesh,Firozabad,2014-2015,21,6,0.29
+Uttar Pradesh,Firozabad,2015-2016,33,12,0.36
+Uttar Pradesh,Firozabad,2016-2017,14,5,0.36
+Uttar Pradesh,Firozabad,2017-2018,15,3,0.2
+Uttar Pradesh,Firozabad,2018-2019,9,4,0.44
+Uttar Pradesh,Firozabad,2019-2020,12,29.41,2.45
+Uttar Pradesh,Firozabad,2020-2021,12,23.53,1.96
+Uttar Pradesh,Firozabad,2021-2022,16,6,0.38
+Uttar Pradesh,Gautam buddha nagar,2018-2019,8,3,0.38
+Uttar Pradesh,Hardoi,2013-2014,6,1,0.17
+Uttar Pradesh,Hardoi,2019-2020,14,29.41,2.1
+Uttar Pradesh,Hardoi,2020-2021,14,29.41,2.1
+Uttar Pradesh,Hardoi,2021-2022,16,6,0.38
+Uttar Pradesh,Hathras,2013-2014,943,152,0.16
+Uttar Pradesh,Hathras,2014-2015,"1,173.00",333,0.28
+Uttar Pradesh,Hathras,2015-2016,"1,096.00",405,0.37
+Uttar Pradesh,Hathras,2016-2017,"1,251.00",420,0.34
+Uttar Pradesh,Hathras,2017-2018,"1,341.00",779,0.58
+Uttar Pradesh,Hathras,2018-2019,"1,408.00",441,0.31
+Uttar Pradesh,Hathras,2019-2020,848,"2,247.00",2.65
+Uttar Pradesh,Hathras,2020-2021,640,"1,664.71",2.6
+Uttar Pradesh,Hathras,2021-2022,"1,020.00",392,0.38
+Uttar Pradesh,Hathras,2022-2023,887,339,0.38
+Uttar Pradesh,Jaunpur,2013-2014,22,5,0.23
+Uttar Pradesh,Jhansi,2014-2015,73,22,0.3
+Uttar Pradesh,Kanpur nagar,2020-2021,2,5.88,2.94
+Uttar Pradesh,Kanpur nagar,2021-2022,2,1,0.5
+Uttar Pradesh,Kushi nagar,2013-2014,5,1,0.2
+Uttar Pradesh,Mathura,2013-2014,"1,217.00",328,0.27
+Uttar Pradesh,Mathura,2014-2015,"1,514.00",446,0.29
+Uttar Pradesh,Mathura,2015-2016,"1,415.00",511,0.36
+Uttar Pradesh,Mathura,2016-2017,"2,610.00",912,0.35
+Uttar Pradesh,Mathura,2017-2018,"1,617.00",403,0.25
+Uttar Pradesh,Mathura,2018-2019,"1,404.00",549,0.39
+Uttar Pradesh,Mathura,2019-2020,"1,301.00","3,170.50",2.44
+Uttar Pradesh,Mathura,2020-2021,"1,112.00","2,370.59",2.13
+Uttar Pradesh,Mathura,2021-2022,"1,489.00",572,0.38
+Uttar Pradesh,Mathura,2022-2023,"1,204.00",460,0.38
+Uttar Pradesh,Meerut,2013-2014,11,2,0.18
+Uttar Pradesh,Meerut,2014-2015,9,3,0.33
+Uttar Pradesh,Meerut,2015-2016,4,1,0.25
+Uttar Pradesh,Meerut,2016-2017,3,1,0.33
+Uttar Pradesh,Meerut,2018-2019,4,1,0.25
+Uttar Pradesh,Meerut,2020-2021,14,29.41,2.1
+Uttar Pradesh,Meerut,2021-2022,16,6,0.38
+Uttar Pradesh,Meerut,2022-2023,14,5,0.36
+Uttar Pradesh,Muzaffarnagar,2013-2014,25,6,0.24
+Uttar Pradesh,Muzaffarnagar,2015-2016,32,11,0.34
+Uttar Pradesh,Muzaffarnagar,2016-2017,28,10,0.36
+Uttar Pradesh,Muzaffarnagar,2017-2018,54,20,0.37
+Uttar Pradesh,Muzaffarnagar,2018-2019,268,92,0.34
+Uttar Pradesh,Muzaffarnagar,2020-2021,40,88.24,2.21
+Uttar Pradesh,Muzaffarnagar,2021-2022,46,18,0.39
+Uttar Pradesh,Muzaffarnagar,2022-2023,40,15,0.38
+Uttar Pradesh,Saharanpur,2013-2014,2,,0.0
+Uttar Pradesh,Saharanpur,2014-2015,7,2,0.29
+Uttar Pradesh,Saharanpur,2015-2016,12,4,0.33
+Uttar Pradesh,Saharanpur,2016-2017,15,5,0.33
+Uttar Pradesh,Saharanpur,2018-2019,6,2,0.33
+Uttar Pradesh,Saharanpur,2022-2023,7,3,0.43
+Uttar Pradesh,Sant kabeer nagar,2018-2019,1,1,1.0
+Uttar Pradesh,Sant ravidas nagar,2018-2019,18,6,0.33
+Uttar Pradesh,Sant ravidas nagar,2020-2021,35,76.47,2.18
+Uttar Pradesh,Shamli,2013-2014,9,2,0.22
+Uttar Pradesh,Shamli,2015-2016,9,3,0.33
+Uttar Pradesh,Shamli,2020-2021,14,29.41,2.1
+Uttar Pradesh,Sitapur,2018-2019,23,8,0.35
+West Bengal,24 paraganas north,2013-2014,77,239,3.1
+West Bengal,24 paraganas south,2013-2014,287,"1,079.00",3.76
+West Bengal,24 paraganas south,2014-2015,615,"1,574.00",2.56
+West Bengal,24 paraganas south,2015-2016,451,"1,326.00",2.94
+West Bengal,24 paraganas south,2016-2017,275,872,3.17
+West Bengal,24 paraganas south,2017-2018,176,866,4.92
+West Bengal,24 paraganas south,2018-2019,360,"1,753.00",4.87
+West Bengal,24 paraganas south,2019-2020,300,588,1.96
+West Bengal,24 paraganas south,2020-2021,296,873,2.95
+West Bengal,24 paraganas south,2021-2022,80,254,3.18
+West Bengal,24 paraganas south,2022-2023,80,404,5.05
+West Bengal,Medinipur east,2019-2020,5,2,0.4

@@ -1,0 +1,65 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {section}{\numberline {2}Conceptual Framework}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Shock Absorption (Resilience)}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Distributional Equity}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Income Effect (Welfare)}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Labor Market Distortion (Efficiency)}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Structural Persistence (Dynamic Effects)}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Bringing the Five Pillars Together}{7}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Data and Variable Construction}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data Sources and Coverage}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Income and Consumption Variables}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Agricultural Outcomes}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Rainfall Data}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}MGNREGA Variables}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Demographics and Poverty Indicators}{8}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Panel Construction}{9}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Final Dataset Overview}{9}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Exploratory Data Analysis}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Trends in Employment and Participation}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Fiscal Expansion and Wage Dynamics}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Income, Productivity, and Asset Trends}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Correlation Patterns and Distribution Across Districts}{13}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Summary of Key Patterns}{13}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Empirical Methodology}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Panel Framework}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Pillar 1: Shock Absorption}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Pillar 2: Distributional Effects}{15}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Pillar 3: Income Effects}{15}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Pillar 4: Labor Market Distortion}{15}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Pillar 5: Structural Persistence}{16}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Index Construction}{16}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Interpretation Strategy}{16}{subsection.5.8}%
+\contentsline {section}{\numberline {6}Identification Strategy and Limitations}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Identification Strategy}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Potential Sources of Bias}{17}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Measurement Limitations}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Index Construction Assumptions}{18}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Scope and External Validity}{18}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Future Research}{18}{subsection.6.6}%
+\contentsline {section}{\numberline {7}Results and Multi-Dimensional Analysis}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Time Evolution of MGNREGA Performance}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Multi-Dimensional Performance: Radar Analysis}{20}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Spatial Variation in Program Performance}{21}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Pillar-wise Results}{22}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Impact of COVID-19}{22}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Heterogeneity Across Regions}{22}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Dynamic Effects}{23}{subsection.7.7}%
+\contentsline {subsection}{\numberline {7.8}Summary}{23}{subsection.7.8}%
+\contentsline {section}{\numberline {8}Economic Interpretation and Policy Insights}{23}{section.8}%
+\contentsline {subsection}{\numberline {8.1}MGNREGA as a Stabilization Mechanism}{23}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Trade-offs Between Welfare and Efficiency}{23}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Uneven Distributional Outcomes}{23}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Limited Structural Transformation}{24}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Regional Variation and Policy Design}{24}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Implications for Policy}{24}{subsection.8.6}%
+\contentsline {section}{\numberline {9}Conclusion}{24}{section.9}%
+\contentsline {section}{\numberline {A}Extended Exploratory Analysis}{26}{appendix.A}%
+\contentsline {section}{\numberline {B}MGNREGA Data Collection and Processing Pipeline}{28}{appendix.B}%
+\contentsline {section}{\numberline {C}Additional Spatial Visualizations}{28}{appendix.C}%
+\contentsline {section}{\numberline {D}Robustness Checks and Diagnostics}{33}{appendix.D}%
+\contentsline {subsection}{\numberline {D.1}Correlation Across Pillars}{33}{subsection.D.1}%
+\contentsline {subsection}{\numberline {D.2}Variance of Pillars}{34}{subsection.D.2}%
+\contentsline {subsection}{\numberline {D.3}Alternative Specifications}{34}{subsection.D.3}%
+\contentsline {section}{\numberline {E}Variable Definitions}{34}{appendix.E}%
+\contentsline {section}{\numberline {F}References}{35}{appendix.F}%

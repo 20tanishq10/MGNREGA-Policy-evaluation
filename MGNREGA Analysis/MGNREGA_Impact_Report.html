@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MGNREGA Impact Report (Publishable)</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; color: #222; line-height: 1.45; }
+    h1, h2, h3 { color: #0f2742; }
+    .card { border: 1px solid #d9e2ec; border-radius: 8px; padding: 14px 16px; margin-bottom: 16px; background: #fbfdff; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+    .kpi { font-size: 28px; font-weight: 700; color: #113d6b; }
+    .muted { color: #546e7a; }
+    .table { border-collapse: collapse; width: 100%; font-size: 13px; margin: 8px 0 16px; }
+    .table th, .table td { border: 1px solid #dfe7ef; padding: 6px 8px; text-align: left; }
+    .table th { background: #eef4fb; }
+    img { max-width: 100%; border: 1px solid #d9e2ec; border-radius: 6px; }
+    code { background: #f1f5f9; padding: 1px 4px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>MGNREGA Impact Study Report (Publishable Refined Version)</h1>
+  <p class="muted">Built from final refinement outputs with improved shock identification, rescaled index design, dynamic response, and validation checks.</p>
+  <div class="grid">
+    <div class="card"><div class="muted">Regions</div><div class="kpi">256</div></div>
+    <div class="card"><div class="muted">Period</div><div class="kpi">2015-2024</div></div>
+    <div class="card"><div class="muted">Max |Pillar Corr|</div><div class="kpi">0.8317</div></div>
+  </div>
+  <div class="card">
+    <h3>Method Summary (Final Refinement)</h3>
+    <ul>
+      <li>Refined continuous + extreme shock specification for Pillar 1.</li>
+      <li>Pillar-wise z-standardization then min-max rescaling before index construction.</li>
+      <li>Distortion uses elasticity ratio and welfare inversion.</li>
+      <li>Structural pillar interpreted as persistence via lagged MGNREGA-income relation.</li>
+      <li>Advanced heterogeneity and dynamic lag/current/lead response included.</li>
+    </ul>
+  </div>
+  <h2>Validation Checks</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>check</th>
+      <th>value</th>
+      <th>pass</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>max_pairwise_corr</td>
+      <td>0.8317</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>std_shock</td>
+      <td>0.0791</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>std_distribution</td>
+      <td>0.2042</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>std_income</td>
+      <td>0.1400</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>std_distortion</td>
+      <td>0.1093</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>std_structural_persistence</td>
+      <td>0.1631</td>
+      <td>1.0000</td>
+    </tr>
+    <tr>
+      <td>mean_abs_equal_weighted_gap</td>
+      <td>0.0177</td>
+      <td>1.0000</td>
+    </tr>
+  </tbody>
+</table>
+  <h2>Time Evolution</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>year</th>
+      <th>shock</th>
+      <th>distribution</th>
+      <th>income</th>
+      <th>distortion</th>
+      <th>structural_persistence</th>
+      <th>index_equal_rescaled</th>
+      <th>index_weighted_rescaled</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2015.0000</td>
+      <td>0.6913</td>
+      <td>0.6994</td>
+      <td>0.5717</td>
+      <td>0.3054</td>
+      <td>0.1534</td>
+      <td>0.4843</td>
+      <td>0.5035</td>
+    </tr>
+    <tr>
+      <td>2016.0000</td>
+      <td>0.6766</td>
+      <td>0.6951</td>
+      <td>0.5664</td>
+      <td>0.3181</td>
+      <td>0.2014</td>
+      <td>0.4915</td>
+      <td>0.5094</td>
+    </tr>
+    <tr>
+      <td>2017.0000</td>
+      <td>0.6711</td>
+      <td>0.6899</td>
+      <td>0.5521</td>
+      <td>0.3307</td>
+      <td>0.2179</td>
+      <td>0.4923</td>
+      <td>0.5093</td>
+    </tr>
+    <tr>
+      <td>2018.0000</td>
+      <td>0.6767</td>
+      <td>0.6604</td>
+      <td>0.5256</td>
+      <td>0.3329</td>
+      <td>0.2230</td>
+      <td>0.4837</td>
+      <td>0.5009</td>
+    </tr>
+    <tr>
+      <td>2019.0000</td>
+      <td>0.6733</td>
+      <td>0.6806</td>
+      <td>0.5777</td>
+      <td>0.3247</td>
+      <td>0.2406</td>
+      <td>0.4994</td>
+      <td>0.5168</td>
+    </tr>
+    <tr>
+      <td>2020.0000</td>
+      <td>0.6681</td>
+      <td>0.5767</td>
+      <td>0.5234</td>
+      <td>0.3662</td>
+      <td>0.2285</td>
+      <td>0.4726</td>
+      <td>0.4877</td>
+    </tr>
+    <tr>
+      <td>2021.0000</td>
+      <td>0.6728</td>
+      <td>0.6139</td>
+      <td>0.5381</td>
+      <td>0.3505</td>
+      <td>0.3116</td>
+      <td>0.4974</td>
+      <td>0.5135</td>
+    </tr>
+    <tr>
+      <td>2022.0000</td>
+      <td>0.6693</td>
+      <td>0.6421</td>
+      <td>0.5520</td>
+      <td>0.3459</td>
+      <td>0.2779</td>
+      <td>0.4974</td>
+      <td>0.5136</td>
+    </tr>
+    <tr>
+      <td>2023.0000</td>
+      <td>0.6649</td>
+      <td>0.6142</td>
+      <td>0.5146</td>
+      <td>0.3604</td>
+      <td>0.2601</td>
+      <td>0.4829</td>
+      <td>0.4981</td>
+    </tr>
+    <tr>
+      <td>2024.0000</td>
+      <td>0.6711</td>
+      <td>0.6547</td>
+      <td>0.5549</td>
+      <td>0.3373</td>
+      <td>0.2841</td>
+      <td>0.5004</td>
+      <td>0.5171</td>
+    </tr>
+  </tbody>
+</table>
+  <div class="grid">
+    <div><img src="final_outputs_refined/refined_time_trend_index.png" alt="Refined Time Trend Index" /></div>
+    <div><img src="final_outputs_refined/refined_time_trend_pillars.png" alt="Refined Time Trend Pillars" /></div>
+  </div>
+  <h2>COVID Comparison</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>period</th>
+      <th>shock</th>
+      <th>distribution</th>
+      <th>income</th>
+      <th>distortion</th>
+      <th>structural_persistence</th>
+      <th>index_equal_rescaled</th>
+      <th>index_weighted_rescaled</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Post-COVID</td>
+      <td>0.6693</td>
+      <td>0.6203</td>
+      <td>0.5366</td>
+      <td>0.3521</td>
+      <td>0.2725</td>
+      <td>0.4901</td>
+      <td>0.5060</td>
+    </tr>
+    <tr>
+      <td>Pre-COVID</td>
+      <td>0.6778</td>
+      <td>0.6851</td>
+      <td>0.5587</td>
+      <td>0.3223</td>
+      <td>0.2073</td>
+      <td>0.4902</td>
+      <td>0.5080</td>
+    </tr>
+  </tbody>
+</table>
+  <img src="final_outputs_refined/refined_pre_post_covid_pillars.png" alt="Refined COVID Comparison" />
+  <h2>Radar Profiles</h2>
+  <div class="grid">
+    <div><img src="final_outputs_refined/refined_radar_overall.png" alt="Refined Radar Overall" /></div>
+    <div><img src="final_outputs_refined/refined_radar_pre_covid.png" alt="Refined Radar Pre" /></div>
+    <div><img src="final_outputs_refined/refined_radar_post_covid.png" alt="Refined Radar Post" /></div>
+  </div>
+  <h2>Heterogeneity Analysis</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>group</th>
+      <th>index_equal_rescaled</th>
+      <th>index_weighted_rescaled</th>
+      <th>split</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Higher Income</td>
+      <td>0.4893</td>
+      <td>0.5061</td>
+      <td>income_group</td>
+    </tr>
+    <tr>
+      <td>Low Income (Bottom 30%)</td>
+      <td>0.4927</td>
+      <td>0.5096</td>
+      <td>income_group</td>
+    </tr>
+    <tr>
+      <td>High Shock (Top 30%)</td>
+      <td>0.4921</td>
+      <td>0.5093</td>
+      <td>shock_group</td>
+    </tr>
+    <tr>
+      <td>Lower Shock</td>
+      <td>0.4892</td>
+      <td>0.5059</td>
+      <td>shock_group</td>
+    </tr>
+    <tr>
+      <td>mgnrega_x_low_income</td>
+      <td>-1123.5826</td>
+      <td>0.0030</td>
+      <td>interaction_regression</td>
+    </tr>
+  </tbody>
+</table>
+  <h2>Dynamic Response</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>term</th>
+      <th>coef</th>
+      <th>p_value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>mgnrega_lag1_z</td>
+      <td>587.7708</td>
+      <td>0.0159</td>
+    </tr>
+    <tr>
+      <td>mgnrega_z</td>
+      <td>387.2366</td>
+      <td>0.0448</td>
+    </tr>
+    <tr>
+      <td>mgnrega_lead1_z</td>
+      <td>-47.0117</td>
+      <td>0.8398</td>
+    </tr>
+  </tbody>
+</table>
+  <h2>Correlation Matrix</h2>
+  <table class="dataframe table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>shock</th>
+      <th>distribution</th>
+      <th>income</th>
+      <th>distortion</th>
+      <th>structural_persistence</th>
+      <th>index_equal_rescaled</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.0000</td>
+      <td>-0.0000</td>
+      <td>0.2908</td>
+      <td>-0.6923</td>
+      <td>-0.2863</td>
+      <td>-0.0168</td>
+    </tr>
+    <tr>
+      <td>-0.0000</td>
+      <td>1.0000</td>
+      <td>0.7841</td>
+      <td>-0.6646</td>
+      <td>-0.8317</td>
+      <td>0.6998</td>
+    </tr>
+    <tr>
+      <td>0.2908</td>
+      <td>0.7841</td>
+      <td>1.0000</td>
+      <td>-0.7808</td>
+      <td>-0.7231</td>
+      <td>0.7935</td>
+    </tr>
+    <tr>
+      <td>-0.6923</td>
+      <td>-0.6646</td>
+      <td>-0.7808</td>
+      <td>1.0000</td>
+      <td>0.7511</td>
+      <td>-0.4502</td>
+    </tr>
+    <tr>
+      <td>-0.2863</td>
+      <td>-0.8317</td>
+      <td>-0.7231</td>
+      <td>0.7511</td>
+      <td>1.0000</td>
+      <td>-0.3213</td>
+    </tr>
+    <tr>
+      <td>-0.0168</td>
+      <td>0.6998</td>
+      <td>0.7935</td>
+      <td>-0.4502</td>
+      <td>-0.3213</td>
+      <td>1.0000</td>
+    </tr>
+  </tbody>
+</table>
+  <h2>Core Output Files</h2>
+  <ul>
+    <li><code>final_outputs_refined/pillar1_shock_score_refined.csv</code></li>
+    <li><code>final_outputs_refined/pillar4_distortion_score_refined.csv</code></li>
+    <li><code>final_outputs_refined/pillar5_structural_persistence_score.csv</code></li>
+    <li><code>final_outputs_refined/composite_index_rescaled.csv</code></li>
+    <li><code>final_outputs_refined/heterogeneity_advanced.csv</code></li>
+    <li><code>final_outputs_refined/dynamic_effects.csv</code></li>
+    <li><code>final_outputs_refined/validation_checks.csv</code></li>
+  </ul>
+</body>
+</html>

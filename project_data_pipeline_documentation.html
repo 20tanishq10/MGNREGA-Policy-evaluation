@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MGNREGA Project Data Pipeline Documentation</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.5; margin: 24px; color: #1f2937; }
+    h1, h2, h3 { color: #0f172a; }
+    h1 { border-bottom: 2px solid #cbd5e1; padding-bottom: 8px; }
+    .meta { background: #f8fafc; padding: 12px; border: 1px solid #e2e8f0; border-radius: 6px; margin-bottom: 20px; }
+    .card { border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; margin-bottom: 16px; background: #ffffff; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; margin-bottom: 12px; }
+    th, td { border: 1px solid #cbd5e1; padding: 8px; text-align: left; vertical-align: top; }
+    th { background: #f1f5f9; }
+    code { background: #f1f5f9; padding: 2px 4px; border-radius: 4px; }
+    ul { margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <h1>MGNREGA Project Data Pipeline Documentation</h1>
+
+  <div class="meta">
+    <p><strong>Prepared from:</strong> project notebooks and CSVs in this folder.</p>
+    <p><strong>Final panel file:</strong> <code>Final Datasets/final_panel_data.csv</code></p>
+    <p><strong>Final panel shape:</strong> 3,223 rows, 29 columns (293 districts x 11 years)</p>
+    <p><strong>Final panel years:</strong> 2014-2024 (annual frequency)</p>
+  </div>
+
+  <h2>1) Data Sources and Coverage</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Variable Group</th>
+        <th>Primary Source</th>
+        <th>Processed File Used in Panel</th>
+        <th>Raw/Prepared Coverage Before Final Intersection</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Income</td>
+        <td>CMIE Consumer Pyramids (household-level income)</td>
+        <td><code>Final Datasets/district_year_income.csv</code></td>
+        <td>528 districts, 2014-2025 (annual)</td>
+      </tr>
+      <tr>
+        <td>Consumption</td>
+        <td>CMIE Consumer Pyramids (household-level adjusted expenditure)</td>
+        <td><code>Final Datasets/annual_consumption_by_district.csv</code></td>
+        <td>528 districts, 2014-2025 (annual)</td>
+      </tr>
+      <tr>
+        <td>Asset Ownership</td>
+        <td>CMIE Consumer Pyramids asset indicators</td>
+        <td><code>Final Datasets/district_asset_index.csv</code></td>
+        <td>526 districts, 2014-2025 (annual)</td>
+      </tr>
+      <tr>
+        <td>Crop Yield / Agriculture</td>
+        <td>Directorate of Economics and Statistics (India), crop-wise district files</td>
+        <td><code>Final Datasets/district_agriculture_panel.csv</code></td>
+        <td>637 districts, 2013-2025 (annual)</td>
+      </tr>
+      <tr>
+        <td>MPI</td>
+        <td>NITI Aayog district MPI reporting (NFHS-based)</td>
+        <td><code>Final Datasets/District-Level MPI.csv</code></td>
+        <td>704 districts (static district-level; no year)</td>
+      </tr>
+      <tr>
+        <td>Population demographics</td>
+        <td>Census 2011 (rural population and area)</td>
+        <td><code>Final Datasets/rural_population_area.csv</code></td>
+        <td>640 districts (static district-level; no year)</td>
+      </tr>
+      <tr>
+        <td>Rainfall</td>
+        <td>IMD Pune gridded rainfall NetCDF + district polygons</td>
+        <td><code>Final Datasets/district_rainfall_2014_2025.csv</code></td>
+        <td>659 districts, 2014-2025 (annual totals in mm)</td>
+      </tr>
+      <tr>
+        <td>MGNREGA (Employment / Wage / SC-ST)</td>
+        <td>MGNREGA web portal scraping (Outlays &amp; Outcomes tables)</td>
+        <td><code>Final Datasets/mgnrega_employment.csv</code>, <code>mgnrega_wage.csv</code>, <code>mgnrega_sc-st.csv</code></td>
+        <td>Employment: 760 districts; Wage: 764; SC-ST: 754; years 2014-2025</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>2) Source-Wise Preprocessing and Processing</h2>
+
+  <div class="card">
+    <h3>CMIE Income (District-Year)</h3>
+    <p><strong>Notebook:</strong> <code>Income/Income.ipynb</code></p>
+    <ul>
+      <li>Input loaded from <code>Income.csv</code> (household-level CMIE records).</li>
+      <li>Parsed month strings into datetime, then extracted <code>YEAR</code>.</li>
+      <li>Built weighted income variable: <code>TOT_INC * R_HH_WGT_MS</code>.</li>
+      <li>Aggregated by <code>DISTRICT, YEAR</code>.</li>
+      <li>Computed weighted district-year mean income as <code>weighted_tot_inc_sum / weights_sum</code>.</li>
+      <li>Exported to district-year file (<code>district_year_income.csv</code>; later standardized in final folder).</li>
+    </ul>
+    <p><strong>Final panel variable:</strong> <code>Total_Income</code> (renamed from source in panel merge)</p>
+  </div>
+
+  <div class="card">
+    <h3>CMIE Consumption (District-Year)</h3>
+    <p><strong>Notebook:</strong> <code>Consumption/Consumption-Aggregate.ipynb</code></p>
+    <ul>
+      <li>Input loaded from <code>ConsumForCAPM.csv</code>.</li>
+      <li>Used household expenditure fields (especially <code>ADJ_TOT_EXP</code>).</li>
+      <li>Built annual district aggregation and saved as <code>annual_consumption_by_district.csv</code>.</li>
+      <li>Notebook also includes monthly and national-level aggregation explorations.</li>
+    </ul>
+    <p><strong>Final panel variable:</strong> <code>ADJ_TOT_EXP</code></p>
+  </div>
+
+  <div class="card">
+    <h3>CMIE Asset Ownership Index</h3>
+    <p><strong>Notebook:</strong> <code>Asset Ownership/Asset Onwership.ipynb</code></p>
+    <ul>
+      <li>Constructed district-year asset ownership percentages using household weights.</li>
+      <li>Created binary indicators for available household assets.</li>
+      <li>Aggregated weighted asset possession rates at <code>STATE-DISTRICT-YEAR</code>.</li>
+      <li>Applied PCA on asset percentage variables; first component used as asset index.</li>
+      <li>Min-max normalized PCA index to 0-1 scale as <code>asset_index_0_1</code>.</li>
+      <li>Exported <code>DISTRICT, YEAR, asset_index_0_1</code> as <code>district_asset_index.csv</code>.</li>
+    </ul>
+    <p><strong>Final panel variable:</strong> <code>asset_index_0_1</code></p>
+  </div>
+
+  <div class="card">
+    <h3>Crop Yield / Agriculture Panel (DES India)</h3>
+    <p><strong>Notebook:</strong> <code>Crop Yeild Data/aggregator.ipynb</code></p>
+    <ul>
+      <li>Loaded crop-wise raw files (rice, cotton, arhar, gram, pulses, sugarcane).</li>
+      <li>Converted area/production numeric strings (including comma cleanup).</li>
+      <li>Forward-filled state/district labels where blanks existed after multi-row table formats.</li>
+      <li>Cleaned numbering prefixes from district/state names.</li>
+      <li>Merged all crop tables by <code>State, District, Year</code> (outer merge).</li>
+      <li>Constructed totals:
+        <ul>
+          <li><code>total_area = rice + cotton + arhar + sugarcane area</code></li>
+          <li><code>total_production = rice + cotton + arhar + sugarcane production</code></li>
+        </ul>
+      </li>
+      <li>Filtered districts requiring required year continuity; added future years then linearly interpolated by district.</li>
+      <li>Computed <code>agri_yield_index = total_production / total_area</code>.</li>
+      <li>Exported as <code>district_agriculture_panel.csv</code>.</li>
+    </ul>
+    <p><strong>Final panel variables:</strong> <code>total_area</code>, <code>total_production</code>, <code>agri_yield_index</code></p>
+  </div>
+
+  <div class="card">
+    <h3>Rainfall (IMD Pune)</h3>
+    <p><strong>Notebook:</strong> <code>Rainfall Data/data-extraction.ipynb</code></p>
+    <ul>
+      <li>Loaded district boundaries from <code>india_districts_merged.geojson</code>.</li>
+      <li>Read annual IMD NetCDF files (<code>RF25_ind{year}_rfp25.nc</code>) for 2014-2025.</li>
+      <li>Summed daily gridded rainfall into annual raster totals.</li>
+      <li>Computed district-level zonal mean annual rainfall (mm) using raster stats.</li>
+      <li>Exported district-year rainfall to <code>district_rainfall_2014_2025.csv</code>.</li>
+    </ul>
+    <p><strong>Final panel variable:</strong> <code>Annual_Rainfall_mm</code></p>
+  </div>
+
+  <div class="card">
+    <h3>MPI (NITI Aayog) and Census 2011 Population</h3>
+    <p><strong>Integrated in:</strong> <code>Final Datasets/panel_data_construction.ipynb</code></p>
+    <ul>
+      <li>MPI read from <code>District-Level MPI.csv</code>.</li>
+      <li>MPI columns standardized; duplicate district rows averaged (to combine NFHS-based variants).</li>
+      <li>Population read from <code>rural_population_area.csv</code>, numeric cleanup for comma-formatted values.</li>
+      <li>Population renamed to <code>Rural_Population</code> and <code>Area_sqkm</code> (where available).</li>
+      <li>Both treated as static district-level datasets and left-joined after panel construction.</li>
+    </ul>
+    <p><strong>Final panel variables:</strong> <code>NFHS-4_MPI</code>, <code>NFHS-5_MPI</code>, <code>Rural_Population</code>, <code>Area_sqkm</code></p>
+  </div>
+
+  <h2>3) MGNREGA Scraping and Engineering (Detailed)</h2>
+  <div class="card">
+    <p><strong>Main notebook:</strong> <code>MGNREGA DATA/MGNREGA R7 1.2/MGNREGA-Web-scrapper.ipynb</code></p>
+    <p><strong>Supporting merge notebook:</strong> <code>MGNREGA DATA/MGNREGA R7 1.2/data-merge-1.ipynb</code></p>
+
+    <h3>3.1 Scraping design</h3>
+    <ul>
+      <li>Uses Selenium + BeautifulSoup.</li>
+      <li>Automates login/captcha by reading hidden captcha value (<code>hfCaptcha</code>) and submitting it.</li>
+      <li>Enumerates financial years from dropdown and filters to 2014-15 onward.</li>
+      <li>For each year and each state:
+        <ul>
+          <li>Re-opens page to avoid stale session state.</li>
+          <li>Selects year and state dropdowns.</li>
+          <li>Clicks <code>Outlays &amp; Outcomes</code> report link.</li>
+          <li>Parses resulting HTML tables; picks largest table as district report table.</li>
+          <li>Selects required columns by position index and renames them to wage-related fields.</li>
+          <li>Adds year and state columns, drops table-total rows, and saves CSV per state-year.</li>
+        </ul>
+      </li>
+      <li>Files are stored in <code>MGNREGA_DATA/{year}/{STATE}.csv</code>.</li>
+    </ul>
+
+    <h3>3.2 Robustness and recovery cycle</h3>
+    <ul>
+      <li>A missing-job scanner checks all expected year-state files.</li>
+      <li>Writes missing combinations to <code>missing_jobs.txt</code>.</li>
+      <li>Recovery loop re-runs failed year-state jobs one by one in fresh browser sessions.</li>
+      <li>Notebook output indicates targeted recovery for states/years that initially failed table extraction.</li>
+    </ul>
+
+    <h3>3.3 Post-scrape consolidation</h3>
+    <ul>
+      <li><code>data-merge-1.ipynb</code> merges all state CSVs into one file per year in <code>MGNREGA_DATA/Merged</code>.</li>
+      <li>Additional cleaning removes rows with invalid/non-numeric second column values in merged outputs.</li>
+      <li>These merged outputs are the base for MGNREGA panel indicators used later in final datasets.</li>
+    </ul>
+
+    <h3>3.4 SC-ST interpolation patch</h3>
+    <ul>
+      <li>In <code>Final Datasets/panel_data_construction.ipynb</code>, missing SC-ST values were explicitly patched for Karnataka, West Bengal, and Ladakh.</li>
+      <li>West Bengal district aliases were consolidated first (old/new naming harmonization).</li>
+      <li>District-year full grids (2014-2024) were created for target states and missing values linearly interpolated.</li>
+      <li>Negative values clipped to 0 and rounded.</li>
+    </ul>
+  </div>
+
+  <h2>4) How Final Panel Data Was Built</h2>
+  <div class="card">
+    <p><strong>Notebook:</strong> <code>Final Datasets/panel_data_construction.ipynb</code></p>
+    <ol>
+      <li><strong>Load and audit</strong> all panel datasets (MGNREGA, agriculture, asset, rainfall, income, consumption).</li>
+      <li><strong>Normalize keys:</strong> trim/uppercase district names; parse years from financial-year strings.</li>
+      <li><strong>Apply district alias map</strong> for cross-source harmonization (state split names, old/new district spellings, etc.).</li>
+      <li><strong>Fuzzy diagnostics</strong> run to identify unresolved district naming mismatches.</li>
+      <li><strong>Define common years:</strong> target years 2014-2024, then intersect available years across all panel datasets.</li>
+      <li><strong>Balanced district selection:</strong> keep only districts that have all common years in every panel dataset.</li>
+      <li><strong>Sequential inner merge</strong> on <code>District, Year</code> for:
+        <ul>
+          <li>Employment -> Wage -> SC-ST -> Agriculture -> Asset -> Rainfall -> Income -> Consumption</li>
+        </ul>
+      </li>
+      <li><strong>Attach static data</strong> (MPI + Census population/area) using district-level left joins.</li>
+      <li><strong>Quality checks:</strong> duplicate district-year checks, balance checks, missing-value diagnostics, coverage plots.</li>
+      <li><strong>Export outputs:</strong> <code>final_panel_data.csv</code> and <code>common_districts.csv</code>.</li>
+    </ol>
+  </div>
+
+  <h2>5) Final Panel: Time Period, Frequency, and Variables</h2>
+  <div class="card">
+    <p><strong>Time period:</strong> 2014 to 2024</p>
+    <p><strong>Frequency:</strong> Annual district panel</p>
+    <p><strong>Panel extent:</strong> 293 districts, 21 states, balanced over 11 years</p>
+    <p><strong>Row count check:</strong> 293 x 11 = 3,223 rows (balanced panel)</p>
+    <p><strong>Variables included:</strong></p>
+    <ul>
+      <li>MGNREGA labor indicators (households, employment demand/availing, persondays, women participation, SC/ST workers)</li>
+      <li>MGNREGA wage and expenditure indicators</li>
+      <li>Agriculture totals and yield index</li>
+      <li>Asset ownership index (0-1)</li>
+      <li>Annual rainfall</li>
+      <li>Income and consumption (CMIE-derived district-year aggregates)</li>
+      <li>Static MPI and Census rural demographics</li>
+    </ul>
+  </div>
+
+  <h2>6) Notes and Interpretation Guidance</h2>
+  <div class="card">
+    <ul>
+      <li>The final panel is a strict intersection panel, so district count is lower than source-specific coverage.</li>
+      <li>Static variables (MPI, Census population/area) do not vary by year but are repeated across years after merge.</li>
+      <li>Some components required interpolation/harmonization (notably SC-ST MGNREGA series and agriculture future-year completion).</li>
+      <li>District naming harmonization is a major contributor to successful merging; alias maps are core to reproducibility.</li>
+    </ul>
+  </div>
+</body>
+</html>
